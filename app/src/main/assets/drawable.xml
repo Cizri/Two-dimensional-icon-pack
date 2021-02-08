@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <!--title="分类,这里以首字母为例"-->
+    <!--<item drawable="图标文件名字(只能含有小写字母，下划线，数字，必须以字母开头)，不含后缀名" />-->
+
+    <category title="系统" />
+    <item
+        drawable="excean_kxqp"
+        name="99手游加速器"
+        />
+
+    <item
+        drawable="alibaba_1688"
+        name="阿里巴巴"
+        />
+
+    <item
+        drawable="iqiyi"
+        name="爱奇艺"
+        />
+
+    <item
+        drawable="baidu_map"
+        name="百度地图"
+        />
+
+    <item
+        drawable="supercell_kunlun"
+        name="部落冲突"
+        />
+
+    <item
+        drawable="google_map"
+        name="谷歌地图"
+        />
+
+    <item
+        drawable="didi"
+        name="滴滴出行"
+        />
+
+    <item
+        drawable="ct_client"
+        name="电信营业厅"
+        />
+
+    <item
+        drawable="aweme"
+        name="抖音"
+        />
+
+    <item
+        drawable="aweme_lite"
+        name="抖音极速版"
+        />
+
+    <item
+        drawable="douyu"
+        name="斗鱼"
+        />
+
+    <item
+        drawable="duokan_reader"
+        name="多看阅读"
+        />
+
+    <item
+        drawable="google_translate"
+        name="翻译"
+        />
+
+    <item
+        drawable="minimap"
+        name="高德地图"
+        />
+
+    <item
+        drawable="han_gjzs"
+        name="搞机助手"
+        />
+
+    <item
+        drawable="lge_updatecenter"
+        name="更新中心"
+        />
+
+    <item
+        drawable="tencent_pubgmhd"
+        name="和平精英"
+        />
+
+    <item
+        drawable="tencent_gamehelper_pg"
+        name="和平营地"
+        />
+
+    <item
+        drawable="brevent"
+        name="黑阈"
+        />
+
+    <item
+        drawable="deepink_reader"
+        name="厚墨"
+        />
+
+    <item
+        drawable="duowan_kiwi"
+        name="虎牙直播"
+        />
+
+    <item
+        drawable="google_calculator"
+        name="计算器"
+        />
+
+    <item
+        drawable="jym_mall"
+        name="交易猫"
+        />
+
+    <item
+        drawable="article_news"
+        name="今日头条"
+        />
+
+    <item
+        drawable="jingdong"
+        name="京东"
+        />
+
+    <item
+        drawable="ninegame"
+        name="九游游戏"
+        />
+
+    <item
+        drawable="coolapk"
+        name="酷安"
+        />
+
+    <item
+        drawable="smile_gifmaker"
+        name="快手"
+        />
+
+    <item
+        drawable="gamelofe_glofta9hm"
+        name="狂野飙车9"
+        />
+
+    <item
+        drawable="tencent_mm"
+        name="微信"
+        />
+
+    <item
+        drawable="netease_cloudmusic"
+        name="网易云音乐"
+        />
+
+    <item
+        drawable="sticktoit"
+        name="老王VPN"
+        />
+
+    <item
+        drawable="lge_contacts"
+        name="联系人"
+        />
+
+    <item
+        drawable="sankuai_meituan"
+        name="美团"
+        />
+
+    <item
+        drawable="sankuai_meituan_takeoutnew"
+        name="美团外卖"
+        />
+
+    <item
+        drawable="sup_superb"
+        name="皮皮虾"
+        />
+
+    <item
+        drawable="xunmeg_pinduoduo"
+        name="拼多多"
+        />
+
+    <item
+        drawable="gorgeous_lite"
+        name="轻颜相机"
+        />
+
+    <item
+        drawable="farplace_qingzhuo"
+        name="清浊"
+        />
+
+    <item
+        drawable="lge_calendar_task"
+        name="任务"
+        />
+
+    <item
+        drawable="lge_calendar"
+        name="日历"
+        />
+
+    <item
+        drawable="lge_settings"
+        name="设置"
+        />
+
+    <item
+        drawable="lge_contacts_phone"
+        name="手机"
+        />
+
+    <item
+        drawable="taobao_tao_welcome"
+        name="手机淘宝"
+        />
+
+    <item
+        drawable="sinovatech_unicom"
+        name="手机营业厅"
+        />
+
+    <item
+        drawable="administrator"
+        name="搜图神器"
+        />
+
+    <item
+        drawable="tencent_xriver"
+        name="腾讯加速器"
+        />
+
+    <item
+        drawable="tencent_qqlive"
+        name="腾讯视频"
+        />
+
+    <item
+        drawable="lge_gallery3d"
+        name="图片库"
+        />
+
+    <item
+        drawable="tencent_tmgp"
+        name="王者荣耀"
+        />
+
+    <item
+        drawable="tecent_gamehelper_smoba"
+        name="王者营地"
+        />
+
+    <item
+        drawable="qtrun_quicktest"
+        name="网络信号大师"
+        />
+
+    <item
+        drawable="sina_weibo"
+        name="微博"
+        />
+
+    <item
+        drawable="microsoft_math"
+        name="微软数学"
+        />
+
+    <item
+        drawable="wikipedia_main"
+        name="维基百科"
+        />
+
+    <item
+        drawable="lge_filemanager"
+        name="文件管理器"
+        />
+
+    <item
+        drawable="netease_x19"
+        name="我的世界"
+        />
+
+    <item
+        drawable="lge_documentsui"
+        name="下载内容"
+        />
+
+    <item
+        drawable="taobao_idlefiash"
+        name="闲鱼"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+</resources>

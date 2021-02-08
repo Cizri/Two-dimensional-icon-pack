@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <iconback img1="iconback" />
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor="0.9" />
+
+
+    <!-- 99手游加速器 -->
+    <item component="ComponentInfo{com.excean.na/com.excelliance.kxqp.ui.HelloActivity}"
+        drawable="excean_kxqp" />
+
+    <!-- 阿里巴巴 -->
+    <item component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}"
+        drawable="alibaba_1688" />
+
+    <!-- 爱奇艺 -->
+    <item component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}"
+        drawable="iqiyi" />
+
+    <!-- 百度地图 -->
+    <item component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}"
+        drawable="baidu_map" />
+
+    <!-- 部落冲突 -->
+    <item component="ComponentInfo{com.supercell.clashofclans.uc/com.supercell.titan.kunlun.uc.GameAppKunlunUC}"
+        drawable="supercell_kunlun" />
+
+    <!-- 地图 -->
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="google_map" />
+
+    <!-- 滴滴出行 -->
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity}"
+        drawable="didi" />
+
+    <!-- 电信营业厅 -->
+    <item component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}"
+        drawable="ct_client" />
+
+    <!-- 抖音 -->
+    <item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="aweme" />
+
+    <!-- 抖音极速版 -->
+    <item component="ComponentInfo{com.ss.android.ugc.aweme.lite/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="aweme_lite" />
+
+    <!-- 斗鱼 -->
+    <item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}"
+        drawable="douyu" />
+
+    <!-- 多看阅读 -->
+    <item component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}"
+        drawable="duokan_reader" />
+
+    <!-- 翻译 -->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
+        drawable="google_translate" />
+
+    <!-- 高德地图 -->
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
+        drawable="minimap" />
+
+    <!-- 搞机助手 -->
+    <item component="ComponentInfo{Han.GJZS/com.projectkr.shell.SplashActivity}"
+        drawable="han_gjzs" />
+
+    <!-- 更新中心 -->
+    <item component="ComponentInfo{com.lge.updatecenter/com.lge.updatecenter.UpdateCenterPrfActivity}"
+        drawable="lge_updatecenter" />
+
+    <!-- 和平精英 -->
+    <item component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}"
+        drawable="tencent_pubgmhd" />
+
+    <!-- 和平营地 -->
+    <item component="ComponentInfo{com.tencent.gamehelper.pg/com.tencent.gamehelper.ui.main.WelcomeActivity}"
+        drawable="tencent_gamehelper_pg" />
+
+    <!-- 黑阈 -->
+    <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}"
+        drawable="brevent" />
+
+    <!-- 厚墨 -->
+    <item component="ComponentInfo{cn.deepink.reader/cn.deepink.reader.ui.main.MainActivity}"
+        drawable="deepink_reader" />
+
+    <!-- 虎牙直播 -->
+    <item component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}"
+        drawable="duowan_kiwi" />
+
+    <!-- 计算器 -->
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="google_calculator" />
+
+    <!-- 交易猫 -->
+    <item component="ComponentInfo{com.jym.mall/com.jym.mall.home.LaunchActivity}"
+        drawable="jym_mall" />
+
+    <!-- 今日头条 -->
+    <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.MainActivity}"
+        drawable="article_news" />
+
+    <!-- 京东 -->
+    <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}"
+        drawable="jingdong" />
+
+    <!-- 九游游戏 -->
+    <item component="ComponentInfo{cn.ninegame.gamemanager.yz/cn.ninegame.gamemanager.business.common.activity.LaunchActivity}"
+        drawable="ninegame" />
+
+    <!-- 酷安 -->
+    <item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}"
+        drawable="coolapk" />
+
+    <!-- 快手 -->
+    <item component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}"
+        drawable="smile_gifmaker"/>
+
+    <!-- 狂野飙车9 -->
+    <item component="ComponentInfo{com.gameloft.android.ANMP.GloftA9HM/com.gameloft.android.ANMP.GloftA9HM.MainActivity}"
+        drawable="gamelofe_glofta9hm"/>
+
+    <!-- 微信 -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
+        drawable="tencent_mm" />
+
+    <!-- 网易云音乐 -->
+    <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}"
+        drawable="netease_cloudmusic" />
+
+    <!-- 老王VPN -->
+    <item component="ComponentInfo{com.sticktoit/com.sticktoit.activity.MainActivity}"
+        drawable="sticktoit" />
+
+    <!-- 联系人 -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="lge_contacts" />
+
+    <!-- 美团 -->
+    <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}"
+        drawable="sankuai_meituan" />
+
+    <!-- 美团外卖 -->
+    <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}"
+        drawable="sankuai_meituan_takeoutnew" />
+
+    <!-- 皮皮虾 -->
+    <item component="ComponentInfo{com.sup.android.superb/com.sup.android.base.MainActivity}"
+        drawable="sup_superb" />
+
+    <!-- 拼多多 -->
+    <item component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}"
+        drawable="xunmeg_pinduoduo" />
+
+    <!-- 轻颜相机 -->
+    <item component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}"
+        drawable="gorgeous_lite" />
+
+    <!-- 清浊 -->
+    <item component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.MainActivity}"
+        drawable="farplace_qingzhuo" />
+
+    <!-- 任务 -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}"
+        drawable="lge_calendar_task" />
+
+    <!-- 日历 -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="lge_calendar" />
+
+    <!-- 设置 -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="lge_settings" />
+
+    <!-- 时钟 -->
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}"
+        drawable="lge_clock" />
+
+    <!-- 手机 -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
+        drawable="lge_contacts_phone" />
+
+    <!-- 手机淘宝 -->
+    <item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
+        drawable="taobao_tao_welcome" />
+
+    <!-- 手机营业厅 -->
+    <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}"
+        drawable="sinovatech_unicom" />
+
+    <!-- 搜图神器 -->
+    <item component="ComponentInfo{com.example.administrator.searchpicturetool/com.wander.android.searchpicturetool.launch.SplashEmptyActivity}"
+        drawable="administrator" />
+
+    <!-- 腾讯地图 -->
+    <item component="ComponentInfo{com.tencent.map/com.tencent.map.WelcomeActivity}"
+        drawable="tencent_map" />
+
+    <!-- 腾讯加速器 -->
+    <item component="ComponentInfo{com.tencent.xriver/com.tencent.xriver.ui.splash.SplashActivity}"
+        drawable="tencent_xriver" />
+
+    <!-- 腾讯视频 -->
+    <item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
+        drawable="tencent_qqlive" />
+
+    <!-- 图片库 -->
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}"
+        drawable="lge_gallery3d" />
+
+    <!-- 豌豆荚 -->
+    <item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}"
+        drawable="wandoujia_phoenix2" />
+
+    <!-- 王者荣耀 -->
+    <item component="ComponentInfo{com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity}"
+        drawable="tencent_tmgp" />
+
+    <!-- 王者营地 -->
+    <item component="ComponentInfo{com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.UserAgreementActivity}"
+        drawable="tecent_gamehelper_smoba" />
+
+    <!-- 网络信号大师 -->
+    <item component="ComponentInfo{com.qtrun.QuickTest/com.qtrun.QuickTest.LauncherActivity}"
+        drawable="qtrun_quicktest" />
+
+    <!-- 微博 -->
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}"
+        drawable="sina_weibo" />
+
+    <!-- 微软数学 -->
+    <item component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}"
+        drawable="microsoft_math" />
+
+    <!-- 维基百科 -->
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}"
+        drawable="wikipedia_main" />
+
+    <!-- 文件管理器 -->
+    <item component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}"
+        drawable="lge_filemanager" />
+
+    <!-- 我的世界 -->
+    <item component="ComponentInfo{com.netease.x19/com.mojang.minecraftpe.MainActivity}"
+        drawable="netease_x19" />
+
+    <!-- 下载内容 -->
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
+        drawable="lge_documentsui" />
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

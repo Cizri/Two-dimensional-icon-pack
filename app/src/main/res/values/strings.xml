@@ -1,0 +1,113 @@
+<resources>
+
+    <!-- App 名称 -->
+    <string name="app_name">二维图标包</string>
+    <!-- 首页标题信息 -->
+    <string name="home_title">二维图标包</string>
+
+    <!-- APP主页底部的外链列表，可添加<item/>标签来动态修改，示例： -->
+    <!-- [放在项目/main/res/drawable目录里的图标名称]$$[标题]$$[描述]$$[链接] -->
+    <!-- 格式有误可能导致闪退 如需跳转到应用商店，请将链接替换成rate -->
+    <string-array name="links">
+
+        <item>ack_1$$为图标包评分$$如果喜欢这个图标包请给个 ★★★★★$$rate</item>
+        <item>ack_2$$图标包历史版本$$下载密码:5u55$$https://wws.lanzous.com/b01zwpafe</item>
+        <item>ack_3$$Unsplash$$查看优秀的壁纸$$https://unsplash.com/collections/52406431/doubanjiang</item>
+
+    </string-array>
+
+    <!-- 作者页的个人外链列表，可添加<item/>标签来动态修改，示例： -->
+    <!-- [放在 项目/app/main/res/drawable目录里的图标名称]$$[链接] -->
+    <!-- 格式有误可能导致闪退 -->
+    <string-array name="author_links">
+
+        <item>ic_github$$https://github.com/Cizri</item>
+        <item>ic_coolapk$$http://www.coolapk.com/u/874479</item>
+
+    </string-array>
+
+    <!-- 图标包作者信息 -->
+    <string name="designer_name">Wei长青</string>
+    <string name="designer_message">别催了别催了在努力适配</string>
+    <string name="mail">wanchun7012@Gmail.com</string>
+
+    <!-- 捐赠信息，如需隐藏，请将内容改为 false -->
+    <!-- 手动解析二维码获得地址中的参数,一定记得先开通商家收款码，例如 https://qr.alipay.com/tsx083367dghotyahi8lq2e 最后那段 -->
+    <string name="alipay_code" translatable="true">fkx19631qim7jzjmzwv1j03</string>
+<!--    <string name="alipay_code" translatable="false">tsx083367dghotyahi8lq2e</string>    -->
+
+    <!-- 更新了啥？或者关于信息 -->
+    <string name="update_content" translatable="false">• 重绘\n\n• 适配请在请求界面给我发邮件\n\n• 图标错误或bug请给在酷安评论区反馈 </string>
+
+    <!-- 如果不想展示个人主页的banner图请将内容改为：false，替换图片请到drawable目录替换掉图片文件 -->
+    <!--<string name="banner_background">true</string>-->
+    <string name="banner_background">banner_background</string>
+
+    <!-- 修改包名请到 项目/app/build.gradle  -->
+    <!-- 如果想修改最大反馈app数量 请找到/app/main/java/org/andcreator/iconpack/Constans.kt中的 MAX_REQUEST_COUNT  -->
+
+    <!-- ..................................以下信息不要修改.................................. -->
+    <string name="action_settings">设置</string>
+
+    <string name="extraapp">com.momocode.shortcuts</string>
+
+    <string name="no_store">没有可用的应用商店</string>
+
+    <string name="download">下载</string>
+    <string name="cancel">取消</string>
+    <string name="close">关闭</string>
+    <string name="cool">酷</string>
+
+    <string name="send_mail_please">请发送Mail，邮箱账号已复制到剪贴板</string>
+    <string name="send_mail_to">发送至..</string>
+    <string name="no_choose_app">没有选中任何应用程序</string>
+    <string name="get_permission">请到设置授予存储空间权限</string>
+    <string name="need_permission">请转到设置授予权限，否则无法正常使用</string>
+
+    <!-- 主页 Tabs -->
+    <string name="home">主页</string>
+    <string name="icons">图标</string>
+    <string name="icon_adapter">适配</string>
+    <string name="apply">应用</string>
+    <string name="about">关于</string>
+
+    <string name="adapter">适配&#160;</string>
+    <string name="not_adapter">未适配&#160;</string>
+
+    <string name="developer">仪表盘开发者</string>
+    <string name="adapter_not">未适配 0</string>
+    <string name="adapter_number">适配 0</string>
+
+    <string name="for_app_star">请为此应用评分</string>
+    <string name="feel_good_a">如果觉得很棒，请给它5颗星</string>
+    <string name="feel_good_b">您的评价很重要，点击下方跳转评分</string>
+
+    <string name="new_icons_num">新增</string>
+
+    <string name="search">搜索</string>
+
+    <string name="search_icon">搜索图标..</string>
+
+    <string name="whats_update">更新日志</string>
+
+    <string name="official">正式版</string>
+
+    <string name="gnl_title">不兼容谷歌即时桌面</string>
+
+    <string name="transition_icon">transition_icon</string>
+
+    <string name="gnl_content">谷歌即时桌面与图标包是不可兼容的，但请不要因此给予这个图标包负面的评价。有一个解决方法你可以尝试，但这需要使用到一个外部应用，你想要下载它吗?
+    </string>
+
+    <string name="lg_dialog_content">非常抱歉，因为“LG HOME APP”是LG设备的专用应用，所以无法从谷歌应用商店上下载到它
+    </string>
+
+    <string name="no_launcher_intent">无法在桌面上自动生成应用图标，请在桌面设置中手动设置</string>
+    <!-- LauncherNotInstalled Dialog -->
+    <string name="lni_content">%1$s 你的设备当前没有安装，\n你想要从谷歌应用商店上安装它吗？
+    </string>
+    <string name="cm_dialog_content">%1$s 是CyanogenMod（based） Roms 的一部分，\n你想要将它下载到你的设备上吗？
+    </string>
+
+    <string name="title_activity_dev">Dev_Activity</string>
+</resources>
