@@ -297,6 +297,1036 @@
         />
 
     <item
+        drawable="taobao_idlefiash"
+        name="闲鱼"
+        />
+
+    <item
+        drawable="google_photos"
+        name="相册"
+        />
+
+    <item
+        drawable="max_xiaoheihe"
+        name="小黑盒"
+        />
+
+    <item
+        drawable="xingin_xhs"
+        name="小红书"
+        />
+
+    <item
+        drawable="lge_mms"
+        name="信息"
+        />
+
+    <item
+        drawable="xk_fristview"
+        name="星空视频壁纸"
+        />
+
+    <item
+        drawable="iflytek_inputmethod"
+        name="讯飞输入法"
+        />
+
+    <item
+        drawable="one_wodenletter"
+        name="一个木函"
+        />
+
+    <item
+        drawable="me_xad"
+        name="一指禅"
+        />
+
+    <item
+        drawable="lge_music"
+        name="音乐"
+        />
+
+    <item
+        drawable="youku_phone"
+        name="优酷视频"
+        />
+
+    <item
+        drawable="gamersky_well"
+        name="游民星空"
+        />
+
+    <item
+        drawable="legado_release"
+        name="阅读"
+        />
+
+    <item
+        drawable="google_docs"
+        name="云端硬盘"
+    />
+
+    <item
+        drawable="unionpay"
+        name="云闪付"
+        />
+
+    <item
+        drawable="baidu_tieba"
+        name="百度贴吧"
+        />
+
+    <item
+        drawable="jiongji_baicizhan"
+        name="百词斩"
+        />
+
+    <item
+        drawable="baidu_tieba"
+        name="百度贴吧"
+        />
+
+    <item
+        drawable="baidu_netdisk"
+        name="百度网盘"
+        />
+
+    <item
+        drawable="danmaku_bilitv"
+        name="哔哩哔哩"
+        />
+
+    <item
+        drawable="googel_wallpaper"
+        name="壁纸"
+        />
+
+    <item
+        drawable="catchingnow_icebox"
+        name="冰箱"
+        />
+
+    <item
+        drawable="x7890"
+        name="创建快捷方式"
+        />
+
+    <item
+        drawable="googel_phone"
+        name="电话"
+        />
+
+    <item
+        drawable="twdip"
+        name="二维图标包"
+        />
+
+    <item
+        drawable="microsoft_translator"
+        name="翻译"
+        />
+
+    <item
+        drawable="netease_moba"
+        name="决战！平安京"
+        />
+
+    <item
+        drawable="systemtoolbox_la"
+        name="镧·系统工具箱"
+        />
+
+    <item
+        drawable="google_recorder"
+        name="录音机"
+        />
+
+    <item
+        drawable="google_calendar"
+        name="谷歌日历"
+        />
+
+    <item
+        drawable="google_deskclock"
+        name="时钟"
+        />
+
+    <item
+        drawable="nasoft_socmark"
+        name="手机性能排行"
+        />
+
+    <item
+        drawable="cn21_ecloud"
+        name="天翼云盘"
+        />
+
+    <item
+        drawable="google_contacts"
+        name="通讯录"
+        />
+
+    <item
+        drawable="googel_files"
+        name="文件极客"
+        />
+
+    <item
+        drawable="google_camera"
+        name="相机"
+        />
+
+    <item
+        drawable="googel_messaging"
+        name="信息"
+        />
+
+    <item
+        drawable="ailpay"
+        name="支付宝"
+        />
+
+    <item
+        drawable="ztwallpaper"
+        name="纸塘壁纸"
+        />
+
+    <item
+        drawable="google_cultural"
+        name="Arts Culture"
+        />
+
+    <item
+        drawable="microsoft_authenticator"
+        name="Authenticator"
+        />
+
+    <item
+        drawable="googel_chrome"
+        name="Chrome"
+        />
+
+    <item
+        drawable="flar2_devcheck"
+        name="Devcheck"
+        />
+
+    <item
+        drawable="microsoft_edge"
+        name="Edge"
+        />
+
+    <item
+        drawable="estrongs"
+        name="ES文件浏览器"
+        />
+
+    <item
+        drawable="google_gmail"
+        name="Gmail"
+        />
+
+    <item
+        drawable="onelauncher_goodies"
+        name="Goodies"
+        />
+
+    <item
+        drawable="google"
+        name="Google"
+        />
+
+    <item
+        drawable="googel_keep"
+        name="Keep 笔记"
+        />
+
+    <item
+        drawable="magisk_manager"
+        name="Magisk"
+        />
+
+    <item
+        drawable="mt_puls"
+        name="MT管理器"
+        />
+
+    <item
+        drawable="play_veding"
+        name="Play 商店"
+        />
+
+    <item
+        drawable="play_games"
+        name="Play 游戏"
+        />
+
+    <item
+        drawable="tencent_qq"
+        name="QQ"
+        />
+
+    <item
+        drawable="scene_vtools"
+        name="Scene"
+        />
+
+    <item
+        drawable="shizuku"
+        name="Shizhuku"
+        />
+
+    <item
+        drawable="sim_stk"
+        name="SIM 卡工具包"
+        />
+
+    <item
+        drawable="spotify"
+        name="Spotify"
+        />
+
+    <item
+        drawable="taptap"
+        name="Taptap"
+        />
+
+    <item
+        drawable="tencent_tim"
+        name="Tim"
+        />
+
+    <item
+        drawable="microsoft_todo"
+        name="ToDo"
+        />
+
+    <item
+        drawable="v2rayng"
+        name="V2rayng"
+        />
+
+    <item
+        drawable="yt_music"
+        name="YT Music"
+        />
+
+    <item
+        drawable="deepink_reader2"
+        name="厚墨2.0"
+        />
+
+    <item
+        drawable="netease_lua"
+        name="猫和老鼠"
+        />
+
+    <item
+        drawable="googel_wellbeing"
+        name="数字健康"
+        />
+
+    <item
+        drawable="titaniumbackup"
+        name="钛备份"
+        />
+
+    <item
+        drawable="oneplus_weather"
+        name="天气"
+        />
+
+    <item
+        drawable="article_video"
+        name="西瓜视频"
+        />
+
+    <item
+        drawable="xuexi_alibaba"
+        name="学习强国"
+        />
+
+    <item
+        drawable="cntb_cctv"
+        name="央视影音"
+        />
+
+    <item
+        drawable="xiaochuankeji_tieba"
+        name="最右"
+        />
+
+    <item
+        drawable="blocktopograph"
+        name="Blocktopograph"
+        />
+
+    <item
+        drawable="rd_client"
+        name="Rdclient"
+        />
+
+    <item
+        drawable="speedtest"
+        name="Speedtest"
+        />
+
+    <item
+        drawable="via"
+        name="Via"
+        />
+
+    <item
+        drawable="wandoujia_phoenix2"
+        name="豌豆荚"
+        />
+
+    <item
+        drawable="qihoo_splash"
+        name="360家庭防火墙"
+        />
+
+    <item
+        drawable="cmcc_10086"
+        name="10086"
+        />
+
+    <item
+        drawable="baidu"
+        name="百度"
+        />
+
+    <item
+        drawable="oneplus_note"
+        name="便签"
+        />
+
+    <item
+        drawable="supercell_rencent"
+        name="部落冲突·应用宝"
+        />
+
+    <item
+        drawable="cainiao"
+        name="菜鸟"
+        />
+
+    <item
+        drawable="oneplus_dialer"
+        name="电话"
+        />
+
+    <item
+        drawable="aweme_ugc"
+        name="抖音火山版"
+        />
+
+    <item
+        drawable="lakaka_suv"
+        name="番茄社区"
+        />
+
+    <item
+        drawable="icbc_im"
+        name="工银融e联"
+        />
+
+    <item
+        drawable="jingyao_easybike"
+        name="哈啰出行"
+        />
+
+    <item
+        drawable="haidilao"
+        name="海底捞"
+        />
+
+    <item
+        drawable="oneplus_calculator"
+        name="计算器"
+        />
+
+    <item
+        drawable="tmri12123"
+        name="交管12123"
+        />
+
+    <item
+        drawable="jdcloud"
+        name="京东云无线宝"
+        />
+
+    <item
+        drawable="taobao_dipei"
+        name="口碑"
+        />
+
+    <item
+        drawable="kugou_music"
+        name="酷狗音乐"
+        />
+
+    <item
+        drawable="quark"
+        name="夸克"
+        />
+
+    <item
+        drawable="ovor_browser"
+        name="浏览器"
+        />
+
+    <item
+        drawable="oneplus_sound"
+        name="录音机"
+        />
+
+    <item
+        drawable="sankuai_movie"
+        name="猫眼专业版"
+        />
+
+    <item
+        drawable="inspur"
+        name="蒙速办"
+        />
+
+    <item
+        drawable="mxbc_mxsa"
+        name="蜜雪冰城"
+        />
+
+    <item
+        drawable="ovor_finshell"
+        name="钱包"
+        />
+
+    <item
+        drawable="qiangguo_zhushou"
+        name="强国助手"
+        />
+
+    <item
+        drawable="founder_hsdt"
+        name="青城地铁"
+        />
+
+    <item
+        drawable="chaoxing_xuexitong"
+        name="学习通"
+        />
+
+    <item
+        drawable="yiban"
+        name="易班"
+        />
+
+    <item
+        drawable="nmgqnzyz"
+        name="志愿北疆"
+        />
+
+    <item
+        drawable="newbean"
+        name="豌豆荚哔哔"
+        />
+
+    <item
+        drawable="xiaomi_health"
+        name="小米运动"
+        />
+
+    <item
+        drawable="xjcheng_music"
+        name="音乐标签"
+        />
+
+    <item
+        drawable="tencent_qqdown"
+        name="应用宝"
+        />
+
+    <item
+        drawable="pinterest"
+        name="Pinterest"
+        />
+
+    <item
+        drawable="pixiv"
+        name="Pixiv"
+        />
+
+    <item
+        drawable="telegram"
+        name="Telegram"
+        />
+
+    <item
+        drawable="unsplash"
+        name="Unsplash Pay快应用"
+        />
+
+    <item
+        drawable="imeihua"
+        name="爱美化"
+        />
+
+    <item
+        drawable="jzzs_anquan"
+        name="安全教育平台"
+        />
+
+    <item
+        drawable="baimiao_uzero"
+        name="白描"
+        />
+
+    <item
+        drawable="baoming"
+        name="包名查看"
+        />
+
+    <item
+        drawable="mybaby"
+        name="宝宝知道"
+        />
+
+    <item
+        drawable="mfu_faluo"
+        name="彩羽"
+        />
+
+    <item
+        drawable="ktls_fileinfo"
+        name="储存空间清理"
+        />
+
+    <item
+        drawable="luojilab"
+        name="得到"
+        />
+
+    <item
+        drawable="alibaba_dingding"
+        name="钉钉"
+        />
+
+    <item
+        drawable="ele_elm"
+        name="饿了么"
+        />
+
+    <item
+        drawable="fandengreader"
+        name="樊登读书"
+        />
+
+    <item
+        drawable="kingsoft"
+        name="金山词霸"
+        />
+
+    <item
+        drawable="huawei_mirror"
+        name="镜子"
+        />
+
+    <item
+        drawable="wandoujia_kaiyan"
+        name="开眼"
+        />
+
+    <item
+        drawable="lliulishuo"
+        name="流利说英语"
+        />
+
+    <item
+        drawable="eusoft_ting"
+        name="每日英语听力"
+        />
+
+    <item
+        drawable="taobao_shopingmaojie"
+        name="喵街"
+        />
+
+    <item
+        drawable="eusoft_oulu"
+        name="欧路词典"
+        />
+
+    <item
+        drawable="pinanhaochezhu"
+        name="平安好车主"
+        />
+
+    <item
+        drawable="allhistory_qsj"
+        name="全世界"
+        />
+
+    <item
+        drawable="tencent_sports"
+        name="腾讯体育"
+        />
+
+    <item
+        drawable="quinox_12306"
+        name="铁路12306"
+        />
+
+    <item
+        drawable="netease_dushu"
+        name="网易蜗牛读书"
+        />
+
+    <item
+        drawable="wechat_dushu"
+        name="微信读书"
+        />
+
+    <item
+        drawable="insigmacc_welingsmk"
+        name="温岭市民卡"
+        />
+
+    <item
+        drawable="xiamlaya_fm"
+        name="喜马拉雅"
+        />
+
+    <item
+        drawable="ctrip_ct"
+        name="携程企业商旅"
+        />
+
+    <item
+        drawable="xunlei"
+        name="迅雷"
+        />
+
+    <item
+        drawable="highschool"
+        name="高中必备"
+        />
+
+    <item
+        drawable="oasisfeng"
+        name="炼妖壶"
+        />
+
+    <item
+        drawable="lvjing_filter"
+        name="屏幕滤镜"
+        />
+
+    <item
+        drawable="huahua_testing"
+        name="普通话测试"
+        />
+
+    <item
+        drawable="google_photodgo"
+        name="图库"
+        />
+
+    <item
+        drawable="fm_radio"
+        name="FM 收音机"
+        />
+
+    <item
+        drawable="lawnchair_ci"
+        name="Lawnchair"
+        />
+
+    <item
+        drawable="lawnchair_seting"
+        name="Lawnchair 设置"
+        />
+
+    <item
+        drawable="maying"
+        name="Maying"
+        />
+
+    <item
+        drawable="pixel_white"
+        name="Pixel White"
+        />
+
+    <item
+        drawable="quickswitch"
+        name="Quickswitch"
+        />
+
+    <item
+        drawable="rewards"
+        name="Rewards"
+        />
+
+    <item
+        drawable="yanyu_lanjing"
+        name="烟雨江湖"
+        />
+
+    <item
+        drawable="nekogram"
+        name="Nekogram"
+        />
+
+    <item
+        drawable="openhub"
+        name="OpenHub"
+        />
+
+    <item
+        drawable="thanox_pro"
+        name="Thanox Pro"
+        />
+
+    <item
+        drawable="xiaomi_smarthome"
+        name="米家"
+        />
+
+    <item
+        drawable="seekbooks"
+        name="搜书大师"
+        />
+
+    <item
+        drawable="lightbookkeeping"
+        name="一羽记账"
+        />
+
+    <item
+        drawable="zzonegame_aresvirus"
+        name="阿瑞斯病毒"
+        />
+
+    <item
+        drawable="baidu_iput"
+        name="百度输入法"
+        />
+
+    <item
+        drawable="feiyu_carrot3"
+        name="保卫萝卜3"
+        />
+
+    <item
+        drawable="google_docss"
+        name="表格"
+        />
+
+    <item
+        drawable="cloudfun_read"
+        name="典读"
+        />
+
+    <item
+        drawable="lge_email"
+        name="电子邮件"
+        />
+
+    <item
+        drawable="hicorenational_antifraud"
+        name="国家反诈中心"
+        />
+
+    <item
+        drawable="dianping_main"
+        name="大众点评"
+        />
+
+    <item
+        drawable="jakting_shareclean"
+        name="氡·意图清理"
+        />
+
+    <item
+        drawable="douban"
+        name="豆瓣"
+        />
+
+    <item
+        drawable="unblockneteasemusic"
+        name="杜比大喇叭"
+        />
+
+    <item
+        drawable="gsdj_cucsi"
+        name="甘肃党建"
+        />
+
+    <item
+        drawable="nutstore"
+        name="坚果云"
+        />
+
+    <item
+        drawable="jd_jrapp"
+        name="京东金融"
+        />
+
+    <item
+        drawable="xiachufang_lazycook"
+        name="懒饭"
+        />
+
+    <item
+        drawable="lexiang_jy"
+        name="乐淘生活"
+        />
+
+    <item
+        drawable="nekolite_lite"
+        name="猫报 Lite"
+        />
+
+    <item
+        drawable="wpengapp_lightstart"
+        name="轻启动"
+        />
+
+    <item
+        drawable="catchingnow_share"
+        name="清净分享"
+        />
+
+    <item
+        drawable="one_dm"
+        name="1DM+"
+        />
+
+    <item
+        drawable="xiachufang_lazycook"
+        name="555电影"
+        />
+
+    <item
+        drawable="alicloud"
+        name="阿里云盘"
+        />
+
+    <item
+        drawable="puremosaic"
+        name="纯纯打码"
+        />
+
+    <item
+        drawable="purewriter"
+        name="纯纯写作"
+        />
+
+    <item
+        drawable="shizuku_redirectstorage"
+        name="存储空间隔离"
+        />
+
+    <item
+        drawable="qingzhuo"
+        name="清浊"
+        />
+
+    <item
+        drawable="mqunar"
+        name="去哪儿旅行"
+        />
+
+    <item
+        drawable="xloger_exlink"
+        name="去你大爷的内置浏览器"
+        />
+
+    <item
+        drawable="cnkimobile"
+        name="全球学术快报"
+        />
+
+    <item
+        drawable="shoujimarket"
+        name="手机乐园"
+        />
+
+    <item
+        drawable="feedles"
+        name="搜搜"
+        />
+
+    <item
+        drawable="taobaomovie"
+        name="淘票票"
+        />
+
+    <item
+        drawable="huanchengfly_lite"
+        name="贴吧 Lite"
+        />
+
+    <item
+        drawable="xnkjyyh"
+        name="下载神器"
+        />
+
+    <item
+        drawable="google_camera"
+        name="相机"
+        />
+
+    <item
+        drawable="xiaomi_shop"
+        name="小米商城"
+        />
+
+    <item
+        drawable="yanyujianghuwiki"
+        name="烟雨江湖Wiki"
+        />
+
+    <item
+        drawable="netease_mail"
+        name="邮箱大师"
+        />
+
+    <item
+        drawable="zhihu"
+        name="知乎"
+        />
+
+    <item
+        drawable="chinamworld"
+        name="中国银行"
+        />
+
+    <item
+        drawable="zdanjianzdanjian"
+        name="自动精灵"
+        />
+
+    <item
+        drawable="mattecarra_accapp"
+        name="AccA"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
         drawable="data"
         name="data"
         />
@@ -320,4 +1350,250 @@
         drawable="data"
         name="data"
         />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
 </resources>

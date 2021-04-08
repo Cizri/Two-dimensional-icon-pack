@@ -11,7 +11,8 @@
     <string-array name="links">
 
         <item>ack_1$$为图标包评分$$如果喜欢这个图标包请给个 ★★★★★$$rate</item>
-        <item>ack_2$$图标包历史版本$$下载密码:5u55$$https://wws.lanzous.com/b01zwpafe</item>
+        <item>ack_2$$二维图标包历史版本$$下载密码:5u55$$https://wws.lanzous.com/b01zwpafe</item>
+        <item>ack_2$$重绘前的版本覆盖800+$$下载密码:6qp1$$https://wws.lanzous.com/b01ztl0mj</item>
         <item>ack_3$$Unsplash$$查看优秀的壁纸$$https://unsplash.com/collections/52406431/doubanjiang</item>
 
     </string-array>
@@ -28,7 +29,7 @@
 
     <!-- 图标包作者信息 -->
     <string name="designer_name">Wei长青</string>
-    <string name="designer_message">别催了别催了在努力适配</string>
+    <string name="designer_message"></string>
     <string name="mail">wanchun7012@Gmail.com</string>
 
     <!-- 捐赠信息，如需隐藏，请将内容改为 false -->
@@ -37,7 +38,7 @@
 <!--    <string name="alipay_code" translatable="false">tsx083367dghotyahi8lq2e</string>    -->
 
     <!-- 更新了啥？或者关于信息 -->
-    <string name="update_content" translatable="false">• 重绘\n\n• 适配请在请求界面给我发邮件\n\n• 图标错误或bug请给在酷安评论区反馈 </string>
+    <string name="update_content" translatable="false">• 偷摸更新\n\n• 异世相遇，尽享美味\n\n• 图标错误或bug请给在酷安评论区反馈 </string>
 
     <!-- 如果不想展示个人主页的banner图请将内容改为：false，替换图片请到drawable目录替换掉图片文件 -->
     <!--<string name="banner_background">true</string>-->
