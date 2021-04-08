@@ -861,6 +861,10 @@
     <item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher}"
         drawable="lawnchair_ci" />
 
+    <!-- Lawnchair -->
+    <item component="ComponentInfo{app.lawnchair/app.lawnchair.LawnchairLauncherQuickstep}"
+        drawable="lawnchair_ci" />
+
     <!-- Lawnchair 设置 -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}"
         drawable="lawnchair_seting" />
@@ -1084,10 +1088,143 @@
     <item component="ComponentInfo{mattecarra.accapp/mattecarra.accapp.activities.MainActivity}"
         drawable="mattecarra_accapp" />
 
+    <!--230-->
+    <!-- AccuBattery -->
+    <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}"
+        drawable="accubattery" />
 
+    <!-- AFWall+ (捐赠版) -->
+    <item component="ComponentInfo{dev.ukanth.ufirewall.donate/dev.ukanth.ufirewall.MainActivity}"
+        drawable="ufirewall" />
 
+    <!-- App Ops -->
+    <item component="ComponentInfo{rikka.appops/rikka.appops.home.HomeActivity}"
+        drawable="app_ops" />
 
+    <!-- AppSales -->
+    <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}"
+        drawable="appsales" />
 
+    <!-- Bmap -->
+    <item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity}"
+        drawable="bmap" />
+
+    <!-- CAD看图王 -->
+    <item component="ComponentInfo{com.gstarmc.android/com.stone.app.ui.activity.AppSplashActivity}"
+        drawable="cadgstarmc" />
+
+    <!-- CephyTools -->
+    <item component="ComponentInfo{com.elluzion.cephytools/com.elluzion.cephytools.MainActivity}"
+        drawable="cephytools" />
+
+    <!--231-->
+    <!-- Clash -->
+    <item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}"
+        drawable="clash" />
+
+    <!-- Dashboard -->
+    <item component="ComponentInfo{com.Clash.Dashboard/com.androlua.Welcome}"
+        drawable="dashboard" />
+
+    <!-- Device Info HW -->
+    <item component="ComponentInfo{ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity}"
+        drawable="device_info_hw" />
+
+    <!-- Dropbox -->
+    <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}"
+        drawable="dropbox" />
+
+    <!-- ExpressVPN -->
+    <item component="ComponentInfo{com.expressvpn.vpn/com.expressvpn.vpn.ui.SplashActivity}"
+        drawable="expressvpn" />
+
+    <!-- Facebook -->
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+        drawable="facebook" />
+
+    <!-- Fake Location -->
+    <item component="ComponentInfo{com.lerist.fakelocation/com.lerist.fakelocation.ui.activity.MainActivity}"
+        drawable="fake_location" />
+
+    <!-- Instagram -->
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="instagram" />
+
+    <!-- lite -->
+    <item component="ComponentInfo{projekt.substratum.lite/projekt.substratum.lite.activity.SplashScreenActivity}"
+        drawable="substratum_lite" />
+
+    <!-- LSPosed -->
+    <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}"
+        drawable="lsposed" />
+
+    <!-- Office -->
+    <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+        drawable="office" />
+
+    <!-- OneDrive -->
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"
+        drawable="onedrive" />
+
+    <!-- Pixel Launcher Mods -->
+    <item component="ComponentInfo{com.kieronquinn.app.pixellaunchermods/com.kieronquinn.app.pixellaunchermods.activities.MainActivity}"
+        drawable="pixel_launcher_mods" />
+
+    <!-- QNotified -->
+    <item component="ComponentInfo{nil.nadph.qnotified/nil.nadph.qnotified.activity.ConfigV2ActivityAlias}"
+        drawable="qnotified" />
+
+    <!-- QQ安全中心 -->
+    <item component="ComponentInfo{com.tencent.token/com.tencent.token.ui.LogoActivity}"
+        drawable="qqtoken" />
+
+    <!-- QQ邮箱 -->
+    <item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}"
+        drawable="qqandroidqqmail" />
+
+    <!-- Sesame -->
+    <item component="ComponentInfo{ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity}"
+        drawable="sesame" />
+
+    <!-- Share -->
+    <item component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}"
+        drawable="share" />
+
+    <!-- ShortcutsX -->
+    <item component="ComponentInfo{com.nuaa.shortcutsx/com.nuaa.shortcutsx.MainActivity}"
+        drawable="shortcutsx" />
+
+    <!-- Simpan -->
+    <item component="ComponentInfo{com.banyuw.simpan/com.banyuw.simpan.ui.MainActivity}"
+        drawable="simpan" />
+
+    <!-- Tasker -->
+    <item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}"
+        drawable="tasker" />
+
+    <!-- Termux -->
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}"
+        drawable="termux" />
+
+    <!-- Twitter -->
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
+        drawable="twitter" />
+
+    <!-- U净 -->
+    <item component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.ui.activity.SplashActivity}"
+        drawable="uwasher" />
+
+    <!-- Voice -->
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}"
+        drawable="voice" />
+
+    <!-- YouTube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+        drawable="youtube" />
+
+    <!-- Z直播 -->
+    <item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}"
+        drawable="zzlive" />
 
 
 
