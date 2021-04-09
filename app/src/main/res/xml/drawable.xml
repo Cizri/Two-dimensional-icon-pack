@@ -1482,58 +1482,57 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="baidutranslate"
+        name="百度翻译"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="damai"
+        name="大麦"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="taobaolive"
+        name="点淘"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="oneplus_dialer2"
+        name="电话"
+        />
+    <item
+        drawable="dmzj"
+        name="动漫之家"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="hiveconsumer"
+        name="丰巢"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="babycloud_hanju"
+        name="韩剧TV"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="jinjiangshucheng"
+        name="晋江小说阅读"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="juapp_runtime"
+        name="聚应用"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="oneplus_card"
+        name="卡券"
         />
 
     <item
-        drawable="data"
-        name="data"
-        />
-
-    <item
-        drawable="data"
-        name="data"
+        drawable="kuaishou_nebula"
+        name="快手极速版"
         />
 
     <item
