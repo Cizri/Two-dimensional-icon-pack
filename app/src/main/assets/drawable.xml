@@ -1536,58 +1536,113 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="trustyourselfvpn_lite"
+        name="老王VPN Lite"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="happycast"
+        name="乐播投屏"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="mtxx"
+        name="美图秀秀"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="chezhubang"
+        name="能链团油"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="mutangtech"
+        name="钱迹"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="oneplus_calendar"
+        name="日历"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="papegames_nn4"
+        name="闪耀暖暖"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="heytap_market"
+        name="商店"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="oneplus_deskclock"
+        name="时钟"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="sfsy"
+        name="顺丰速运"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="timam"
+        name="钛马星"
+        />
+
+    <item
+        drawable="alibaba_ailabs"
+        name="天猫精灵"
+        />
+
+    <item
+        drawable="oneplus_contacts"
+        name="通讯录"
+        />
+
+    <item
+        drawable="oneplus_gallery"
+        name="图库"
+        />
+
+    <item
+        drawable="ibuscloud_weihaibus"
+        name="威海公交官方"
+        />
+
+    <item
+        drawable="oneplus_filemanager"
+        name="文件管理"
+        />
+
+    <item
+        drawable="oneplus_camera"
+        name="相机"
+        />
+
+    <item
+        drawable="heytap_speechassist"
+        name="小布助手"
+        />
+
+    <item
+        drawable="xiaomi_wearable"
+        name="小米穿戴"
+        />
+
+    <item
+        drawable="miui_calculator"
+        name="小米计算器"
+        />
+
+    <item
+        drawable="oneplus_mms"
+        name="信息"
+        />
+
+    <item
+        drawable="oneplus_backuprestore"
+        name="一加搬家"
         />
 
     <item

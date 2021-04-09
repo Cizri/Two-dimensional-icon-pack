@@ -1226,7 +1226,94 @@
     <item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}"
         drawable="zzlive" />
 
+    <!--233-->
+    <!-- 老王VPN Lite -->
+    <item component="ComponentInfo{com.trustyourself/com.trustyourself.activity.MainActivity}"
+        drawable="trustyourselfvpn_lite" />
 
+    <!-- 乐播投屏 -->
+    <item component="ComponentInfo{com.hpplay.happycast/com.hpplay.happycast.activitys.WelcomeActivity}"
+        drawable="happycast" />
+
+    <!-- 美图秀秀 -->
+    <item component="ComponentInfo{com.mt.mtxx.mtxx/com.mt.mtxx.mtxx.TopViewActivity}"
+        drawable="mtxx" />
+
+    <!-- 能链团油 -->
+    <item component="ComponentInfo{com.czb.chezhubang/com.czb.chezhubang.activity.MainActivity}"
+        drawable="chezhubang" />
+
+    <!-- 钱迹 -->
+    <item component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}"
+        drawable="mutangtech" />
+
+    <!-- 日历 -->
+    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="oneplus_calendar" />
+
+    <!-- 闪耀暖暖 -->
+    <item component="ComponentInfo{com.papegames.nn4.cn/com.nikki.nn4lib.NN4PlayerActivity}"
+        drawable="papegames_nn4" />
+
+    <!-- 商店 -->
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}"
+        drawable="heytap_market" />
+
+    <!-- 时钟 -->
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
+        drawable="oneplus_deskclock" />
+
+    <!-- 顺丰速运 -->
+    <item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}"
+        drawable="sfsy" />
+
+    <!-- 钛马星 -->
+    <item component="ComponentInfo{com.tima.carnet.m.main/com.tima.carnet.m.main.LaunchActivity}"
+        drawable="timam" />
+
+    <!-- 天猫精灵 -->
+    <item component="ComponentInfo{com.alibaba.ailabs.tg/com.alibaba.ailabs.tg.splash.WelcomeActivity}"
+        drawable="alibaba_ailabs" />
+
+    <!-- 通讯录 -->
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
+        drawable="oneplus_contacts" />
+
+    <!-- 图库 -->
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        drawable="oneplus_gallery" />
+
+    <!-- 威海公交官方 -->
+    <item component="ComponentInfo{com.ibuscloud.weihaibus/com.dtchuxing.app.ui.SplashActivity}"
+        drawable="ibuscloud_weihaibus" />
+
+    <!-- 文件管理 -->
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
+        drawable="oneplus_filemanager" />
+
+    <!-- 相机 -->
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="oneplus_camera" />
+
+    <!-- 小布助手 -->
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.launcher.SpeechAssistMainActivity}"
+        drawable="heytap_speechassist" />
+
+    <!-- 小米穿戴 -->
+    <item component="ComponentInfo{com.xiaomi.wearable/com.xiaomi.wearable.start.privacy.PrivacyActivity}"
+        drawable="xiaomi_wearable" />
+
+    <!-- 小米计算器 -->
+    <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}"
+        drawable="miui_calculator" />
+
+    <!-- 信息 -->
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}"
+        drawable="oneplus_mms" />
+
+    <!-- 一加搬家 -->
+    <item component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}"
+        drawable="oneplus_backuprestore" />
 
 
 
