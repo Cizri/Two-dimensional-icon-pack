@@ -1351,7 +1351,6 @@
     <!-- AcFun -->
     <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
         drawable="acfun" />
-
     <!--234-->
     <!-- CAD快速看图 -->
     <item component="ComponentInfo{com.glodon.drawingexplorer/com.glodon.drawingexplorer.activity.GSplashActivity}"
