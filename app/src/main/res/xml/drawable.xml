@@ -1646,6 +1646,76 @@
         />
 
     <item
+        drawable="oneplus_bbs"
+        name="一加社区"
+        />
+
+    <item
+        drawable="oneplus_gamespace"
+        name="游戏空间"
+        />
+
+    <item
+        drawable="ovo_gamecenter"
+        name="游戏中心"
+        />
+
+    <item
+        drawable="baidu_autocar"
+        name="有驾"
+        />
+
+    <item
+        drawable="chinamworld_jsyh"
+        name="中国建设银行"
+        />
+
+    <item
+        drawable="mc10086mm"
+        name="中国移动"
+        />
+
+    <item
+        drawable="acfun"
+        name="AcFun"
+        />
+
+    <item
+        drawable="caddrawingexplorer"
+        name="CAD快速看图"
+        />
+
+    <item
+        drawable="keep"
+        name="Keep"
+        />
+
+    <item
+        drawable="owhat"
+        name="Owhat"
+        />
+
+    <item
+        drawable="qqmusic"
+        name="QQ音乐"
+        />
+
+    <item
+        drawable="steam"
+        name="Steam"
+        />
+
+    <item
+        drawable="wifikey"
+        name="WiFi大师"
+        />
+
+    <item
+        drawable="wps_office"
+        name="WPS Office"
+        />
+
+    <item
         drawable="data"
         name="data"
         />

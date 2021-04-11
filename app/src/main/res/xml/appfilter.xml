@@ -568,6 +568,10 @@
     <item component="ComponentInfo{mark.via/mark.via.Shell}"
         drawable="via" />
 
+    <!-- Via -->
+    <item component="ComponentInfo{mark.via/mark.via.ui.activity.BrowserActivity}"
+        drawable="via" />
+
     <!--  360家庭防火墙 -->
     <item component="ComponentInfo{com.qihoo.srouter.n300/com.ifenglian.superapp.ui.splash.SAWelcomeActivity}"
         drawable=" qihoo_splash" />
@@ -1315,8 +1319,63 @@
     <item component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}"
         drawable="oneplus_backuprestore" />
 
+    <!--234-->
+    <!-- 一加社区 -->
+    <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}"
+        drawable="oneplus_bbs" />
 
+    <!-- 游戏空间 -->
+    <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}"
+        drawable="oneplus_gamespace" />
 
+    <!-- 游戏中心 -->
+    <item component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}"
+        drawable="ovo_gamecenter" />
+
+    <!-- 有驾 -->
+    <item component="ComponentInfo{com.baidu.autocar/com.baidu.autocar.modules.main.WelcomeActivity}"
+        drawable="baidu_autocar" />
+
+    <!-- 中国建设银行 -->
+    <item component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}"
+        drawable="chinamworld_jsyh" />
+
+    <!-- 中国移动 -->
+    <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}"
+        drawable="mc10086mm" />
+
+    <!-- AcFun -->
+    <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
+        drawable="acfun" />
+
+    <!--234-->
+    <!-- CAD快速看图 -->
+    <item component="ComponentInfo{com.glodon.drawingexplorer/com.glodon.drawingexplorer.activity.GSplashActivity}"
+        drawable="caddrawingexplorer" />
+
+    <!-- Keep -->
+    <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}"
+        drawable="keep" />
+
+    <!-- Owhat -->
+    <item component="ComponentInfo{cn.owhatlab/cn.owhatlab.activity.SplashActivity}"
+        drawable="owhat" />
+
+    <!-- QQ音乐 -->
+    <item component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}"
+        drawable="qqmusic" />
+
+    <!-- Steam -->
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
+        drawable="steam" />
+
+    <!-- WiFi大师 -->
+    <item component="ComponentInfo{com.halo.wifikey.wifilocating/com.lantern.launcher.ui.MainActivity}"
+        drawable="wifikey" />
+
+    <!-- WPS Office -->
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}"
+        drawable="wps_office" />
 
 
 
