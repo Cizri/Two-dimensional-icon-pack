@@ -1212,6 +1212,11 @@
         />
 
     <item
+        drawable="alicloud_one"
+        name="阿里云盘"
+        />
+
+    <item
         drawable="puremosaic"
         name="纯纯打码"
         />
@@ -1713,6 +1718,96 @@
     <item
         drawable="wps_office"
         name="WPS Office"
+        />
+
+    <item
+        drawable="huawei_notepad"
+        name="备忘录"
+        />
+
+    <item
+        drawable="huawei_findmyphone"
+        name="查找设备"
+        />
+
+    <item
+        drawable="huawei_meetime"
+        name="畅连"
+        />
+
+    <item
+        drawable="huawei_email"
+        name="电子邮件"
+        />
+
+    <item
+        drawable="duolingo"
+        name="多邻国"
+        />
+
+    <item
+        drawable="huawei_phoneservice"
+        name="服务"
+        />
+
+    <item
+        drawable="huawei_fans"
+        name="花粉俱乐部"
+        />
+
+    <item
+        drawable="huawei_wallet"
+        name="华为钱包"
+        />
+
+    <item
+        drawable="huawei_client"
+        name="华为商城"
+        />
+
+    <item
+        drawable="huawei_lives"
+        name="华为生活服务"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
         />
 
     <item

@@ -9,8 +9,8 @@ android {
         applicationId "com.twodimensional.wei"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 17
-        versionName "1.21.235.2021"
+        versionCode 19
+        versionName "1.21.237.2021"
         testInstrumentationRunner "com.twodimensional.wei"
     }
     buildTypes {
@@ -19,12 +19,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-//    buildFeatures {
-//
-//        dataBinding true
-//        viewBinding true
-//
-//    }
+
 
     flavorDimensions "icons"
     productFlavors {

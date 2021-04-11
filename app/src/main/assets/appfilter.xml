@@ -1011,6 +1011,10 @@
     <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.login.LoginActivity}"
         drawable="alicloud" />
 
+    <!-- 阿里云盘 -->
+    <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.login.LoginActivity}"
+        drawable="alicloud_one" />
+
     <!-- 纯纯打码 -->
     <item component="ComponentInfo{me.drakeet.puremosaic/me.drakeet.puremosaic.MainActivity}"
         drawable="puremosaic" />
@@ -1377,7 +1381,46 @@
     <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}"
         drawable="wps_office" />
 
+    <!--236-->
+    <!-- 备忘录 -->
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}"
+        drawable="huawei_notepad" />
 
+    <!-- 查找设备 -->
+    <item component="ComponentInfo{com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.findphone.FindMyPhoneActivity}"
+        drawable="huawei_findmyphone" />
+
+    <!-- 畅连 -->
+    <item component="ComponentInfo{com.huawei.meetime/com.huawei.meetime.SplashActivity}"
+        drawable="huawei_meetime" />
+
+    <!-- 电子邮件 -->
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}"
+        drawable="huawei_email" />
+
+    <!-- 多邻国 -->
+    <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}"
+        drawable="duolingo" />
+
+    <!-- 服务 -->
+    <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}"
+        drawable="huawei_phoneservice" />
+
+    <!-- 花粉俱乐部 -->
+    <item component="ComponentInfo{com.huawei.fans/com.huawei.fans.SplashActivity}"
+        drawable="huawei_fans" />
+
+    <!-- 华为钱包 -->
+    <item component="ComponentInfo{com.huawei.wallet/com.huawei.wallet.view.MainActivity}"
+        drawable="huawei_wallet" />
+
+    <!-- 华为商城 -->
+    <item component="ComponentInfo{com.vmall.client/com.vmall.client.splash.fragment.SplashActivity}"
+        drawable="huawei_client" />
+
+    <!-- 华为生活服务 -->
+    <item component="ComponentInfo{com.huawei.lives/com.huawei.lifeservice.basefunction.ui.entry.LandingActivity}"
+        drawable="huawei_lives" />
 
 
 
