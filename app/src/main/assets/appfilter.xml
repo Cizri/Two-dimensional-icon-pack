@@ -776,6 +776,10 @@
     <item component="ComponentInfo{com.huawei.mirror/com.huawei.mirror.Mirror}"
         drawable="huawei_mirror" />
 
+    <!-- 镜子 -->
+    <item component="ComponentInfo{com.huawei.mirror/com.huawei.mirror.protocol.ProtocolConfirmActivity}"
+        drawable="huawei_mirror" />
+
     <!-- 开眼 -->
     <item component="ComponentInfo{com.wandoujia.eyepetizer/com.wandoujia.eyepetizer.ui.activity.LandingActivity}"
         drawable="wandoujia_kaiyan" />
@@ -826,6 +830,10 @@
 
     <!-- 喜马拉雅 -->
     <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}"
+        drawable="xiamlaya_fm" />
+
+    <!-- 喜马拉雅 -->
+    <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.MainActivity}"
         drawable="xiamlaya_fm" />
 
     <!-- 携程企业商旅 -->
@@ -1082,6 +1090,10 @@
 
     <!-- 知乎 -->
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}"
+        drawable="zhihu" />
+
+    <!-- 知乎 -->
+    <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
         drawable="zhihu" />
 
     <!-- 中国银行 -->
@@ -1351,7 +1363,7 @@
     <!-- AcFun -->
     <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
         drawable="acfun" />
-    <!--234-->
+    
     <!-- CAD快速看图 -->
     <item component="ComponentInfo{com.glodon.drawingexplorer/com.glodon.drawingexplorer.activity.GSplashActivity}"
         drawable="caddrawingexplorer" />
@@ -1380,7 +1392,6 @@
     <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}"
         drawable="wps_office" />
 
-    <!--236-->
     <!-- 备忘录 -->
     <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}"
         drawable="huawei_notepad" />
@@ -1421,236 +1432,54 @@
     <item component="ComponentInfo{com.huawei.lives/com.huawei.lifeservice.basefunction.ui.entry.LandingActivity}"
         drawable="huawei_lives" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <!--236-->
+    <!-- 华为视频 -->
+    <item component="ComponentInfo{com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity}"
+        drawable="huawei_himovie" />
+
+    <!-- 华为音乐 -->
+    <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}"
+        drawable="huawei_music" />
+
+    <!-- 华为应用市场 -->
+    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}"
+        drawable="huawei_appmarket" />
+
+    <!-- 会员中心 -->
+    <item component="ComponentInfo{com.huawei.mycenter/com.huawei.mycenter.module.main.view.MainActivity}"
+        drawable="huawei_mycenter" />
+
+    <!-- 计算器 -->
+    <item component="ComponentInfo{com.huawei.calculator/com.huawei.calculator.Calculator}"
+        drawable="huawei_calculator" />
+
+    <!-- 浏览器 -->
+    <item component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main2}"
+        drawable="huawei_browser" />
+
+    <!-- 录音机 -->
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecordListActivity}"
+        drawable="hauwei_soundrecorder" />
+
+    <!-- 软件更新 -->
+    <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}"
+        drawable="huawei_hwouc" />
+
+    <!-- 鲨鱼记账 -->
+    <item component="ComponentInfo{com.shark.jizhang/com.shark.jizhang.module.splash.SplashActivity}"
+        drawable="shark_jizhang" />
+
+    <!-- 设置 -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}"
+        drawable="huawei_settingss" />
+
+    <!-- 时钟 -->
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}"
+        drawable="huawei_deskclock" />
+
+    <!-- 收音机 -->
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.FMRadio.page.PageActivity}"
+        drawable="huawei_fmradio" />
 
 
 

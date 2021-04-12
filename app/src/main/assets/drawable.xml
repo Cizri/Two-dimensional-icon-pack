@@ -1771,38 +1771,63 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="huawei_himovie"
+        name="华为视频"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="huawei_music"
+        name="华为音乐"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="huawei_appmarket"
+        name="华为应用市场"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="huawei_mycenter"
+        name="会员中心"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="huawei_calculator"
+        name="计算器"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="huawei_browser"
+        name="浏览器"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="hauwei_soundrecorder"
+        name="录音机"
+        />
+
+    <item
+        drawable="huawei_hwouc"
+        name="软件更新"
+        />
+
+    <item
+        drawable="shark_jizhang"
+        name="鲨鱼记账"
+        />
+
+    <item
+        drawable="huawei_settingss"
+        name="设置"
+        />
+
+    <item
+        drawable="huawei_deskclock"
+        name="时钟"
+        />
+
+    <item
+        drawable="huawei_fmradio"
+        name="收音机"
         />
 
     <item
