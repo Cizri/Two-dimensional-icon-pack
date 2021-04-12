@@ -1831,8 +1831,173 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="huawei_light"
+        name="手电筒"
+        />
+
+    <item
+        drawable="huawei_manager"
+        name="手机管家"
+        />
+
+    <item
+        drawable="huawei_clone"
+        name="手机克隆"
+        />
+
+    <item
+        drawable="huawei_hiskytone"
+        name="天际通"
+        />
+
+    <item
+        drawable="huawei_weather"
+        name="天气"
+        />
+
+    <item
+        drawable="huawei_gallery"
+        name="图库"
+        />
+
+    <item
+        drawable="hauwei_tips"
+        name="玩机技巧"
+        />
+
+    <item
+        drawable="hauwei_filemanager"
+        name="文件管理"
+        />
+
+    <item
+        drawable="huawei_camera"
+        name="相机"
+        />
+
+    <item
+        drawable="xiaoya"
+        name="小雅"
+        />
+
+    <item
+        drawable="view_ctrip"
+        name="携程旅行"
+        />
+
+    <item
+        drawable="athena_wumii"
+        name="一点英语"
+        />
+
+    <item
+        drawable="huawei_hwonekeylock"
+        name="一键锁屏"
+        />
+
+    <item
+        drawable="huaer_mooc"
+        name="译学馆"
+        />
+
+    <item
+        drawable="huawei_gameassistant"
+        name="应用助手"
+        />
+
+    <item
+        drawable="mbank_yitong"
+        name="邮储银行"
+        />
+
+    <item
+        drawable="youdao_note"
+        name="有道云笔记"
+        />
+
+    <item
+        drawable="huawei_hwireader"
+        name="阅读"
+        />
+
+    <item
+        drawable="huawei_health"
+        name="运动健康"
+        />
+
+    <item
+        drawable="iudesk_photo"
+        name="照片编辑器"
+        />
+
+    <item
+        drawable="hanweb_zhejiang"
+        name="浙里办"
+        />
+
+    <item
+        drawable="huawei_compass"
+        name="指南针"
+        />
+
+    <item
+        drawable="huawei_smarthome"
+        name="智慧生活"
+        />
+
+    <item
+        drawable="huawei_vassistant"
+        name="智慧语音"
+        />
+
+    <item
+        drawable="huawei_remotecontroller"
+        name="智能遥控"
+        />
+
+    <item
+        drawable="icbc"
+        name="中国工商银行"
+        />
+
+    <item
+        drawable="huawei_thememanager"
+        name="主题"
+        />
+
+    <item
+        drawable="fimo"
+        name="FIMO"
+        />
+
+    <item
+        drawable="mono"
+        name="MONO"
+        />
+
+    <item
+        drawable="photomath"
+        name="Photomath"
+        />
+
+    <item
+        drawable="qqpim"
+        name="QQ同步助手"
+        />
+
+    <item
+        drawable="sim_01"
+        name="SIM 卡应用1"
+        />
+
+    <item
+        drawable="sim_02"
+        name="SIM 卡应用2"
+        />
+
+    <item
+        drawable="zarchiver_pro"
+        name="ZArchiver Pro"
         />
 
     <item

@@ -832,6 +832,10 @@
     <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}"
         drawable="xiamlaya_fm" />
 
+    <!-- 喜马拉雅 -->
+    <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.MainActivity}"
+        drawable="xiamlaya_fm" />
+
     <!-- 携程企业商旅 -->
     <item component="ComponentInfo{com.ctrip.ct/com.ctrip.ct.ui.activity.BusinessActivity}"
         drawable="ctrip_ct" />
@@ -1086,6 +1090,10 @@
 
     <!-- 知乎 -->
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}"
+        drawable="zhihu" />
+
+    <!-- 知乎 -->
+    <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
         drawable="zhihu" />
 
     <!-- 中国银行 -->
@@ -1355,7 +1363,7 @@
     <!-- AcFun -->
     <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
         drawable="acfun" />
-    <!--234-->
+
     <!-- CAD快速看图 -->
     <item component="ComponentInfo{com.glodon.drawingexplorer/com.glodon.drawingexplorer.activity.GSplashActivity}"
         drawable="caddrawingexplorer" />
@@ -1384,7 +1392,6 @@
     <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}"
         drawable="wps_office" />
 
-    <!--236-->
     <!-- 备忘录 -->
     <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}"
         drawable="huawei_notepad" />
@@ -1474,6 +1481,142 @@
     <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.FMRadio.page.PageActivity}"
         drawable="huawei_fmradio" />
 
+    <!--239-->
+    <!-- 手电筒 -->
+    <item component="ComponentInfo{com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity}"
+        drawable="huawei_light" />
+
+    <!-- 手机管家 -->
+    <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}"
+        drawable="huawei_manager" />
+
+    <!-- 手机克隆 -->
+    <item component="ComponentInfo{com.huawei.android.clone/com.huawei.android.clone.activity.sender.ChooseReceiveSendActivity}"
+        drawable="huawei_clone" />
+
+    <!-- 天际通 -->
+    <item component="ComponentInfo{com.huawei.hiskytone/com.huawei.skytone.account.welcome.SplashActivity}"
+        drawable="huawei_hiskytone" />
+
+    <!-- 天气 -->
+    <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}"
+        drawable="huawei_weather" />
+
+    <!-- 图库 -->
+    <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}"
+        drawable="huawei_gallery" />
+
+    <!-- 玩机技巧 -->
+    <item component="ComponentInfo{com.huawei.android.tips/com.huawei.android.tips.launch.ui.SplashActivity}"
+        drawable="hauwei_tips" />
+
+    <!-- 文件管理 -->
+    <item component="ComponentInfo{com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager}"
+        drawable="hauwei_filemanager" />
+
+    <!-- 相机 -->
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}"
+        drawable="huawei_camera" />
+
+    <!-- 小雅 -->
+    <item component="ComponentInfo{com.orion.xiaoya.speakerclient/com.orion.xiaoya.speakerclient.SplashActivity}"
+        drawable="xiaoya" />
+
+    <!-- 携程旅行 -->
+    <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}"
+        drawable="view_ctrip" />
+
+    <!-- 一点英语 -->
+    <item component="ComponentInfo{com.wumii.android.athena/com.wumii.android.athena.core.launch.LaunchActivity}"
+        drawable="athena_wumii" />
+
+    <!-- 一键锁屏 -->
+    <item component="ComponentInfo{com.huawei.hwonekeylock/com.huawei.hwonekeylock.HwOneKeyLock}"
+        drawable="huawei_hwonekeylock" />
+
+    <!-- 译学馆 -->
+    <item component="ComponentInfo{com.huaer.mooc/com.huaer.mooc.MainActivity}"
+        drawable="huaer_mooc" />
+
+    <!-- 应用助手 -->
+    <item component="ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}"
+        drawable="huawei_gameassistant" />
+
+    <!-- 邮储银行 -->
+    <item component="ComponentInfo{com.yitong.mbank.psbc/com.yitong.mbank.psbc.android.activity.SplashActivity}"
+        drawable="mbank_yitong" />
+
+    <!-- 有道云笔记 -->
+    <item component="ComponentInfo{com.youdao.note/com.youdao.note.splash.SplashActivity}"
+        drawable="youdao_note" />
+
+    <!-- 阅读 -->
+    <item component="ComponentInfo{com.huawei.hwireader/com.chaozh.iReader.ui.activity.WelcomeActivity}"
+        drawable="huawei_hwireader" />
+
+    <!-- 运动健康 -->
+    <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}"
+        drawable="huawei_health" />
+
+    <!-- 照片编辑器 -->
+    <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}"
+        drawable="iudesk_photo" />
+
+    <!-- 浙里办 -->
+    <item component="ComponentInfo{com.hanweb.android.zhejiang.activity/com.alibaba.gov.home.activity.LoadingActivity}"
+        drawable="hanweb_zhejiang" />
+
+    <!-- 指南针 -->
+    <item component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}"
+        drawable="huawei_compass" />
+
+    <!-- 智慧生活 -->
+    <item component="ComponentInfo{com.huawei.smarthome/com.huawei.smarthome.login.LauncherActivity}"
+        drawable="huawei_smarthome" />
+
+    <!-- 智慧语音 -->
+    <item component="ComponentInfo{com.huawei.vassistant/com.huawei.vassistant.ui.main.VAssistantActivity}"
+        drawable="huawei_vassistant" />
+
+    <!-- 智能遥控 -->
+    <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.app.RemoteControllerActivity}"
+        drawable="huawei_remotecontroller" />
+
+    <!-- 中国工商银行 -->
+    <item component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}"
+        drawable="icbc" />
+
+    <!-- 主题 -->
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}"
+        drawable="huawei_thememanager" />
+
+    <!-- FIMO -->
+    <item component="ComponentInfo{com.fimo.camera/com.fimo.camera.app.StartActivity}"
+        drawable="fimo" />
+
+    <!-- MONO -->
+    <item component="ComponentInfo{com.mmmono.mono/com.mmmono.mono.ui.spalsh.SplashScreenActivity}"
+        drawable="mono" />
+
+    <!-- Photomath -->
+    <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}"
+        drawable="photomath" />
+
+    <!-- QQ同步助手 -->
+    <item component="ComponentInfo{com.tencent.qqpim/com.tencent.qqpim.ui.QQPimAndroid}"
+        drawable="qqpim" />
+
+    <!-- SIM 卡应用1 -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
+        drawable="sim_01" />
+
+    <!-- SIM 卡应用2 -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}"
+        drawable="sim_02" />
+
+    <!-- ZArchiver Pro -->
+    <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}"
+        drawable="zarchiver_pro" />
 
 
 
