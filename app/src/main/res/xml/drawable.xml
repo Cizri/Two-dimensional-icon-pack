@@ -2001,6 +2001,51 @@
         />
 
     <item
+        drawable="ischool"
+        name="爱校园"
+        />
+
+    <item
+        drawable="geometricweather"
+        name="几何天气"
+        />
+
+    <item
+        drawable="terminal"
+        name="终端"
+        />
+
+    <item
+        drawable="anywhere"
+        name="Anywhere"
+        />
+
+    <item
+        drawable="apk_kit"
+        name="APK Kit"
+        />
+
+    <item
+        drawable="arianggui"
+        name="AriaNgGUI"
+        />
+
+    <item
+        drawable="fusionapp"
+        name="FusionApp"
+        />
+
+    <item
+        drawable="qqsavebattery"
+        name="QQ省电模块"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
         drawable="data"
         name="data"
         />

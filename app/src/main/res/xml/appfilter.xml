@@ -736,6 +736,10 @@
     <item component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}"
         drawable="baimiao_uzero" />
 
+    <!-- 白描 -->
+    <item component="ComponentInfo{com.uzero.baimiaog/com.uzero.baimiao.Hello}"
+        drawable="baimiao_uzero" />
+
     <!-- 包名查看 -->
     <item component="ComponentInfo{com.xcn.baoming/com.androlua.Welcome}"
         drawable="baoming" />
@@ -917,6 +921,10 @@
     <item component="ComponentInfo{github.tornaco.android.thanos.pro/github.tornaco.android.thanos.main.NavActivity}"
         drawable="thanox_pro" />
 
+    <!-- Thanox Pro -->
+    <item component="ComponentInfo{github.tornaco.android.thanos.pro/github.tornaco.android.thanos.dev.MainActivity}"
+        drawable="thanox_pro" />
+
     <!-- 米家 -->
     <item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
         drawable="xiaomi_smarthome" />
@@ -993,6 +1001,10 @@
 
     <!-- 乐淘生活 -->
     <item component="ComponentInfo{com.jy.lexiang/com.jy.lexiang.ui.WelcomeActivity}"
+        drawable="lexiang_jy" />
+
+    <!-- 乐淘生活 -->
+    <item component="ComponentInfo{com.jy.lexiang/odwkso.lllll}"
         drawable="lexiang_jy" />
 
     <!-- 猫报 Lite -->
@@ -1082,6 +1094,10 @@
 
     <!-- 烟雨江湖Wiki -->
     <item component="ComponentInfo{com.MyFusApp.yanyujianghuWiki/com.androlua.Welcome}"
+        drawable="yanyujianghuwiki" />
+
+    <!-- 烟雨江湖Wiki -->
+    <item component="ComponentInfo{com.MyFusApp.yanyujianghuWiki/net.fusionapp.core.WelcomeActivity}"
         drawable="yanyujianghuwiki" />
 
     <!-- 邮箱大师 -->
@@ -1618,6 +1634,38 @@
     <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}"
         drawable="zarchiver_pro" />
 
+    <!--20210424-1-->
+    <!-- 爱校园 -->
+    <item component="ComponentInfo{com.gsww.ischool/com.gsww.ischool.activity.WelcomeActivity}"
+        drawable="ischool" />
+
+    <!-- 几何天气 -->
+    <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}"
+        drawable="geometricweather" />
+
+    <!-- 终端 -->
+    <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}"
+        drawable="terminal" />
+
+    <!-- Anywhere- -->
+    <item component="ComponentInfo{com.absinthe.anywhere_/com.absinthe.anywhere_.MainAliasActivity}"
+        drawable="anywhere" />
+
+    <!-- APK Kit -->
+    <item component="ComponentInfo{com.github.ghmxr.apkextractor/com.github.ghmxr.apkextractor.activities.MainActivity}"
+        drawable="apk_kit" />
+
+    <!-- AriaNgGUI -->
+    <item component="ComponentInfo{com.xmader.aria_ng_gui_android/com.xmader.aria_ng_gui_android.MainActivity}"
+        drawable="arianggui" />
+
+    <!-- FusionApp -->
+    <item component="ComponentInfo{net.fusionapp/net.fusionapp.MainActivity}"
+        drawable="fusionapp" />
+
+    <!-- QQ省电模块 -->
+    <item component="ComponentInfo{com.fankes.qqsavebattery/com.fankes.qqsavebattery.MainActivity}"
+        drawable="qqsavebattery" />
 
 
 
