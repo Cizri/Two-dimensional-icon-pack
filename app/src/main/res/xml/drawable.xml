@@ -2041,6 +2041,81 @@
         />
 
     <item
+        drawable="gov"
+        name="国务院"
+        />
+
+    <item
+        drawable="mfw_roadbook"
+        name="马蜂窝旅游"
+        />
+
+    <item
+        drawable="tencent_mymedinfo"
+        name="腾讯医典"
+        />
+
+    <item
+        drawable="netease_mail_lite"
+        name="网易邮箱"
+        />
+
+    <item
+        drawable="dandelion_routine"
+        name="小日常"
+        />
+
+    <item
+        drawable="ccdi_news"
+        name="中央纪委网站"
+        />
+
+    <item
+        drawable="biubiu_ping"
+        name="biubiu加速器"
+        />
+
+    <item
+        drawable="cuto"
+        name="Cuto"
+        />
+
+    <item
+        drawable="fooview"
+        name="FV悬浮球"
+        />
+
+    <item
+        drawable="gboard"
+        name="Gboard"
+        />
+
+    <item
+        drawable="pureweather"
+        name="Pure天气"
+        />
+
+    <item
+        drawable="swift_backup"
+        name="Swift Backup"
+        />
+
+    <item
+        drawable="tiktok"
+        name="TikTok"
+        />
+
+    <item
+        drawable="todesk"
+        name="ToDesk"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
         drawable="data"
         name="data"
         />

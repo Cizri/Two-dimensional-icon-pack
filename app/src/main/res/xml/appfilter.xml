@@ -1669,6 +1669,61 @@
     <item component="ComponentInfo{com.fankes.qqsavebattery/com.fankes.qqsavebattery.MainActivity}"
         drawable="qqsavebattery" />
 
+    <!-- 国务院 -->
+    <item component="ComponentInfo{com.gov.cn/com.gov.cn.GovNewsAt}"
+        drawable="gov" />
+
+    <!-- 马蜂窝旅游 -->
+    <item component="ComponentInfo{com.mfw.roadbook/com.mfw.roadbook.business.launch.StartActivity}"
+        drawable="mfw_roadbook" />
+
+    <!-- 腾讯医典 -->
+    <item component="ComponentInfo{com.tencent.mymedinfo/com.tencent.mymedinfo.MainActivity}"
+        drawable="tencent_mymedinfo" />
+
+    <!-- 网易邮箱 -->
+    <item component="ComponentInfo{com.netease.mobimail/com.netease.mobimail.activity.LaunchActivity}"
+        drawable="netease_mail_lite" />
+
+    <!-- 小日常 -->
+    <item component="ComponentInfo{com.dandelion.routine/com.dandelion.routine.MainActivity}"
+        drawable="dandelion_routine" />
+
+    <!-- 中央纪委网站 -->
+    <item component="ComponentInfo{com.ccdi.news/com.ccdi.news.ui.boot.BootActivity}"
+        drawable="ccdi_news" />
+
+    <!-- biubiu加速器 -->
+    <item component="ComponentInfo{com.njh.biubiu/com.njh.ping.launcher.LauncherActivity}"
+        drawable="biubiu_ping" />
+
+    <!-- Cuto -->
+    <item component="ComponentInfo{com.sspai.cuto.android/com.sspai.cuto.android.ui.main.MainActivity}"
+        drawable="cuto" />
+
+    <!-- FV悬浮球 -->
+    <item component="ComponentInfo{com.fooview.android.fooview/com.fooview.android.fooview.MainActivity}"
+        drawable="fooview" />
+
+    <!-- Gboard -->
+    <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}"
+        drawable="gboard" />
+
+    <!-- Pure天气 -->
+    <item component="ComponentInfo{hanjie.app.pureweather/hanjie.app.pureweather.module.SplashActivity}"
+        drawable="pureweather" />
+
+    <!-- Swift Backup -->
+    <item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}"
+        drawable="swift_backup" />
+
+    <!-- TikTok -->
+    <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="tiktok" />
+
+    <!-- ToDesk -->
+    <item component="ComponentInfo{youqu.android.todesk/youqu.android.todesk.activity.WelcomeActivity}"
+        drawable="todesk" />
 
 
 

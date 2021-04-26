@@ -38,7 +38,7 @@
 <!--    <string name="alipay_code" translatable="false">tsx083367dghotyahi8lq2e</string>    -->
 
     <!-- 更新了啥？或者关于信息 -->
-    <string name="update_content" translatable="false">• 偷摸更新\n\n• 异世相遇，尽享美味\n\n• 图标错误或bug请给在酷安评论区反馈 </string>
+    <string name="update_content" translatable="false">• 申请适配请使用最新的版本\n\n• 请发送更多的适配邮件\n\n• 图标问题请给酷安反馈 </string>
 
     <!-- 如果不想展示个人主页的banner图请将内容改为：false，替换图片请到drawable目录替换掉图片文件 -->
     <!--<string name="banner_background">true</string>-->
