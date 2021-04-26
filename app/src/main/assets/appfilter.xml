@@ -4,6 +4,8 @@
     <iconback img1="iconback" />
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
+    <icon_folder img1="icon_folder"/>
+    <icon_folder_light img1="icon_folder_light"/>
     <scale factor="0.7" />
 
 
