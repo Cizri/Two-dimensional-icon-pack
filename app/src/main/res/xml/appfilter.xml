@@ -4,8 +4,6 @@
     <iconback img1="iconback" />
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
-    <icon_folder img1="icon_folder"/>
-    <icon_folder_light img1="icon_folder_light"/>
     <scale factor="0.7" />
 
 
@@ -1716,7 +1714,7 @@
     <!-- Swift Backup -->
     <item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}"
         drawable="swift_backup" />
-
+9
     <!-- TikTok -->
     <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}"
         drawable="tiktok" />
@@ -1726,16 +1724,140 @@
         drawable="todesk" />
 
 
+    <!-- 安装狮 -->
+    <item component="ComponentInfo{com.modosa.apkinstaller/com.modosa.apkinstaller.activity.MainActivity}"
+        drawable="modosa_apkinstaller" />
 
+    <!-- 保卫萝卜 -->
+    <item component="ComponentInfo{com.carrot.carrotfantasy/com.carrot.carrotfantasy.Agreement}"
+        drawable="carrotcarrotfantasy" />
 
+    <!-- 保卫萝卜3 -->
+    <item component="ComponentInfo{com.tencent.tmgp.carrot3dj/com.tencent.tmgp.carrot3dj.Agreement}"
+        drawable="carrotsandj" />
 
+    <!-- 杜比音效 -->
+    <item component="ComponentInfo{com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.welcome.WelcomeActivity}"
+        drawable="motorola_dolby" />
 
+    <!-- 多彩宝 -->
+    <item component="ComponentInfo{cn.gogpay.dcb/cn.gogpay.dcb.activity.LaunchScreenActivity}"
+        drawable="gogpay_dcb" />
 
+    <!-- 割绳子2 -->
+    <item component="ComponentInfo{com.yodo1tier1.ctr2.TXWXYY/com.yodo1.android.sdk.view.SplashActivity}"
+        drawable="yodoonetier" />
 
+    <!-- 弓箭手大作战 -->
+    <item component="ComponentInfo{com.tencent.tmgp.arrowio/com.cmcm.arrowio.AppActivity}"
+        drawable="tencent_arrowio" />
 
+    <!-- 幻灯片 -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="google_slides" />
 
+    <!-- 文档 -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="google_docs" />
 
+    <!-- 强制打盹 -->
+    <item component="ComponentInfo{com.click369.dozex/com.click369.dozex.MainActivity}"
+        drawable="dozex_click" />
 
+    <!-- 贪吃蛇大作战® -->
+    <item component="ComponentInfo{com.wepie.snake.tencent/com.wepie.snake.app.activity.StartActivity}"
+        drawable="wepie_snake" />
 
+    <!-- 微软桌面 -->
+    <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}"
+        drawable="microsoft_launcher" />
+
+    <!-- 小区广播 -->
+    <item component="ComponentInfo{com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastListActivity}"
+        drawable="cellbroadcastreceiver" />
+
+    <!-- 迅游手游加速器 -->
+    <item component="ComponentInfo{cn.wsds.gamemaster/cn.wsds.gamemaster.ui.ActivityStart}"
+        drawable="wsds_gamemaster" />
+
+    <!-- 照相机 -->
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}"
+        drawable="lge_camera" />
+
+    <!-- 游戏启动器 -->
+    <item component="ComponentInfo{com.lge.gamelauncher/com.lge.gamelauncher.ui.home.GameLauncherActivity}"
+        drawable="lge_gamelauncher" />
+
+    <!-- 掌上高铁 -->
+    <item component="ComponentInfo{com.crgt.ilife/com.crgt.ilife.plugin.sessionmanager.fg.main.NewSplashActivity}"
+        drawable="crgt_ilife" />
+
+    <!-- 植物大战僵尸2 -->
+    <item component="ComponentInfo{com.tencent.tmgp.pvz2hdtxyyb/com.talkweb.twOfflineSdk.YSDKActivity}"
+        drawable="tencent_pvz2hdtxyyb" />
+
+    <!-- 智能镜头 -->
+    <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"
+        drawable="google_lens" />
+
+    <!-- FM 收音机 -->
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}"
+        drawable="lge_fmradio" />
+
+    <!-- HD 录音机 -->
+    <item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}"
+        drawable="lge_hifirecorder" />
+
+    <!-- LG 数据转移 -->
+    <item component="ComponentInfo{com.lge.bnr.launcher/com.lge.bnr.launcher.BNRLauncherActivity}"
+        drawable="lge_launcher_bnr" />
+
+    <!-- LG健康 -->
+    <item component="ComponentInfo{com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity}"
+        drawable="lge_lifetracker" />
+
+    <!-- Microsoft 365 Admin -->
+    <item component="ComponentInfo{com.ms.office365admin/com.ms.office365admin.SplashScreen}"
+        drawable="microsoft_365_admin" />
+
+    <!-- Moggy -->
+    <item component="ComponentInfo{com.github.v2board.client/com.github.v2board.client.MainActivity}"
+        drawable="moggy" />
+
+    <!-- Play 音乐 -->
+    <item component="ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}"
+        drawable="googel_play_music" />
+
+    <!-- PUBG Tool -->
+    <item component="ComponentInfo{com.yaxisvip.pubgtool/com.e4a.runtime.android.StartActivity}"
+        drawable="pubg_tool" />
+
+    <!-- Quick帮助 -->
+    <item component="ComponentInfo{com.lge.qhelp.application/com.lge.qhelp.application.QHelpMain}"
+        drawable="lge_quick_help" />
+
+    <!-- Quick备忘录+ -->
+    <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}"
+        drawable="lge_quick" />
+
+    <!-- RemoteCall Service -->
+    <item component="ComponentInfo{com.rsupport.rs.activity.lge.allinone/com.rsupport.rs.activity.edit.IntroActivity}"
+        drawable="remotecall_service" />
+
+    <!-- SmartWorld -->
+    <item component="ComponentInfo{com.lge.lgworld/com.lge.lgworld.ui.activity.MainActivity}"
+        drawable="lge_smartworld" />
+
+    <!-- WiFi万能钥匙 -->
+    <item component="ComponentInfo{com.snda.wifilocating/com.lantern.launcher.ui.MainActivity}"
+        drawable="wifikey" />
+
+    <!-- 百分网游戏盒子 -->
+    <item component="ComponentInfo{com.byfen.market/com.byfen.market.ui.aty.SplashActivity}"
+        drawable="byfen" />
+
+    <!-- FTP Share -->
+    <item component="ComponentInfo{com.github.ghmxr.ftpshare/com.github.ghmxr.ftpshare.activities.MainActivity}"
+        drawable="ftp_share" />
 
 </resources>

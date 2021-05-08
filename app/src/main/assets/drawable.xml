@@ -5,7 +5,7 @@
     <!--title="分类,这里以首字母为例"-->
     <!--<item drawable="图标文件名字(只能含有小写字母，下划线，数字，必须以字母开头)，不含后缀名" />-->
 
-    <category title="系统" />
+    <category title="全部-直接搜索应用名即可" />
     <item
         drawable="excean_kxqp"
         name="99手游加速器"
@@ -2111,8 +2111,173 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="modosa_apkinstaller"
+        name="安装狮"
+        />
+
+    <item
+        drawable="carrotcarrotfantasy"
+        name="保卫萝卜"
+        />
+
+    <item
+        drawable="carrotsandj"
+        name="保卫萝卜3"
+        />
+
+    <item
+        drawable="motorola_dolby"
+        name="杜比音效"
+        />
+
+    <item
+        drawable="gogpay_dcb"
+        name="多彩宝"
+        />
+
+    <item
+        drawable="yodoonetier"
+        name="割绳子2"
+        />
+
+    <item
+        drawable="tencent_arrowio"
+        name="弓箭手大作战"
+        />
+
+    <item
+        drawable="google_slides"
+        name="幻灯片"
+        />
+
+    <item
+        drawable="google_docs"
+        name="文档"
+        />
+
+    <item
+        drawable="dozex_click"
+        name="强制打盹"
+        />
+
+    <item
+        drawable="wepie_snake"
+        name="贪吃蛇大作战®"
+        />
+
+    <item
+        drawable="microsoft_launcher"
+        name="微软桌面"
+        />
+
+    <item
+        drawable="cellbroadcastreceiver"
+        name="小区广播"
+        />
+
+    <item
+        drawable="wsds_gamemaster"
+        name="迅游手游加速器"
+        />
+
+    <item
+        drawable="lge_camera"
+        name="照相机"
+        />
+
+    <item
+        drawable="lge_gamelauncher"
+        name="游戏启动器"
+        />
+
+    <item
+        drawable="crgt_ilife"
+        name="掌上高铁"
+        />
+
+    <item
+        drawable="tencent_pvz2hdtxyyb"
+        name="植物大战僵尸2"
+        />
+
+    <item
+        drawable="google_lens"
+        name="智能镜头"
+        />
+
+    <item
+        drawable="lge_fmradio"
+        name="FM 收音机"
+        />
+
+    <item
+        drawable="lge_hifirecorder"
+        name="HD 录音机"
+        />
+
+    <item
+        drawable="lge_launcher_bnr"
+        name="LG 数据转移"
+        />
+
+    <item
+        drawable="lge_lifetracker"
+        name="LG健康"
+        />
+
+    <item
+        drawable="microsoft_365_admin"
+        name="Microsoft 365 Admin"
+        />
+
+    <item
+        drawable="moggy"
+        name="Moggy"
+        />
+
+    <item
+        drawable="googel_play_music"
+        name="Play 音乐"
+        />
+
+    <item
+        drawable="pubg_tool"
+        name="PUBG Tool"
+        />
+
+    <item
+        drawable="lge_quick_help"
+        name="Quick帮助"
+        />
+
+    <item
+        drawable="lge_quick"
+        name="Quick备忘录+"
+        />
+
+    <item
+        drawable="remotecall_service"
+        name="RemoteCall Service"
+        />
+
+    <item
+        drawable="lge_smartworld"
+        name="SmartWorld"
+        />
+
+    <item
+        drawable="wifikey"
+        name="WiFi万能钥匙"
+        />
+
+    <item
+        drawable="byfen"
+        name="百分网游戏盒子"
+        />
+
+    <item
+        drawable="ftp_share"
+        name="FTP Share"
         />
 
     <item
@@ -2124,5 +2289,11 @@
         drawable="data"
         name="data"
         />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
 
 </resources>
