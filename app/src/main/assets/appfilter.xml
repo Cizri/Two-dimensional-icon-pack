@@ -966,7 +966,6 @@
     <item component="ComponentInfo{com.hicorenational.antifraud/ui.activity.WelcomeActivity}"
         drawable="hicorenational_antifraud" />
 
-    <!--4.7-->
     <!-- 大众点评 -->
     <item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.LaunchActivity}"
         drawable="dianping_main" />
@@ -1025,7 +1024,7 @@
 
     <!-- 555电影 -->
     <item component="ComponentInfo{com.o8tv/cn.xiaoguikeji.video.MainActivity}"
-        drawable="xiachufang_lazycook" />
+        drawable="xiaoguikeji" />
 
     <!-- 阿里云盘 -->
     <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.login.LoginActivity}"
@@ -1047,7 +1046,6 @@
     <item component="ComponentInfo{moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity}"
         drawable="shizuku_redirectstorage" />
 
-    <!--229-->
     <!-- 清浊 -->
     <item component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.SplashActivity}"
         drawable="qingzhuo" />

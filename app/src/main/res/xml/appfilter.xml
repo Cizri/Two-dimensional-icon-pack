@@ -1025,7 +1025,7 @@
 
     <!-- 555电影 -->
     <item component="ComponentInfo{com.o8tv/cn.xiaoguikeji.video.MainActivity}"
-        drawable="xiachufang_lazycook" />
+        drawable="xiaoguikeji" />
 
     <!-- 阿里云盘 -->
     <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.login.LoginActivity}"
