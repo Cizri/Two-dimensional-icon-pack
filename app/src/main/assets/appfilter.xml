@@ -1374,6 +1374,10 @@
     <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}"
         drawable="mc10086mm" />
 
+        <!-- 中国移动 -->
+    <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.mc10086.cmcc.base.StartPageActivity}" 
+        drawable="mc10086mm" />
+
     <!-- AcFun -->
     <item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
         drawable="acfun" />
@@ -1857,5 +1861,17 @@
     <!-- FTP Share -->
     <item component="ComponentInfo{com.github.ghmxr.ftpshare/com.github.ghmxr.ftpshare.activities.MainActivity}"
         drawable="ftp_share" />
+
+    <!-- 叮咚买菜 -->
+    <item component="ComponentInfo{com.yaya.zone/com.yaya.zone.activity.SplashActivity}"
+        drawable="yayazone" />
+
+    <!-- 食药云搜 -->
+    <item component="ComponentInfo{com.cfdaic.app/com.cfdaic.app.mvp.guide.SplashActivity}"
+        drawable="cfdaic_mvp" />
+
+    <!-- 网易严选 -->
+    <item component="ComponentInfo{com.netease.yanxuan/com.netease.yanxuan.module.splash.SplashActivity}"
+        drawable="netease_yanxuan" />
 
 </resources>

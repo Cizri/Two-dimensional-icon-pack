@@ -2281,8 +2281,18 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="yayazone"
+        name="叮咚买菜"
+        />
+
+    <item
+        drawable="cfdaic_mvp"
+        name="食药云搜"
+        />
+
+    <item
+        drawable="netease_yanxuan"
+        name="网易严选"
         />
 
     <item
