@@ -2296,8 +2296,263 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="aiwu_game"
+        name="爱吾游戏宝盒"
+        />
+
+    <item
+        drawable="bijian_studio"
+        name="必剪"
+        />
+
+    <item
+        drawable="alibabawireless"
+        name="采源宝"
+        />
+
+    <item
+        drawable="dragonread"
+        name="番茄免费小说"
+        />
+
+    <item
+        drawable="guodongorange"
+        name="果冻橡皮章"
+        />
+
+    <item
+        drawable="yunmai"
+        name="好轻"
+        />
+
+    <item
+        drawable="huluxia"
+        name="葫芦侠"
+        />
+
+    <item
+        drawable="butter_yellow"
+        name="黄油相机"
+        />
+
+    <item
+        drawable="lemon_launcher"
+        name="剪映"
+        />
+
+    <item
+        drawable="jd_jf"
+        name="京粉"
+        />
+
+    <item
+        drawable="hunantv_imgo"
+        name="芒果TV国际"
+        />
+
+    <item
+        drawable="dailyyoga_module"
+        name="每日瑜伽"
+        />
+
+    <item
+        drawable="henzanapp"
+        name="喵喵折"
+        />
+
+    <item
+        drawable="lstech_rehealth"
+        name="派健康"
+        />
+
+    <item
+        drawable="shimo_shimowendang"
+        name="石墨文档"
+        />
+
+    <item
+        drawable="time_man"
+        name="时间规划局"
+        />
+
+    <item
+        drawable="pufei_dongman"
+        name="扑飞漫画"
+        />
+
+    <item
+        drawable="tencent_gamereva"
+        name="腾讯先游"
+        />
+
+    <item
+        drawable="psyone"
+        name="小睡眠"
+        />
+
+    <item
+        drawable="baidu_tieba_lite"
+        name="贴吧极速版"
+        />
+
+    <item
+        drawable="menstrual"
+        name="西柚大姨妈"
+        />
+
+    <item
+        drawable="xiachufang"
+        name="下厨房"
+        />
+
+    <item
+        drawable="xt_retouch"
+        name="醒图"
+        />
+
+    <item
+        drawable="taobao_yitao"
+        name="一淘"
+        />
+
+    <item
+        drawable="youdao_translator"
+        name="有道翻译官"
+        />
+
+    <item
+        drawable="ztgame_yyzy"
+        name="月圆之夜"
+        />
+
+    <item
+        drawable="heytap_zhineng"
+        name="智能家具"
+        />
+
+    <item
+        drawable="alook"
+        name="Alook"
+        />
+
+    <item
+        drawable="inshot_camerasideas"
+        name="InShot-视频编辑"
+        />
+
+    <item
+        drawable="jj_view"
+        name="JJ斗地主"
+        />
+
+    <item
+        drawable="naver"
+        name="Naver"
+        />
+
+    <item
+        drawable="newpipe"
+        name="NewPipe"
+        />
+
+    <item
+        drawable="ourplay"
+        name="OurPlay"
+        />
+
+    <item
+        drawable="picsartstudio"
+        name="PicsArt美易照片编辑"
+        />
+
+    <item
+        drawable="tencent_bw"
+        name="QQ浏览器"
+        />
+
+    <item
+        drawable="snapseed"
+        name="Snapseed"
+        />
+
+    <item
+        drawable="super_pads"
+        name="Super Pads"
+        />
+
+    <item
+        drawable="ultimate_vpn"
+        name="Ultimate_VPN"
+        />
+
+    <item
+        drawable="v_star_naver"
+        name="V Star 空间 "
+        />
+
+    <item
+        drawable="miui_notes"
+        name="便签"
+        />
+
+    <item
+        drawable="miui_contacts"
+        name="电话"
+        />
+
+    <item
+        drawable="miui_mms"
+        name="短信"
+        />
+
+    <item
+        drawable="miui_miservice"
+        name="服务与反馈"
+        />
+
+    <item
+        drawable="miui_health"
+        name="健康"
+        />
+
+    <item
+        drawable="miui_browser"
+        name="浏览器"
+        />
+
+    <item
+        drawable="miui_soundrecorder"
+        name="录音机"
+        />
+
+    <item
+        drawable="miui_screenrecorder"
+        name="屏幕录制"
+        />
+
+    <item
+        drawable="qq_ac"
+        name="腾讯动漫"
+        />
+
+    <item
+        drawable="cctv"
+        name="央视频"
+        />
+
+    <item
+        drawable="qmd"
+        name="QMD"
+        />
+
+    <item
+        drawable="yuyin_tts"
+        name="TTS"
+        />
+
+    <item
+        drawable="home_1"
+        name="Home"
         />
 
     <item
