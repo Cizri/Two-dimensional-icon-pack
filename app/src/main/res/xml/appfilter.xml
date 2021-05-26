@@ -164,6 +164,10 @@
     <item component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}"
         drawable="gorgeous_lite" />
 
+    <!-- 轻颜相机 -->
+    <item component="ComponentInfo{com.gorgeous.lite/com.light.beauty.mainpage.MainActivity}"
+        drawable="gorgeous_lite_s" />
+
     <!-- 清浊 -->
     <item component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.MainActivity}"
         drawable="farplace_qingzhuo" />
@@ -2117,5 +2121,29 @@
     <!-- TTS -->
     <item component="ComponentInfo{me.ag2s.tts/me.ag2s.tts.MainActivity}"
         drawable="yuyin_tts" />
+
+    <!-- 贵州通 -->
+    <item component="ComponentInfo{com.suma.gztong/com.cecurs.home.newhome.ui.main.NewHomeActivity}"
+        drawable="gztong" />
+
+    <!-- 酷我音乐 -->
+    <item component="ComponentInfo{cn.kuwo.player/cn.kuwo.player.activities.EntryActivity}"
+        drawable="kuwo_music" />
+
+    <!-- 腾讯手机管家 -->
+    <item component="ComponentInfo{com.tencent.qqpimsecure/com.tencent.server.fore.DefaultAliasActivity}"
+        drawable="tencent_qqpimsecure" />
+
+    <!-- 小翼管家 -->
+    <item component="ComponentInfo{com.yueme.itv/com.muticontrolclient.itv.ui.activity.CoverActivity}"
+        drawable="yueme_itv" />
+
+    <!-- Microsoft Lens -->
+    <item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}"
+        drawable="microsoft_lens" />
+
+    <!-- PicACG -->
+    <item component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}"
+        drawable="picacg" />
        
 </resources>

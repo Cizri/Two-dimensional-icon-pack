@@ -2556,6 +2556,51 @@
         />
 
     <item
+        drawable="gztong"
+        name="贵州通"
+        />
+
+    <item
+        drawable="kuwo_music"
+        name="酷我音乐"
+        />
+
+    <item
+        drawable="gorgeous_lite_s"
+        name="轻颜相机"
+        />
+
+    <item
+        drawable="tencent_qqpimsecure"
+        name="腾讯手机管家"
+        />
+
+    <item
+        drawable="yueme_itv"
+        name="小翼管家"
+        />
+
+    <item
+        drawable="microsoft_lens"
+        name="Microsoft Lens"
+        />
+
+    <item
+        drawable="picacg"
+        name="PicACG"
+        />
+
+    <item
+        drawable="三角"
+        name="sanjiao"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
         drawable="data"
         name="data"
         />
