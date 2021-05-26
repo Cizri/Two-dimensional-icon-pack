@@ -4,8 +4,21 @@
 
     <!--title="分类,这里以首字母为例"-->
     <!--<item drawable="图标文件名字(只能含有小写字母，下划线，数字，必须以字母开头)，不含后缀名" />-->
+    <!--一些例外的图标装饰用-->
 
-    <category title="全部-直接搜索应用名即可" />
+    <category title="特别的ICon"/>
+    <item
+        drawable="sanjiao"
+        name="三角"
+    />
+
+    <item
+        drawable="home_1"
+        name="Home"
+    />
+
+    <!--拥有启动类-->
+    <category title="全部"/>
     <item
         drawable="excean_kxqp"
         name="99手游加速器"
@@ -2551,11 +2564,6 @@
         />
 
     <item
-        drawable="home_1"
-        name="Home"
-        />
-
-    <item
         drawable="gztong"
         name="贵州通"
         />
@@ -2588,11 +2596,6 @@
     <item
         drawable="picacg"
         name="PicACG"
-        />
-
-    <item
-        drawable="三角"
-        name="sanjiao"
         />
 
     <item
