@@ -1035,7 +1035,7 @@
         drawable="alicloud" />
 
     <!-- 阿里云盘 -->
-    <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.login.LoginActivity}"
+    <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.biz.splash.SplashActivity}"
         drawable="alicloud_one" />
 
     <!-- 纯纯打码 -->
@@ -1378,7 +1378,7 @@
     <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}"
         drawable="mc10086mm" />
 
-        <!-- 中国移动 -->
+    <!-- 中国移动 -->
     <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.mc10086.cmcc.base.StartPageActivity}" 
         drawable="mc10086mm" />
 
@@ -2145,5 +2145,154 @@
     <!-- PicACG -->
     <item component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}"
         drawable="picacg" />
-       
+
+    <!-- 大圣净化 -->
+    <item component="ComponentInfo{com.ext.star.wars/com.dahuo.sunflower.none.ui.SplashActivity.Hide}"
+        drawable="ext_starext_star" />
+
+    <!-- 对话框取消 Beta版 -->
+    <item component="ComponentInfo{com.mhook.dialog.beta/com.mhook.dialog.beta.alias}"
+        drawable="mhook_beta" />
+
+    <!-- 荒野乱斗 -->
+    <item component="ComponentInfo{com.youzu.bs.huawei/com.supercell.brawlstars.GameAppYoozoo}"
+        drawable="tencent_supercell" />
+
+    <!-- 加菲猫影视 -->
+    <item component="ComponentInfo{com.jfm202203/com.video.test.module.homepage.HomepageActivity}"
+        drawable="jfm_vide" />
+
+    <!-- 科学计算器 -->
+    <item component="ComponentInfo{stephenssoftware.scientificcalculatorprof/stephenssoftware.scientificcalculatorprof.MainActivity}"
+        drawable="stephenssoftware" />
+
+    <!-- 模拟位置 -->
+    <item component="ComponentInfo{com.rong.xposed.fakelocation/com.rong.xposed.fakelocation.ui.MainActivity}"
+        drawable="xposed_rong" />
+
+    <!-- 强国辅助 -->
+    <item component="ComponentInfo{xzy.auto.xxqg/com.stardust.autojs.inrt.SplashActivity}"
+        drawable="xxqg_xzy" />
+
+    <!-- 雀魂麻將 -->
+    <item component="ComponentInfo{com.soulgamechst.majsoul/com.soulgamechst.mahjongsoulsdk.MainActivity}"
+        drawable="soulgamechst" />
+
+    <!-- 雀魂麻將 -->
+    <item component="ComponentInfo{com.soulgamechst.majsoul/com.soulgamechst.mahjongsoulsdk.MainActivity}"
+        drawable="soulgamechst_cn" />
+
+    <!-- 腾讯手游加速器 -->
+    <item component="ComponentInfo{com.tencent.cmocmna/com.tencent.mocmna.activity.SplashActivity}"
+        drawable="tencent_cmocmna" />
+
+    <!-- AFWall+ -->
+    <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}"
+        drawable="afwall" />
+
+    <!-- Assistant Shortcuts -->
+    <item component="ComponentInfo{host.stjin.assistantshortcuts/host.stjin.assistantshortcuts.IntroActivity}"
+        drawable="assistant_shortcuts" />
+
+    <!-- Audio HeadQuarter -->
+    <item component="ComponentInfo{io.alcatraz.audiohq/io.alcatraz.audiohq.activities.SetupActivity}"
+        drawable="audio_headquarter" />
+
+    <!-- GitHub -->
+    <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}"
+        drawable="github" />
+
+    <!-- Symbolab -->
+    <item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}"
+        drawable="symbolab" />
+
+    <!-- X8大师 -->
+    <item component="ComponentInfo{com.x8zs.ds/com.x8zs.ui.main.MainActivity}"
+        drawable="xzsd_ui" />
+
+    <!-- 115 -->
+    <item component="ComponentInfo{com.ylmf.androidclient/com.main.partner.user.activity.LogActivity}"
+        drawable="ylmf_main" />
+
+    <!-- 70迈 -->
+    <item component="ComponentInfo{com.banyac.midrive.app/com.banyac.midrive.app.ui.activity.login.SplashActivity}"
+        drawable="banyac" />
+
+    <!-- 宝宝记 -->
+    <item component="ComponentInfo{com.lingan.yunqi/com.meiyou.pregnancy.ui.welcome.WelcomeActivity}"
+        drawable="lingan" />
+
+    <!-- 拨打电话 -->
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
+        drawable="dialer" />
+
+    <!-- 短信 -->
+    <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
+        drawable="messaging" />
+
+    <!-- 方糖图标包 -->
+    <item component="ComponentInfo{com.sugarblock.iconpack/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="sugarblock" />
+
+    <!-- 飞鸟下载器 -->
+    <item component="ComponentInfo{com.feiniaobt/com.feiniaobt.launcher_Activity}"
+        drawable="feiniaobt" />
+
+    <!-- 搞机工具箱 -->
+    <item component="ComponentInfo{com.cz.GJ2X/com.cz.GJ2X.MainActivity}"
+        drawable="gjzx_cz" />
+
+    <!-- 搞机助手重制版 -->
+    <item component="ComponentInfo{com.gjzs.chongzhi.online/com.projectkr.shell.SplashActivity}"
+        drawable="gjzs_cz" />
+
+    <!-- 和彩云网盘 -->
+    <item component="ComponentInfo{com.chinamobile.mcloud/com.chinamobile.mcloud.client.ui.logo.LogoActivity}"
+        drawable="chinamobile_cloud" />
+
+    <!-- 和家亲 -->
+    <item component="ComponentInfo{com.cmri.universalapp/com.cmri.universalapp.splash.activity.SplashActivity}"
+        drawable="cmri_qin" />
+
+    <!-- 河北人社 -->
+    <item component="ComponentInfo{com.neuqsoft.newggfwmobile/com.neuqsoft.newggfwmobile.view.activity.SplashActivity}"
+        drawable="newggfwmobile" />
+
+    <!-- 衡水医保 -->
+    <item component="ComponentInfo{com.neuqsoft.ggfwandroid_hs_medical/com.neuqsoft.ggfwandroid.mvp.ui.activity.SplashActivity}"
+        drawable="neuqsoft" />
+
+    <!-- 河北移动 -->
+    <item component="ComponentInfo{com.hbmcc.heshenghuo/com.hbmcc.heshenghuo.ui.welcome.WelcomeActivity}"
+        drawable="mc10086mm" />
+
+    <!-- 极速浏览器 -->
+    <item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}"
+        drawable="qihoo_con" />
+
+    <!-- 焦糖图标包 -->
+    <item component="ComponentInfo{com.caramel.iconpack/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="iconpack_jiaotang" />
+
+    <!-- 净化搜索 -->
+    <item component="ComponentInfo{com.clear789/com.e4a.runtime.android.StartActivity}"
+        drawable="clean_sou" />
+
+    <!-- 开心消消乐® -->
+    <item component="ComponentInfo{com.happyelements.AndroidAnimal.ad/com.happyelements.hellolua.MainActivity}"
+        drawable="happyelements" />
+
+    <!-- 快猫 -->
+    <item component="ComponentInfo{com.xxx.svideo/com.xxx.svideo.base.SplashActivity}"
+        drawable="svideo" />
+
+    <!-- 老爸评测 -->
+    <item component="ComponentInfo{com.daddylab/com.daddylab.daddylabbaselibrary.activity.ToolsActivity}"
+        drawable="daddylab" />
+
+    <!-- 李跳跳 -->
+    <item component="ComponentInfo{com.whatsbug.litiaotiao/com.whatsbug.litiaotiao.MainActivity}"
+        drawable="whatsbug" />
+
+
 </resources>

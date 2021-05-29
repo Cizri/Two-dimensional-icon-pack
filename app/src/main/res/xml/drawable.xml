@@ -2599,8 +2599,191 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="ext_star"
+        name="大圣净化"
+        />
+
+    <item
+        drawable="mhook_beta"
+        name="对话框取消 Beta版"
+        />
+
+    <item
+        drawable="huawei_youzu"
+        name="荒野乱斗"
+        />
+
+    <item
+        drawable="jfm_vide"
+        name="加菲猫影视"
+        />
+
+    <item
+        drawable="stephenssoftware"
+        name="科学计算器"
+        />
+
+    <item
+        drawable="xposed_rong"
+        name="模拟位置"
+        />
+
+    <item
+        drawable="xxqg_xzy"
+        name="强国辅助"
+        />
+
+    <item
+        drawable="soulgamechst"
+        name="雀魂麻將"
+        />
+
+    <item
+        drawable="soulgamechst_cn"
+        name="雀魂麻將"
+        />
+
+    <item
+        drawable="tencent_cmocmna"
+        name="腾讯手游加速器"
+        />
+
+    <item
+        drawable="afwall"
+        name="Afwall+"
+        />
+
+    <item
+        drawable="assistant_shortcuts"
+        name="Assistant Shortcuts"
+        />
+
+    <item
+        drawable="audio_headquarter"
+        name="Audio HeadQuarter"
+        />
+
+    <item
+        drawable="github"
+        name="GitHub"
+        />
+
+    <item
+        drawable="symbolab"
+        name="Symbolab"
+        />
+
+    <item
+        drawable="xzsd_ui"
+        name="X8大师"
+        />
+
+    <item
+        drawable="ylmf_main"
+        name="115"
+        />
+
+    <item
+        drawable="banyac"
+        name="70迈"
+        />
+
+    <item
+        drawable="lingan"
+        name="宝宝记"
+        />
+
+
+    <item
+        drawable="dialer"
+        name="拨打电话"
+        />
+
+    <item
+        drawable="messaging"
+        name="短信"
+        />
+
+    <item
+        drawable="sugarblock"
+        name="方糖图标包"
+        />
+
+    <item
+        drawable="feiniaobt"
+        name="飞鸟下载器"
+        />
+
+
+    <item
+        drawable="gjzx_cz"
+        name="搞机工具箱"
+        />
+
+    <item
+        drawable="gjzs_cz"
+        name="搞机助手重制版"
+        />
+
+
+    <item
+        drawable="chinamobile_cloud"
+        name="和彩云网盘"
+        />
+
+    <item
+        drawable="cmri_qin"
+        name="和家亲"
+        />
+
+    <item
+        drawable="newggfwmobile"
+        name="河北人社"
+        />
+
+    <item
+        drawable="neuqsoft"
+        name="衡水医保"
+        />
+
+    <item
+        drawable="mc10086mm"
+        name="河北移动"
+        />
+
+    <item
+        drawable="qihoo_con"
+        name="极速浏览器"
+        />
+
+    <item
+        drawable="iconpack_jiaotang"
+        name="焦糖图标包"
+        />
+
+    <item
+        drawable="clean_sou"
+        name="净化搜索"
+        />
+
+    <item
+        drawable="happyelements"
+        name="开心消消乐®"
+        />
+
+    <item
+        drawable="svideo"
+        name="快猫"
+        />
+
+    <item
+        drawable="daddylab"
+        name="老爸测评"
+        />
+
+    <item
+        drawable="whatsbug"
+        name="李跳跳"
         />
 
     <item
