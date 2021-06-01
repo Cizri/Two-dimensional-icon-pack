@@ -2787,6 +2787,421 @@
         />
 
     <item
+        drawable="youppgd"
+        name="联璧模块"
+        />
+
+    <item
+        drawable="sankuai_movie_cd"
+        name="猫眼"
+        />
+
+    <item
+        drawable="mgbs_e"
+        name="每购必省"
+        />
+
+    <item
+        drawable="seeyou_my"
+        name="美柚"
+        />
+
+    <item
+        drawable="cmcc_cmvideo"
+        name="咪咕视频"
+        />
+
+    <item
+        drawable="akari_ppx"
+        name="皮皮虾助手"
+        />
+
+    <item
+        drawable="tencent_fm"
+        name="企鹅FM"
+        />
+
+    <item
+        drawable="cubic"
+        name="汽车之家"
+        />
+
+    <item
+        drawable="btime"
+        name="亲宝宝"
+        />
+
+    <item
+        drawable="oppo_market"
+        name="软件商店"
+        />
+
+    <item
+        drawable="deskclock"
+        name="时钟"
+        />
+
+    <item
+        drawable="icio_bei"
+        name="数据备份"
+        />
+
+    <item
+        drawable="sohu_i"
+        name="搜狗输入法"
+        />
+
+    <item
+        drawable="orekie_lite"
+        name="搜索 Lite"
+        />
+
+    <item
+        drawable="knowyou"
+        name="泰尔网测"
+        />
+
+    <item
+        drawable="simplemobiletools"
+        name="图库"
+        />
+
+    <item
+        drawable="tuhu"
+        name="途虎养车"
+        />
+
+    <item
+        drawable="duokan"
+        name="万能遥控"
+        />
+
+    <item
+        drawable="sgcc_cn"
+        name="网上国网"
+        />
+
+    <item
+        drawable="netease_mail"
+        name="网易邮箱大师"
+        />
+
+    <item
+        drawable="sixyin_wuyin"
+        name="五音助手"
+        />
+
+    <item
+        drawable="xiaomi_mico"
+        name="小爱音箱"
+        />
+
+    <item
+        drawable="stopapp_web"
+        name="小黑屋"
+        />
+
+    <item
+        drawable="xiaomi_yp"
+        name="小米有品"
+        />
+
+    <item
+        drawable="idaodan"
+        name="雪豹速清"
+        />
+
+    <item
+        drawable="iflytek"
+        name="讯飞输入法"
+        />
+
+    <item
+        drawable="baidu_yik"
+        name="一刻相册"
+        />
+
+    <item
+        drawable="yingyonghui"
+        name="应用汇"
+        />
+
+    <item
+        drawable="ruanmei"
+        name="云日历"
+        />
+
+    <item
+        drawable="cz_mfs"
+        name="字体缩放器"
+        />
+
+    <item
+        drawable="angeldevil"
+        name="自动跳过"
+        />
+
+    <item
+        drawable="alpha_backup_pro"
+        name="Alpha Backup Pro"
+        />
+
+    <item
+        drawable="ansole"
+        name="Ansole"
+        />
+
+    <item
+        drawable="anxcamera"
+        name="ANX相机"
+        />
+
+    <item
+        drawable="apkpure"
+        name="APKPure"
+        />
+
+    <item
+        drawable="appshare"
+        name="APP分享"
+        />
+
+    <item
+        drawable="blocker"
+        name="Blocker"
+        />
+
+    <item
+        drawable="caven_icon_pack"
+        name="Caven icon pack"
+        />
+
+    <item
+        drawable="cellular_z"
+        name="Cellular Z"
+        />
+
+    <item
+        drawable="circle_yqq"
+        name="circle 小圆图标包"
+        />
+
+    <item
+        drawable="gifshop"
+        name="GIFShop"
+        />
+
+    <item
+        drawable="ithome"
+        name="IT之家"
+        />
+
+    <item
+        drawable="javdb"
+        name="JavDB"
+        />
+
+    <item
+        drawable="kinhdown"
+        name="KinhDown公测版"
+        />
+
+    <item
+        drawable="kitsunebi"
+        name="Kitsunebi"
+        />
+
+    <item
+        drawable="matlog"
+        name="MatLog"
+        />
+
+    <item
+        drawable="mega"
+        name="MEGA"
+        />
+
+    <item
+        drawable="mix"
+        name="MiX"
+        />
+
+    <item
+        drawable="mx_videoplayer"
+        name="MX 播放器专业版"
+        />
+
+    <item
+        drawable="nekogram_x"
+        name="Nekogram X"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
         drawable="data"
         name="data"
         />

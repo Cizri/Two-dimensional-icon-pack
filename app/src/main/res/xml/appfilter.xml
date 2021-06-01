@@ -1608,6 +1608,10 @@
     <item component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}"
         drawable="icbc" />
 
+    <!-- 中国工商银行 -->
+    <item component="ComponentInfo{com.icbc/com.icbc.activity.init.NewLoadingActivity}"
+        drawable="icbc" />
+
     <!-- 主题 -->
     <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}"
         drawable="huawei_thememanager" />
@@ -2293,6 +2297,210 @@
     <!-- 李跳跳 -->
     <item component="ComponentInfo{com.whatsbug.litiaotiao/com.whatsbug.litiaotiao.MainActivity}"
         drawable="whatsbug" />
+
+    <!-- 联璧模块 -->
+    <item component="ComponentInfo{club.youppgd.adhook/club.youppgd.adhook.Main}"
+        drawable="youppgd" />
+
+    <!-- 猫眼 -->
+    <item component="ComponentInfo{com.sankuai.movie/com.sankuai.movie.welcome.Welcome}"
+        drawable="sankuai_movie_cd" />
+
+    <!-- 每购必省 -->
+    <item component="ComponentInfo{com.mgbs/com.e4a.runtime.android.StartActivity}"
+        drawable="mgbs_e" />
+
+    <!-- 美柚 -->
+    <item component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.SeeyouActivity}"
+        drawable="seeyou_my" />
+
+    <!-- 咪咕视频 -->
+    <item component="ComponentInfo{com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity}"
+        drawable="cmcc_cmvideo" />
+
+    <!-- 皮皮虾助手 -->
+    <item component="ComponentInfo{com.akari.ppx/com.akari.ppx.HomeActivityAlias}"
+        drawable="akari_ppx" />
+
+    <!-- 企鹅FM -->
+    <item component="ComponentInfo{com.tencent.radio/com.tencent.radio.common.ui.LaunchActivity}"
+        drawable="tencent_fm" />
+
+    <!-- 汽车之家 -->
+    <item component="ComponentInfo{com.cubic.autohome/com.cubic.autohome.MainActivity}"
+        drawable="cubic" />
+
+    <!-- 亲宝宝 -->
+    <item component="ComponentInfo{com.dw.btime/com.dw.btime.Launcher}"
+        drawable="btime" />
+
+    <!-- 软件商店 -->
+    <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}"
+        drawable="oppo_market" />
+
+    <!-- 时钟 -->
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="deskclock" />
+
+    <!-- 数据备份 -->
+    <item component="ComponentInfo{com.icio.bei/com.iapp.app.logoActivity}"
+        drawable="icio_bei" />
+
+    <!-- 搜狗输入法 -->
+    <item component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}"
+        drawable="sohu_i" />
+
+    <!-- 搜索 Lite -->
+    <item component="ComponentInfo{com.orekie.search/com.orekie.search.components.EntryActivity}"
+        drawable="orekie_lite" />
+
+    <!-- 泰尔网测 -->
+    <item component="ComponentInfo{com.knowyou.perception/com.knowyou.perception.activity.SplashActivity}"
+        drawable="knowyou" />
+
+    <!-- 图库 -->
+    <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}"
+        drawable="simplemobiletools" />
+
+    <!-- 途虎养车 -->
+    <item component="ComponentInfo{cn.TuHu.android/cn.TuHu.Activity.Welcome}"
+        drawable="tuhu" />
+
+    <!-- 万能遥控 -->
+    <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}"
+        drawable="duokan" />
+
+    <!-- 网上国网 -->
+    <item component="ComponentInfo{com.sgcc.wsgw.cn/com.sgcc.wsgw.cn.SplashActivity}"
+        drawable="sgcc_cn" />
+
+    <!-- 网易邮箱大师 -->
+    <item component="ComponentInfo{com.netease.mail/com.netease.mobimail.activity.LaunchActivity}"
+        drawable="netease_mail" />
+
+    <!-- 五音助手 -->
+    <item component="ComponentInfo{com.sixyin.wuyin_app/com.sixyin.wuyin_app.MainActivity}"
+        drawable="sixyin_wuyin" />
+
+    <!-- 五音助手 -->
+    <item component="ComponentInfo{com.sixyin.wuyin_app/com.sixyin.wuyin_app.MainActivity}"
+        drawable="sixyin_wuyin" />
+
+    <!-- 小爱音箱 -->
+    <item component="ComponentInfo{com.xiaomi.mico/com.xiaomi.mico.splash.SplashActivity}"
+        drawable="xiaomi_mico" />
+
+    <!-- 小黑屋 -->
+    <item component="ComponentInfo{web1n.stopapp/web1n.stopapp.activity.MainActivity}"
+        drawable="stopapp_web" />
+
+    <!-- 小米有品 -->
+    <item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}"
+        drawable="xiaomi_yp" />
+
+    <!-- 雪豹速清 -->
+    <item component="ComponentInfo{com.idaodan.clean.master/o.o00oOO00}"
+        drawable="idaodan" />
+
+    <!-- 讯飞输入法 -->
+    <item component="ComponentInfo{com.iflytek.inputmethod.googleplay/com.iflytek.inputmethod.LauncherActivity}"
+        drawable="iflytek" />
+
+    <!-- 一刻相册 -->
+    <item component="ComponentInfo{com.baidu.youavideo/com.baidu.youavideo.app.ui.SplashActivity}"
+        drawable="baidu_yik" />
+
+    <!-- 应用汇 -->
+    <item component="ComponentInfo{com.yingyonghui.market/com.yingyonghui.market.ui.MainActivity}"
+        drawable="yingyonghui" />
+
+    <!-- 云日历 -->
+    <item component="ComponentInfo{com.ruanmei.yunrili/com.ruanmei.yunrili.ui.MainActivity}"
+        drawable="ruanmei" />
+
+    <!-- 字体缩放器 -->
+    <item component="ComponentInfo{com.cz.mfs/com.cz.mfs.MainActivity}"
+        drawable="cz_mfs" />
+
+    <!-- 自动跳过 -->
+    <item component="ComponentInfo{me.angeldevil.autoskip/me.angeldevil.autoskip.Launcher}"
+        drawable="angeldevil" />
+
+    <!-- Alpha Backup Pro -->
+    <item component="ComponentInfo{com.ruet_cse_1503050.ragib.appbackup.pro/com.ruet_cse_1503050.ragib.appbackup.pro.activities.LauncherActivity}"
+        drawable="alpha_backup_pro" />
+
+    <!-- Ansole -->
+    <item component="ComponentInfo{com.romide.terminal/com.romide.terminal.activity.Term}"
+        drawable="ansole" />
+
+    <!-- ANX相机 -->
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}"
+        drawable="anxcamera" />
+
+    <!-- APKPure -->
+    <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}"
+        drawable="apkpure" />
+
+    <!-- App分享 -->
+    <item component="ComponentInfo{info.muge.appshare/info.muge.appshare.activities.LaunchActivity}"
+        drawable="appshare" />
+
+    <!-- Blocker -->
+    <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}"
+        drawable="blocker" />
+
+    <!-- Caven icon pack -->
+    <item component="ComponentInfo{com.tice.cavenicons/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="caven_icon_pack" />
+
+    <!-- Cellular-Z -->
+    <item component="ComponentInfo{make.more.r2d2.cellular_z/make.more.r2d2.cellular_z.activity.SplashActivity}"
+        drawable="cellular_z" />
+
+    <!-- circle 小圆图标包 -->
+    <item component="ComponentInfo{com.modetime.circle/com.modetime.circle.MainActivity}"
+        drawable="circle_yqq" />
+
+    <!-- GIFShop -->
+    <item component="ComponentInfo{com.gif.gifmaker/com.gif.gifmaker.ui.splash.SplashScreen}"
+        drawable="gifshop" />
+
+    <!-- IT之家 -->
+    <item component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}"
+        drawable="ithome" />
+
+    <!-- JavDB -->
+    <item component="ComponentInfo{com.example.astarte/com.example.astarte.MainActivity}"
+        drawable="javdb" />
+
+    <!-- KinhDown公测版 -->
+    <item component="ComponentInfo{com.KinhDown.UBAQ/com.e4a.runtime.android.StartActivity}"
+        drawable="kinhdown" />
+
+    <!-- Kitsunebi -->
+    <item component="ComponentInfo{fun.kitsunebi.kitsunebi4android/fun.kitsunebi.kitsunebi4android.ui.endpoint.EndpointListActivity}"
+        drawable="kitsunebi" />
+
+    <!-- Kiwi Browser -->
+    <item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}"
+        drawable="kiwi_browser" />
+
+    <!-- MatLog -->
+    <item component="ComponentInfo{org.omnirom.logcat/com.pluscubed.logcat.ui.LogcatActivity}"
+        drawable="matlog" />
+
+    <!-- MEGA -->
+    <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop}"
+        drawable="mega" />
+
+    <!-- MiX -->
+    <item component="ComponentInfo{com.mixplorer.silver/com.mixplorer.activities.BrowseActivity}"
+        drawable="mix" />
+
+    <!-- MX 播放器专业版 -->
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}"
+        drawable="mx_videoplayer" />
 
 
 </resources>
