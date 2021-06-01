@@ -184,7 +184,7 @@ class MainActivity : AppCompatActivity() {
                 PreferencesUtil.put(this@MainActivity, "first", true)
                 PreferencesUtil.put(this@MainActivity, "versionCode", Utils.getAppVersion(this@MainActivity))
 
-                val file = File(filesDir, "appfilter.xml")
+                val file = File(filesDir, "xml/appfilter.xml")
                 val files = File(file.parent)
                 files.mkdirs()
                 file.createNewFile()
@@ -203,8 +203,8 @@ class MainActivity : AppCompatActivity() {
 
                 //不是首次更新，将旧版更改为上个版本的数据
                 try {
-                    if (File(filesDir, "appfilter.xml").delete()){
-                        val files = File(filesDir, "appfilter.xml")
+                    if (File(filesDir, "xml/appfilter.xml").delete()){
+                        val files = File(filesDir, "xml/appfilter.xml")
                         File(filesDir, "appfilter-new.xml").renameTo(files)
                     }
                 }catch (e: IOException){

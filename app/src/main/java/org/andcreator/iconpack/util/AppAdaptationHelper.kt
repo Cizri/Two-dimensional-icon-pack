@@ -4,7 +4,6 @@ package org.andcreator.iconpack.util
 import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
-import android.content.pm.PackageManager
 import android.content.pm.ResolveInfo
 import android.util.Log
 import org.andcreator.iconpack.R
@@ -280,7 +279,7 @@ object AppAdaptationHelper {
      */
     private fun showUpdateIcons() {
 
-        if (File(context!!.filesDir, "appfilter.xml").exists()){
+        if (File(context!!.filesDir, "xml/appfilter.xml").exists()){
             //获取旧版数据
             parserOld = parserOld()
             if (parserOld.isNotEmpty()){
@@ -358,7 +357,7 @@ object AppAdaptationHelper {
      */
     private fun parserOld(): String{
 
-        val appFilter = File(context!!.filesDir, "appfilter.xml")
+        val appFilter = File(context!!.filesDir, "xml/appfilter.xml")
         val content = StringBuilder()
         appFilter.forEachLine { line ->
             content.append(line)

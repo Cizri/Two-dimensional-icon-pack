@@ -3040,7 +3040,7 @@
         drawable="data"
         name="data"
         />
-
+<!--
     <item
         drawable="data"
         name="data"
@@ -3204,7 +3204,7 @@
     <item
         drawable="data"
         name="data"
-        />
+        />-->
 
 
 </resources>
