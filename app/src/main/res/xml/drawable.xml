@@ -3037,13 +3037,37 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="orangefox"
+        name="OrangeFox"
         />
-<!--
     <item
-        drawable="data"
-        name="data"
+        drawable="pieplus_icon"
+        name="PiePlus 图标包"
+        />
+
+    <item
+        drawable="quickpic"
+        name="QuickPic"
+        />
+
+    <item
+        drawable="rar"
+        name="RAR"
+        />
+
+    <item
+        drawable="root_explorer"
+        name="Root Explorer"
+        />
+
+    <item
+        drawable="sagernet"
+        name="SagerNet"
+        />
+
+    <item
+        drawable="settings"
+        name="Settings"
         />
 
     <item
@@ -3180,31 +3204,6 @@
         drawable="data"
         name="data"
         />
-
-    <item
-        drawable="data"
-        name="data"
-        />
-
-    <item
-        drawable="data"
-        name="data"
-        />
-
-    <item
-        drawable="data"
-        name="data"
-        />
-
-    <item
-        drawable="data"
-        name="data"
-        />
-
-    <item
-        drawable="data"
-        name="data"
-        />-->
 
 
 </resources>

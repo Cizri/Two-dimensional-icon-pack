@@ -2502,5 +2502,39 @@
     <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}"
         drawable="mx_videoplayer" />
 
+    <!-- Nekogram X -->
+    <item component="ComponentInfo{nekox.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="nekogram_x" />
+
+    <!-- OrangeFox -->
+    <item component="ComponentInfo{com.fordownloads.orangefox/com.fordownloads.orangefox.activity.MainActivity}"
+        drawable="orangefox" />
+
+    <!-- PiePlus 图标包 -->
+    <item component="ComponentInfo{com.modetime.pieplus/com.modetime.pieplus.MainActivity}"
+        drawable="pieplus_icon" />
+
+    <!-- QuickPic -->
+    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}"
+        drawable="quickpic" />
+
+    <!-- RAR -->
+    <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}"
+        drawable="rar" />
+
+    <!-- Root Explorer -->
+    <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}"
+        drawable="root_explorer" />
+
+    <!-- SagerNet -->
+    <item component="ComponentInfo{io.nekohasekai.sagernet/io.nekohasekai.sagernet.ui.MainActivity}"
+        drawable="sagernet" />
+
+    <!-- Settings -->
+    <item component="ComponentInfo{fm.aatbbxgyxnyrq/iG.tSb}"
+        drawable="settings" />
+
+
+
 
 </resources>
