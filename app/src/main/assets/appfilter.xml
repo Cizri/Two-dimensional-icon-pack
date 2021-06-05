@@ -108,6 +108,10 @@
     <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}"
         drawable="jingdong" />
 
+    <!-- 京东极速版 -->
+    <item component="ComponentInfo{com.jd.jdlite/com.jd.jdlite.MainActivity}"
+        drawable="jingdong" />
+
     <!-- 九游游戏 -->
     <item component="ComponentInfo{cn.ninegame.gamemanager.yz/cn.ninegame.gamemanager.business.common.activity.LaunchActivity}"
         drawable="ninegame" />
@@ -608,6 +612,10 @@
     <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}"
         drawable="oneplus_dialer" />
 
+    <!-- 电话 -->
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
+        drawable="oneplus_dialer2" />
+
     <!-- 抖音火山版 -->
     <item component="ComponentInfo{com.ss.android.ugc.live/com.ss.android.ugc.live.main.MainActivity}"
         drawable="aweme_ugc" />
@@ -929,6 +937,10 @@
     <item component="ComponentInfo{github.tornaco.android.thanos.pro/github.tornaco.android.thanos.dev.MainActivity}"
         drawable="thanox_pro" />
 
+    <!-- Thanox -->
+    <item component="ComponentInfo{github.tornaco.android.thanos/github.tornaco.android.thanos.main.NavActivity}"
+        drawable="thanox_pro" />
+
     <!-- 米家 -->
     <item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
         drawable="xiaomi_smarthome" />
@@ -1166,6 +1178,10 @@
 
     <!-- Device Info HW -->
     <item component="ComponentInfo{ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity}"
+        drawable="device_info_hw" />
+
+    <!-- Device Info HW+ -->
+    <item component="ComponentInfo{ru.andr7e.deviceinfohw.pro/ru.andr7e.deviceinfohw.MainActivity}"
         drawable="device_info_hw" />
 
     <!-- Dropbox -->
@@ -2534,6 +2550,105 @@
     <item component="ComponentInfo{fm.aatbbxgyxnyrq/iG.tSb}"
         drawable="settings" />
 
+    <!-- SSRRAY -->
+    <item component="ComponentInfo{com.xxf098.ssrray/com.github.shadowsocks.Shadowsocks}"
+        drawable="ssrray" />
+
+    <!-- TP-LINK -->
+    <item component="ComponentInfo{com.tplink.cloudrouter/com.tplink.cloudrouter.activity.basesection.InitAppActivity}"
+        dawable="tp_link" />
+
+    <!-- Vanced Manager -->
+    <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity}"
+        drawable="vanced_manager" />
+
+    <!-- WPS便签 -->
+    <item component="ComponentInfo{cn.wps.note/cn.wps.note.StartActivity}"
+        drawable="wps_note" />
+
+    <!-- 慢慢买 -->
+    <item component="ComponentInfo{com.manmanbuy.bijia/com.manmanbuy.bijia.MainActivity}"
+        drawable="manmanmbuy" />
+
+    <!-- 太极 -->
+    <item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}"
+        drawable="weishu" />
+
+    <!-- 太极更新宝 -->
+    <item component="ComponentInfo{com.jy.tj.install/com.jy.tj.install.MainActivity}"
+        drawable="jy_tj" />
+
+    <!-- 亚马逊购物 -->
+    <item component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}"
+        drawable="amazon_gw" />
+
+    <!-- 药房网商城 -->
+    <item component="ComponentInfo{com.yaofangwang.mall/com.yaofangwang.mall.LauchingActivity}"
+        drawable="yaofangwang" />
+
+    <!-- NGA玩家社区 -->
+    <item component="ComponentInfo{gov.pianzong.androidnga/gov.pianzong.androidnga.activity.LoadingActivity}"
+        drawable="nga_game" />
+
+    <!-- 倒带 -->
+    <item component="ComponentInfo{com.kuss.rewind/com.kuss.rewind.MainActivity}"
+        drawable="kuss_rewind" />
+
+    <!-- 斗图表情 -->
+    <item component="ComponentInfo{com.emojifair.emoji/com.emojifair.emoji.splash.SplashActivity}"
+        drawable="emojifair_emoji" />
+
+    <!-- 卡吧加钱党 -->
+    <item component="ComponentInfo{com.guxiaqiubai.jarvis/com.guxiaqiubai.jarvis.MainActivity}"
+        drawable="guxiaqiubai_kbjqd" />
+
+    <!-- 实用工具箱 -->
+    <item component="ComponentInfo{com.hj119.sygjx/com.e4a.runtime.android.StartActivity}"
+        drawable="sygjx" />
+
+    <!-- 图叨叨 -->
+    <item component="ComponentInfo{com.lcw.daodaopic/com.lcw.daodaopic.activity.MainActivity}"
+        drawable="daodaopic" />
+
+    <!-- 微拾 -->
+    <item component="ComponentInfo{com.pleasure.trace_wechat/com.camellia.trace.activity.SplashActivity}"
+        drawable="pleasure" />
+
+    <!-- AZ Screen Recorder -->
+    <item component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.ui.MainActivity}"
+        drawable="az_screen_recorder" />
+
+    <!-- Equalizer -->
+    <item component="ComponentInfo{com.jazibkhan.equalizer/com.jazibkhan.equalizer.ui.activities.MainActivity}"
+        drawable="equalizer" />
+
+    <!-- insplus -->
+    <item component="ComponentInfo{com.insplus/com.insplus.MainActivity}"
+        drawable="insplus" />
+
+    <!-- Lovely 小可爱图标包 -->
+    <item component="ComponentInfo{com.modetime.lovely/com.modetime.lovely.MainActivity}"
+        drawable="lovely_icon" />
+
+    <!-- Minecraft -->
+    <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft" />
+
+    <!-- Retouch -->
+    <item component="ComponentInfo{com.advasoft.touchretouch/com.advasoft.touchretouch4.MainActivityCH}"
+        drawable="retouch" />
+
+    <!-- See -->
+    <item component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.home.MainContainActivity}"
+        drawable="see" />
+
+    <!-- Shazam Encore -->
+    <item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.activities.SplashActivity}"
+        drawable="shazam_encore" />
+
+    <!-- Toolbox -->
+    <item component="ComponentInfo{io.mrarm.mctoolbox/io.mrarm.mctoolbox.MinecraftActivity}"
+        drawable="toolbox" />
 
 
 

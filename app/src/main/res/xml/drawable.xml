@@ -3040,6 +3040,7 @@
         drawable="orangefox"
         name="OrangeFox"
         />
+
     <item
         drawable="pieplus_icon"
         name="PiePlus 图标包"
@@ -3071,133 +3072,128 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="ssrray"
+        name="SSRRAY"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="tp_link"
+        name="TP-LINK"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="vanced_manager"
+        name="Vanced Manager"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="wps_note"
+        name="WPS便签"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="manmanmbuy"
+        name="慢慢买"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="weishu"
+        name="太极"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="jy_tj"
+        name="太极更新宝"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="amazon_gw"
+        name="亚马逊购物"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="yaofangwang"
+        name="药房网商城"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="nga_game"
+        name="NGA玩家社区"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="kuss_rewind"
+        name="倒带"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="emojifair_emoji"
+        name="斗图表情"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="guxiaqiubai_kbjqd"
+        name="卡吧加钱党"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="sygjx"
+        name="实用工具箱"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="daodaopic"
+        name="图叨叨"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="pleasure"
+        name="微拾"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="az_screen_recorder"
+        name="AZ Screen Recorder"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="equalizer"
+        name="Equalizer"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="insplus"
+        name="insplus"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="lovely_icon"
+        name="Lovely 小可爱图标包"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="minecraft"
+        name="Minecraft"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="retouch"
+        name="Retouch"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="see"
+        name="See"
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="shazam_encore"
+        name="Shazam Encore"
         />
 
     <item
-        drawable="data"
-        name="data"
-        />
-
-    <item
-        drawable="data"
-        name="data"
+        drawable="toolbox"
+        name="Toolbox"
         />
 
     <item

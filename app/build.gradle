@@ -9,8 +9,8 @@ android {
         applicationId "com.twodimensional.wei"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 33
-        versionName "1.21.251.2021"
+        versionCode 34
+        versionName "1.21.252.2021"
         testInstrumentationRunner "com.twodimensional.wei"
     }
     buildTypes {
