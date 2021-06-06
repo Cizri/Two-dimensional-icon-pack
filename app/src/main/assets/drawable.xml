@@ -17,6 +17,23 @@
         name="Home"
     />
 
+    <item
+        drawable="wzry_1"
+        name="王者荣耀"
+    />
+
+    <item
+        drawable="wzry_2"
+        name="王者荣耀"
+    />
+
+    <item
+        drawable="wzry_3"
+        name="王者荣耀"
+    />
+
+
+
     <!--拥有启动类-->
     <category title="全部"/>
     <item
@@ -3194,6 +3211,161 @@
     <item
         drawable="toolbox"
         name="Toolbox"
+        />
+
+    <item
+        drawable="fvcorp_aiji"
+        name="爱加速代理"
+        />
+
+    <item
+        drawable="heytap_praise"
+        name="爆赞小视频"
+        />
+
+    <item
+        drawable="coloros_note"
+        name="便签"
+        />
+
+    <item
+        drawable="coloros_contacts"
+        name="拨号"
+        />
+
+    <item
+        drawable="dianping"
+        name="大众点评"
+        />
+
+    <item
+        drawable="shizhuang_du"
+        name="得物（毒）"
+        />
+
+    <item
+        drawable="coloros_contacts_dhb"
+        name="电话本"
+        />
+
+    <item
+        drawable="coloros_roaming"
+        name="国际上网"
+        />
+
+    <item
+        drawable="oppo_store"
+        name="欢太商城"
+        />
+
+    <item
+        drawable="coloros_calculator"
+        name="计算器"
+        />
+
+    <item
+        drawable="coloros_soundrecorder"
+        name="录音"
+        />
+
+    <item
+        drawable="nerease_mrzh"
+        name="明日之后"
+        />
+
+    <item
+        drawable="love_qqsweet"
+        name="情侣空间"
+        />
+
+    <item
+        drawable="opaldnay_quehua"
+        name="雀华"
+        />
+
+    <item
+        drawable="coloros_calender"
+        name="日历"
+        />
+
+    <item
+        drawable="coloros_clock"
+        name="时钟"
+        />
+
+    <item
+        drawable="coloros_yoli"
+        name="视频"
+        />
+
+    <item
+        drawable="coloros_backkuprestore"
+        name="手机搬家"
+        />
+
+    <item
+        drawable="coloros_manager"
+        name="手机管家"
+        />
+
+    <item
+        drawable="gov_hrss_tj"
+        name="天津人力社保"
+        />
+
+    <item
+        drawable="coloros_weather"
+        name="天气"
+        />
+
+    <item
+        drawable="nerease_dashen"
+        name="网易大神"
+        />
+
+    <item
+        drawable="coloros_filemanager"
+        name="文件管理器"
+        />
+
+    <item
+        drawable="coloros_gallery"
+        name="相册"
+        />
+
+    <item
+        drawable="coloros_camera"
+        name="相机"
+        />
+
+    <item
+        drawable="xuexiaoyi"
+        name="学小易"
+        />
+
+    <item
+        drawable="coloros_music"
+        name="音乐"
+        />
+
+    <item
+        drawable="coloros_maill"
+        name="邮件"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
         />
 
     <item

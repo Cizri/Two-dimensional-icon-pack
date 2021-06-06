@@ -696,6 +696,10 @@
     <item component="ComponentInfo{com.chaoxing.mobile/tencent.frame.f}"
         drawable="chaoxing_xuexitong" />
 
+    <!-- 学习通 -->
+    <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}"
+        drawable="chaoxing_xuexitong" />
+
     <!-- 易班 -->
     <item component="ComponentInfo{com.yiban.app/com.yiban.app.activity.WelcomeActivity}"
         drawable="yiban" />
@@ -2649,6 +2653,125 @@
     <!-- Toolbox -->
     <item component="ComponentInfo{io.mrarm.mctoolbox/io.mrarm.mctoolbox.MinecraftActivity}"
         drawable="toolbox" />
+
+    <!-- 爱加速代理 -->
+    <item component="ComponentInfo{com.fvcorp.android.aijiasuclient/com.fvcorp.android.fvclient.activity.SplashActivity}"
+        drawable="fvcorp_aiji" />
+
+    <!-- 爆赞小视频 -->
+    <item component="ComponentInfo{com.heytap.ugcvideo.praise/com.heytap.ugcvideo.activity.SplashActivity}"
+        drawable="heytap_praise" />
+
+    <!-- 便签 -->
+    <item component="ComponentInfo{com.coloros.note/com.nearme.note.view.AllNoteActivity}"
+        drawable="coloros_note" />
+
+    <!-- 拨号 -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}"
+        drawable="coloros_contacts" />
+
+    <!-- 大众点评 -->
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}"
+        drawable="dianping" />
+
+    <!-- 得物(毒) -->
+    <item component="ComponentInfo{com.shizhuang.duapp/com.shizhuang.duapp.modules.home.ui.SplashActivity}"
+        drawable="shizhuang_du" />
+
+    <!-- 电话本 -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}"
+        drawable="coloros_contacts_dhb" />
+
+    <!-- 国际上网 -->
+    <item component="ComponentInfo{com.redteamobile.roaming/com.redteamobile.roaming.MainActivity}"
+        drawable="coloros_roaming" />
+
+    <!-- 欢太商城 -->
+    <item component="ComponentInfo{com.oppo.store/com.oppo.store.MainActivity}"
+        drawable="oppo_store" />
+
+    <!-- 即刻 -->
+    <item component="ComponentInfo{com.ruguoapp.jike/com.ruguoapp.jike.bu.launch.ui.SplashActivity}"
+        drawable="ruguoapp_jike" />
+
+    <!-- 计算器 -->
+    <item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}"
+        drawable="coloros_calculator" />
+
+    <!-- 录音 -->
+    <item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile}"
+        drawable="coloros_soundrecorder" />
+
+    <!-- 明日之后 -->
+    <item component="ComponentInfo{com.netease.mrzh/com.netease.mrzh.Launcher}"
+        drawable="nerease_mrzh" />
+
+    <!-- 情侣空间 -->
+    <item component="ComponentInfo{com.welove520.qqsweet/com.welove520.welove.LaunchActivity}"
+        drawable="love_qqsweet" />
+
+    <!-- 雀华 -->
+    <item component="ComponentInfo{com.opaldnay.quehua.icons/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="opaldnay_quehua" />
+
+    <!-- 日历 -->
+    <item component="ComponentInfo{com.coloros.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="coloros_calender" />
+
+    <!-- 时钟 -->
+    <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}"
+        drawable="coloros_clock" />
+
+    <!-- 视频 -->
+    <item component="ComponentInfo{com.heytap.yoli/com.heytap.yoli.icon_org}"
+        drawable="coloros_yoli" />
+
+    <!-- 手机搬家 -->
+    <item component="ComponentInfo{com.coloros.backuprestore/com.coloros.phoneclone.PhoneCloneMainActivity}"
+        drawable="coloros_backkuprestore" />
+
+    <!-- 手机管家 -->
+    <item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}"
+        drawable="coloros_manager" />
+
+    <!-- 天津人力社保 -->
+    <item component="ComponentInfo{cn.gov.hrss.tj/com.neusoft.si.j2carch.InitialActivity}"
+        drawable="gov_hrss_tj" />
+
+    <!-- 天气 -->
+    <item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity}"
+        drawable="coloros_weather" />
+
+    <!-- 网易大神 -->
+    <item component="ComponentInfo{com.netease.gl/com.netease.gl.ui.activity.welcome.WelcomeActivity}"
+        drawable="nerease_dashen" />
+
+    <!-- 文件管理 -->
+    <item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity}"
+        drawable="coloros_filemanager" />
+
+    <!-- 相册 -->
+    <item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}"
+        drawable="coloros_gallery" />
+
+    <!-- 相机 -->
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}"
+        drawable="coloros_camera" />
+
+    <!-- 学小易 -->
+    <item component="ComponentInfo{com.xuexiaoyi.xxy/com.xuexiaoyi.xxy.MainActivity}"
+        drawable="xuexiaoyi" />
+
+    <!-- 音乐 -->
+    <item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}"
+        drawable="coloros_music" />
+
+    <!-- 邮件 -->
+    <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.setup.GuideActivity}"
+        drawable="coloros_maill" />
+
+
+
 
 
 
