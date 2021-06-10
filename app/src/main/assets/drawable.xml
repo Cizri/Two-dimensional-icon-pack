@@ -3354,6 +3354,138 @@
         />
 
     <item
+        drawable="supermovie"
+        name="极光影院"
+        />
+
+    <item
+        drawable="kele_movie"
+        name="可乐影视"
+        />
+
+    <item
+        drawable="sunshine"
+        name="米窗"
+        />
+
+    <item
+        drawable="coloros_games"
+        name="游戏空间"
+        />
+
+    <item
+        drawable="coloros_yuancheng"
+        name="远程守护"
+        />
+
+    <item
+        drawable="mosoinl_teach"
+        name="云班课"
+        />
+
+    <item
+        drawable="oppo_cloud"
+        name="云服务"
+        />
+
+    <item
+        drawable="android_wh_physicalfitness"
+        name="运动世界校园"
+        />
+
+    <item
+        drawable="able_wisdomtree"
+        name="知到"
+        />
+
+    <item
+        drawable="coloros_comp"
+        name="指南针"
+        />
+
+    <item
+        drawable="oppo_themestore"
+        name="主题商店"
+        />
+
+    <item
+        drawable="breeno_zhiling"
+        name="Breeno 指令"
+        />
+
+    <item
+        drawable="tencent_fly"
+        name="QQ飞车"
+        />
+
+    <item
+        drawable="realme_link"
+        name="Realme 社区"
+        />
+
+    <item
+        drawable="realme_bbs"
+        name="realme社区"
+        />
+
+    <item
+        drawable="schedulex"
+        name="ScheduleX"
+        />
+
+    <item
+        drawable="senseicon"
+        name="Sense图标包"
+        />
+
+    <item
+        drawable="coloros_soloop"
+        name="Soloop 即录"
+        />
+
+    <item
+        drawable="cutisan_wallpaper"
+        name="Cutisan壁纸"
+        />
+
+    <item
+        drawable="i_pingan"
+        name="i深圳"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+
+    <item
         drawable="data"
         name="data"
         />

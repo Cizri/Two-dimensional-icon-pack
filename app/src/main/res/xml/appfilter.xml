@@ -316,6 +316,10 @@
     <item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.WelcomeActivity}"
         drawable="legado_release" />
 
+    <!-- 阅读 -->
+    <item component="ComponentInfo{io.legado.app.release/io.legado.app.ui.welcome.Launcher4}"
+        drawable="legado_release" />
+
     <!-- 云端硬盘 -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
         drawable="google_docs" />
@@ -988,6 +992,10 @@
 
     <!-- 大众点评 -->
     <item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.LaunchActivity}"
+        drawable="dianping_main" />
+
+    <!-- 大众点评 -->
+    <item component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}"
         drawable="dianping_main" />
 
     <!-- 氡·意图清理 -->
@@ -2198,6 +2206,10 @@
     <item component="ComponentInfo{xzy.auto.xxqg/com.stardust.autojs.inrt.SplashActivity}"
         drawable="xxqg_xzy" />
 
+    <!-- 自动学习强国 -->
+    <item component="ComponentInfo{xzy.auto.xxqg/com.stardust.auojs.inrt.SplashActivity}"
+        drawable="xxqg_xzy" />
+
     <!-- 雀魂麻將 -->
     <item component="ComponentInfo{com.soulgamechst.majsoul/com.soulgamechst.mahjongsoulsdk.MainActivity}"
         drawable="soulgamechst" />
@@ -2770,9 +2782,85 @@
     <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.setup.GuideActivity}"
         drawable="coloros_maill" />
 
+    <!-- 极光影院 -->
+    <item component="ComponentInfo{dev.zx.com.supermovie/dev.zx.com.supermovie.PreActivity}"
+        drawable="supermovie" />
 
+    <!-- 可乐影视 -->
+    <item component="ComponentInfo{com.zhl.site/com.zhl.douban.activity.DBHomeActivity}"
+        drawable="kele_movie" />
 
+    <!-- 米窗 -->
+    <item component="ComponentInfo{com.sunshine.freeform/com.sunshine.freeform.activity.splash.SplashActivity}"
+        drawable="sunshine" />
 
+    <!-- 游戏空间 -->
+    <item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}"
+        drawable="coloros_games" />
+
+    <!-- 远程守护 -->
+    <item component="ComponentInfo{com.coloros.familyguard/com.coloros.familyguard.FakeActivity}"
+        drawable="coloros_yuancheng" />
+
+    <!-- 云班课 -->
+    <item component="ComponentInfo{com.mosoink.teach/com.mosoink.teach.MainActivity}"
+        drawable="mosoinl_teach" />
+
+    <!-- 云服务 -->
+    <item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.activity.CloudSettingsActivity}"
+        drawable="oppo_cloud" />
+
+    <!-- 运动世界校园 -->
+    <item component="ComponentInfo{com.zjwh.android_wh_physicalfitness/com.zjwh.android_wh_physicalfitness.activity.SplashActivity}"
+        drawable="android_wh_physicalfitness" />
+
+    <!-- 知到 -->
+    <item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.jpush.OutLineActivity}"
+        drawable="able_wisdomtree" />
+
+    <!-- 指南针 -->
+    <item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}"
+        drawable="coloros_comp" />
+
+    <!-- 主题商店 -->
+    <item component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity}"
+        drawable="oppo_themestore" />
+
+    <!-- Breeno 指令 -->
+    <item component="ComponentInfo{com.coloros.shortcuts/com.coloros.shortcuts.ui.MainActivity}"
+        drawable="breeno_zhiling" />
+
+    <!-- QQ飞车 -->
+    <item component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}"
+        drawable="tencent_fly" />
+
+    <!-- realme Link -->
+    <item component="ComponentInfo{com.realme.linkcn/com.realme.link.home.SplashActivity}"
+        drawable="realme_link" />
+
+    <!-- realme社区 -->
+    <item component="ComponentInfo{com.realmecomm.app/com.android.realme2.start.view.StartActivity}"
+        drawable="realme_bbs" />
+
+    <!-- ScheduleX -->
+    <item component="ComponentInfo{cn.surine.schedulex/cn.surine.schedulex.ui.MainActivity}"
+        drawable="schedulex" />
+
+    <!-- Sense图标包 -->
+    <item component="ComponentInfo{com.kylo.sense.iconpack/com.kylo.sense.iconpack.MainActivity}"
+        drawable="senseicon" />
+
+    <!-- SIM 卡 1 应用 -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity1}"
+        drawable="sim_sim_1" />
+
+    <!-- SIM 卡 2 应用 -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity2}"
+        drawable="sim_sim_1" />
+
+    <!-- Soloop 即录 -->
+    <item component="ComponentInfo{com.coloros.videoeditor/com.coloros.videoeditor.SplashActivity}"
+        drawable="coloros_soloop" />
 
 
 </resources>
