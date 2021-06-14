@@ -2874,6 +2874,34 @@
     <item component="ComponentInfo{com.asqsy/com.iapp.app.logoActivity}"
         drawable="asqsy_iapp" />
 
+    <!-- Cutisan壁纸 -->
+    <item component="ComponentInfo{com.imuuzi.cutisan/com.imuuzi.cutisan.activity.FirstActivity}"
+        drawable="cutisan_wallpaper" />
+
+    <!-- i深圳 -->
+    <item component="ComponentInfo{com.pingan.smt/com.pingan.smt.SplashActivity}"
+        drawable="i_pingan" />
+
+    <!-- 猴王VPN -->
+    <item component="ComponentInfo{com.hw.houwang/com.hw.houwang.activity.PrepareActivity}"
+        drawable="houwangvpn" />
+
+    <!-- 倒数日MD -->
+    <item component="ComponentInfo{com.pmm.countdownday/com.pmm.countdownday.ui.splash.SplashAy}"
+        drawable="countdownday" />
+
+    <!-- 火影忍者 -->
+    <item component="ComponentInfo{com.tencent.KiHan/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}"
+        drawable="tencent_kihan" />
+
+    <!-- 卡券 -->
+    <item component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}"
+        drawable="oneplus_card" />
+
+    <!-- 人人播放器 -->
+    <item component="ComponentInfo{com.renren.rrvideo/com.ad.xxx.mainapp.business.splash.FakeSplashActivity}"
+        drawable="renren_rrvideo" />
+
 
 
 </resources>
