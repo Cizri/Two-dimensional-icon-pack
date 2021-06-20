@@ -3463,7 +3463,6 @@
         name="倒数日MD"
         />
 
-
     <item
         drawable="tencent_kihan"
         name="火影忍者"
@@ -3480,10 +3479,85 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="daxiaawu_onepuls"
+        name="一加全能盒子"
         />
 
+
+    <item
+        drawable="davidking_xp"
+        name="一加拓展XP"
+        />
+
+    <item
+        drawable="nf_yybn"
+        name="应用宝盒"
+        />
+
+    <item
+        drawable="xposed_sollyu"
+        name="应用变量"
+        />
+
+    <item
+        drawable="maoyuncloud"
+        name="樱花动漫"
+        />
+
+    <item
+        drawable="huodao_hdhone"
+        name="找靓机"
+        />
+
+    <item
+        drawable="surcumference"
+        name="指纹支付"
+        />
+
+    <item
+        drawable="asguardui"
+        name="ASGuardUI"
+        />
+
+    <item
+        drawable="auto_clicker"
+        name="Auto Clicker"
+        />
+
+    <item
+        drawable="edxposed_manager"
+        name="Edxposed Manager"
+        />
+
+    <item
+        drawable="ex_kernel_manager"
+        name="EX Kernel Manager"
+        />
+
+    <item
+        drawable="gg_tools_gojek"
+        name="GG Tools 2020"
+        />
+
+    <item
+        drawable="konabess"
+        name="KonaBess"
+        />
+
+    <item
+        drawable="pure_icon_pack"
+        name="Pure Icon Pack"
+        />
+
+    <item
+        drawable="tap_show"
+        name="Tap 加速器"
+        />
+
+    <item
+        drawable="tft"
+        name="TFT"
+    />
 
     <item
         drawable="data"
@@ -3492,17 +3566,62 @@
 
     <item
         drawable="data"
-        name="data"
+        name=""
         />
 
     <item
         drawable="data"
-        name="data"
+        name=""
         />
 
     <item
         drawable="data"
-        name="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
+        />
+
+    <item
+        drawable="data"
+        name=""
         />
 
 

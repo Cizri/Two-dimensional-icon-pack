@@ -412,6 +412,10 @@
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
         drawable="google_camera" />
 
+    <!-- Camera -->
+    <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+        drawable="googel_camera" />
+
     <!-- 信息 -->
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
         drawable="googel_messaging" />
@@ -2810,6 +2814,10 @@
     <item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.activity.CloudSettingsActivity}"
         drawable="oppo_cloud" />
 
+    <!-- 云服务 -->
+    <item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.activity.OPCloudSettingsActivity}"
+        drawable="oppo_cloud" />
+
     <!-- 运动世界校园 -->
     <item component="ComponentInfo{com.zjwh.android_wh_physicalfitness/com.zjwh.android_wh_physicalfitness.activity.SplashActivity}"
         drawable="android_wh_physicalfitness" />
@@ -2861,6 +2869,92 @@
     <!-- Soloop 即录 -->
     <item component="ComponentInfo{com.coloros.videoeditor/com.coloros.videoeditor.SplashActivity}"
         drawable="coloros_soloop" />
+
+    <!-- Cutisan壁纸 -->
+    <item component="ComponentInfo{com.imuuzi.cutisan/com.imuuzi.cutisan.activity.FirstActivity}"
+        drawable="cutisan_wallpaper" />
+
+    <!-- 爱上去水印 -->
+    <item component="ComponentInfo{com.asqsy/com.iapp.app.logoActivity}"
+        drawable="asqsy_iapp" />
+
+    <!-- Cutisan壁纸 -->
+    <item component="ComponentInfo{com.imuuzi.cutisan/com.imuuzi.cutisan.activity.FirstActivity}"
+        drawable="cutisan_wallpaper" />
+
+    <!-- i深圳 -->
+    <item component="ComponentInfo{com.pingan.smt/com.pingan.smt.SplashActivity}"
+        drawable="i_pingan" />
+
+    <!-- 猴王VPN -->
+    <item component="ComponentInfo{com.hw.houwang/com.hw.houwang.activity.PrepareActivity}"
+        drawable="houwangvpn" />
+
+    <!-- 倒数日MD -->
+    <item component="ComponentInfo{com.pmm.countdownday/com.pmm.countdownday.ui.splash.SplashAy}"
+        drawable="countdownday" />
+
+    <!-- 火影忍者 -->
+    <item component="ComponentInfo{com.tencent.KiHan/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}"
+        drawable="tencent_kihan" />
+
+    <!-- 卡券 -->
+    <item component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}"
+        drawable="oneplus_card" />
+
+    <!-- 人人播放器 -->
+    <item component="ComponentInfo{com.renren.rrvideo/com.ad.xxx.mainapp.business.splash.FakeSplashActivity}"
+        drawable="renren_rrvideo" />
+
+    <!-- 一加全能盒子 -->
+    <item component="ComponentInfo{com.daxiaamu.op7mutools/com.e4a.runtime.android.mainActivity}"
+        drawable="daxiaawu_onepuls" />
+
+    <!-- 一加拓展XP -->
+    <item component="ComponentInfo{com.davidking.optools/com.davidking.optools.MainActivity}"
+        drawable="davidking_xp" />
+
+    <!-- 应用宝盒 -->
+    <item component="ComponentInfo{com.nf.yybh/com.e4a.runtime.android.StartActivity}"
+        drawable="nf_yybn" />
+
+    <!-- 应用变量 -->
+    <item component="ComponentInfo{com.sollyu.xposed.hook.model/com.sollyu.kotlin.appenv.activity.ActivityMain}"
+        drawable="xposed_sollyu" />
+
+    <!-- 樱花动漫 -->
+    <item component="ComponentInfo{com.maoyuncloud.liwo/com.maoyuncloud.liwo.MainActivity}"
+        drawable="maoyuncloud" />
+
+    <!-- 找靓机 -->
+    <item component="ComponentInfo{com.huodao.hdphone/com.huodao.hdphone.mvp.view.main.NewMainActivity}"
+        drawable="huodao_hdhone" />
+
+    <!-- 指纹支付 -->
+    <item component="ComponentInfo{com.surcumference.fingerprintpay/com.yyxx.wechatfp.Main}"
+        drawable="surcumference" />
+
+    <!-- ASGuardUI -->
+    <item component="ComponentInfo{com.huze.ASGuardUI/com.projectkr.shell.SplashActivity}"
+        drawable="asguardui" />
+
+    <!-- Auto Clicker -->
+    <item component="ComponentInfo{com.truedevelopersstudio.automatictap.autoclicker/com.truedevelopersstudio.autoclicker.activities.SplashActivity}"
+        drawable="auto_clicker" />
+
+    <!-- EdXposed Manager -->
+    <item component="ComponentInfo{org.meowcat.edxposed.manager/org.meowcat.edxposed.manager.WelcomeActivityMlgmXyysd}"
+        drawable="edxposed_manager" />
+
+    <!-- EX Kernel Manager -->
+    <item component="ComponentInfo{flar2.exkernelmanager/a.a}"
+        drawable="ex_kernel_manager" />
+
+    <!-- GG Tools 2020 -->
+    <item component="ComponentInfo{com.gojek.galau.ggtools/com.gojek.galau.ggtools.MainActivity}"
+        drawable="gg_tools_gojek" />
+
+
 
 
 </resources>
