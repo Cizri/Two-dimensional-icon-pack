@@ -2970,5 +2970,16 @@
     <item component="ComponentInfo{com.riotgames.league.teamfighttactics/com.riotgames.leagueoflegends.RiotNativeActivity}"
         drawable="tft" />
 
+    <!-- 阿姨追剧 -->
+    <item component="ComponentInfo{me.yiciyuan.app/cn.xiaoguikeji.video.MainActivity}"
+        drawable="yiciyuan" />
+
+    <!-- 安全令 -->
+    <item component="ComponentInfo{com.blizzard.bma.cn/com.blizzard.bma.ui.welcome.SplashActivity}"
+        drawable="blizzard" />
+
+    <!-- 笔趣阁 -->
+    <item component="ComponentInfo{com.biquge.ebook.app/com.biquge.ebook.app.ui.activity.WelComeActivity}"
+        drawable="biquge" />
 
 </resources>
