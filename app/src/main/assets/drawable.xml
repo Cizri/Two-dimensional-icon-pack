@@ -32,6 +32,16 @@
         name="王者荣耀"
     />
 
+    <item
+        drawable="hyrz0"
+        name="火影忍者"
+        />
+
+    <item
+        drawable="hyrz1"
+        name="火影忍者"
+        />
+
 
 
     <!--拥有启动类-->
@@ -3575,53 +3585,133 @@
         />
 
     <item
-        drawable="data"
-        name=""
+        drawable="rainbowfruit"
+        name="彩虹果"
+        />
+
+    <item
+        drawable="danboxq"
+        name="蛋播星球"
+        />
+
+    <item
+        drawable="musicdownload"
+        name="嘀嘀动漫"
+        />
+
+    <item
+        drawable="adocker_pro"
+        name="分身有术PRO"
+        />
+
+    <item
+        drawable="fennisi_kwgt"
+        name="芬尼斯_KWGT"
+        />
+
+    <item
+        drawable="fengxiangdongman"
+        name="粉象动漫"
+        />
+
+    <item
+        drawable="amywyk_guangying"
+        name="光影"
+        />
+
+    <item
+        drawable="zuoxiaozi_icon"
+        name="果子图标"
+        />
+
+    <item
+        drawable="huati_san"
+        name="葫芦侠3楼"
+        />
+
+    <item
+        drawable="tencent_kihan_hy"
+        name="火影忍者"
+        />
+
+    <item
+        drawable="liang_lcountdown"
+        name="计时器"
+        />
+
+    <item
+        drawable="kustom_jiyuanwuliao"
+        name="纪元物料"
+        />
+
+    <item
+        drawable="jy_for_kwgt"
+        name="堇雅 for kwgt"
+        />
+
+    <item
+        drawable="jd_insen"
+        name="京东任务小铺"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
         />
 
     <item
         drawable="data"
-        name=""
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
+    <item
+        drawable="data"
+        name="data"
         />
 
 

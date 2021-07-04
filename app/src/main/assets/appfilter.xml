@@ -2982,4 +2982,60 @@
     <item component="ComponentInfo{com.biquge.ebook.app/com.biquge.ebook.app.ui.activity.WelComeActivity}"
         drawable="biquge" />
 
+    <!-- 彩虹果 -->
+    <item component="ComponentInfo{com.rainbowfruit.iconpack/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="rainbowfruit" />
+
+    <!-- 蛋播星球 -->
+    <item component="ComponentInfo{com.danbo.dan_video/com.danbo.dan_video.MainActivity}"
+        drawable="danboxq" />
+
+    <!-- 嘀嘀动漫 -->
+    <item component="ComponentInfo{info.zzjdev.musicdownload/info.zzjdev.musicdownload.ati.sp1}"
+        drawable="musicdownload" />
+
+    <!-- 分身有术Pro -->
+    <item component="ComponentInfo{com.droi.adocker.pro/com.droi.adocker.ui.splash.SplashActivity}"
+        drawable="adocker_pro" />
+
+    <!-- 芬尼斯_KWGT -->
+    <item component="ComponentInfo{fns.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="fennisi_kwgt" />
+
+    <!-- 粉象动漫 -->
+    <item component="ComponentInfo{com.fengxiangdongman.app/cn.mahua.vod.ui.start.StartActivity}"
+        drawable="fengxiangdongman" />
+
+    <!-- 光影 -->
+    <item component="ComponentInfo{com.amywyk.icon/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="amywyk_guangying" />
+
+    <!-- 果子图标 -->
+    <item component="ComponentInfo{com.zuoxiaozi.zero/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="zuoxiaozi_icon" />
+
+    <!-- 葫芦侠3楼 -->
+    <item component="ComponentInfo{com.huati/com.huluxia.ui.splash.FloorSplashActivity}"
+        drawable="huati_san" />
+
+    <!-- 火影忍者 -->
+    <item component="ComponentInfo{com.tencent.KiHan/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}"
+        drawable="tencent_kihan_hy" />
+
+    <!-- 计时器 -->
+    <item component="ComponentInfo{liang.lollipop.lcountdown/liang.lollipop.lcountdown.activity.TimingListActivity}"
+        drawable="liang_lcountdown" />
+
+    <!-- 纪元物料 -->
+    <item component="ComponentInfo{jywl.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_jiyuanwuliao" />
+
+    <!-- 堇雅 for kwgt -->
+    <item component="ComponentInfo{jyxs.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="jy_for_kwgt" />
+
+    <!-- 京东任务小辅 -->
+    <item component="ComponentInfo{com.insen.jdactivityassistant/com.stardust.auojs.inrt.SplashActivity}"
+        drawable="jd_insen" />
+
 </resources>
