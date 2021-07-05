@@ -32,6 +32,16 @@
         name="王者荣耀"
     />
 
+    <item
+        drawable="hyrz0"
+        name="火影忍者"
+        />
+
+    <item
+        drawable="hyrz1"
+        name="火影忍者"
+        />
+
 
 
     <!--拥有启动类-->
@@ -3537,6 +3547,146 @@
     <item
         drawable="gg_tools_gojek"
         name="GG Tools 2020"
+        />
+
+    <item
+        drawable="konabess"
+        name="KonaBess"
+        />
+
+    <item
+        drawable="pure_icon_pack"
+        name="Pure Icon Pack"
+        />
+
+    <item
+        drawable="tap_show"
+        name="Tap 加速器"
+        />
+
+    <item
+        drawable="tft"
+        name="TFT"
+    />
+
+    <item
+        drawable="yiciyuan"
+        name="阿姨追剧"
+        />
+
+    <item
+        drawable="blizzard"
+        name="安全令"
+        />
+
+    <item
+        drawable="biquge"
+        name="笔趣阁"
+        />
+
+    <item
+        drawable="rainbowfruit"
+        name="彩虹果"
+        />
+
+    <item
+        drawable="danboxq"
+        name="蛋播星球"
+        />
+
+    <item
+        drawable="musicdownload"
+        name="嘀嘀动漫"
+        />
+
+    <item
+        drawable="adocker_pro"
+        name="分身有术PRO"
+        />
+
+    <item
+        drawable="fennisi_kwgt"
+        name="芬尼斯_KWGT"
+        />
+
+    <item
+        drawable="fengxiangdongman"
+        name="粉象动漫"
+        />
+
+    <item
+        drawable="amywyk_guangying"
+        name="光影"
+        />
+
+    <item
+        drawable="zuoxiaozi_icon"
+        name="果子图标"
+        />
+
+    <item
+        drawable="huati_san"
+        name="葫芦侠3楼"
+        />
+
+    <item
+        drawable="tencent_kihan_hy"
+        name="火影忍者"
+        />
+
+    <item
+        drawable="liang_lcountdown"
+        name="计时器"
+        />
+
+    <item
+        drawable="kustom_jiyuanwuliao"
+        name="纪元物料"
+        />
+
+    <item
+        drawable="jy_for_kwgt"
+        name="堇雅 for kwgt"
+        />
+
+    <item
+        drawable="jd_insen"
+        name="京东任务小铺"
+        />
+
+    <item
+        drawable="jd_jx"
+        name="京喜"
+        />
+
+    <item
+        drawable="shoujiduoduo"
+        name="铃声多多"
+        />
+
+    <item
+        drawable="kustom_meizu"
+        name="魅族小组件"
+        />
+
+    <item
+        drawable="mying_my"
+        name="幕影"
+        />
+
+    <item
+        drawable="qdccb_qdyh"
+        name="青岛银行"
+        />
+
+    <item
+        drawable="kustom_ggcj"
+        name="格格插件"
+        />
+
+    <item
+        drawable="kustom_mercury_kwgt"
+        name="水星Mercury_KWGT"
         />
 
     <item

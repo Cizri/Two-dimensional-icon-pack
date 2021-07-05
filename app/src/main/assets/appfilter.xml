@@ -3038,4 +3038,33 @@
     <item component="ComponentInfo{com.insen.jdactivityassistant/com.stardust.auojs.inrt.SplashActivity}"
         drawable="jd_insen" />
 
+    <!-- 京喜 -->
+    <item component="ComponentInfo{com.jd.pingou/com.jd.pingou.MainActivity}"
+        drawable="jd_jx" />
+
+    <!-- 铃声多多 -->
+    <item component="ComponentInfo{com.shoujiduoduo.ringtone/com.shoujiduoduo.ringtone.activity.WelcomeActivity}"
+        drawable="shoujiduoduo" />
+
+    <!-- 魅族小组件 -->
+    <item component="ComponentInfo{meizu.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_meizu" />
+
+    <!-- 幕影 -->
+    <item component="ComponentInfo{com.mying.me/com.mying.me.Activity.FirstActivity}"
+        drawable="mying_my" />
+
+    <!-- 青岛银行 -->
+    <item component="ComponentInfo{com.qdccb.bank/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="qdccb_qdyh" />
+
+    <!-- 拾格插件 -->
+    <item component="ComponentInfo{ge.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_ggcj" />
+
+    <!-- 水星Mercury_KWGT -->
+    <item component="ComponentInfo{niko.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_mercury_kwgt" />
+
+
 </resources>

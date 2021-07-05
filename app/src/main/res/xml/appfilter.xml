@@ -2954,7 +2954,117 @@
     <item component="ComponentInfo{com.gojek.galau.ggtools/com.gojek.galau.ggtools.MainActivity}"
         drawable="gg_tools_gojek" />
 
+    <!-- KonaBess -->
+    <item component="ComponentInfo{xzr.konabess/xzr.konabess.MainActivity}"
+        drawable="konabess" />
 
+    <!-- Pure Icon Pack -->
+    <item component="ComponentInfo{me.morirain.dev.iconpack.pure/me.morirain.dev.iconpack.pure.MainActivity}"
+        drawable="pure_icon_pack" />
+
+    <!-- Tap加速器 -->
+    <item component="ComponentInfo{com.xindong.rocket/com.xindong.rocket.activity.LaunchActivity}"
+        drawable="tap_show" />
+
+    <!-- TFT -->
+    <item component="ComponentInfo{com.riotgames.league.teamfighttactics/com.riotgames.leagueoflegends.RiotNativeActivity}"
+        drawable="tft" />
+
+    <!-- 阿姨追剧 -->
+    <item component="ComponentInfo{me.yiciyuan.app/cn.xiaoguikeji.video.MainActivity}"
+        drawable="yiciyuan" />
+
+    <!-- 安全令 -->
+    <item component="ComponentInfo{com.blizzard.bma.cn/com.blizzard.bma.ui.welcome.SplashActivity}"
+        drawable="blizzard" />
+
+    <!-- 笔趣阁 -->
+    <item component="ComponentInfo{com.biquge.ebook.app/com.biquge.ebook.app.ui.activity.WelComeActivity}"
+        drawable="biquge" />
+
+    <!-- 彩虹果 -->
+    <item component="ComponentInfo{com.rainbowfruit.iconpack/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="rainbowfruit" />
+
+    <!-- 蛋播星球 -->
+    <item component="ComponentInfo{com.danbo.dan_video/com.danbo.dan_video.MainActivity}"
+        drawable="danboxq" />
+
+    <!-- 嘀嘀动漫 -->
+    <item component="ComponentInfo{info.zzjdev.musicdownload/info.zzjdev.musicdownload.ati.sp1}"
+        drawable="musicdownload" />
+
+    <!-- 分身有术Pro -->
+    <item component="ComponentInfo{com.droi.adocker.pro/com.droi.adocker.ui.splash.SplashActivity}"
+        drawable="adocker_pro" />
+
+    <!-- 芬尼斯_KWGT -->
+    <item component="ComponentInfo{fns.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="fennisi_kwgt" />
+
+    <!-- 粉象动漫 -->
+    <item component="ComponentInfo{com.fengxiangdongman.app/cn.mahua.vod.ui.start.StartActivity}"
+        drawable="fengxiangdongman" />
+
+    <!-- 光影 -->
+    <item component="ComponentInfo{com.amywyk.icon/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="amywyk_guangying" />
+
+    <!-- 果子图标 -->
+    <item component="ComponentInfo{com.zuoxiaozi.zero/cn.ommiao.iconpacktemplate.MainActivity}"
+        drawable="zuoxiaozi_icon" />
+
+    <!-- 葫芦侠3楼 -->
+    <item component="ComponentInfo{com.huati/com.huluxia.ui.splash.FloorSplashActivity}"
+        drawable="huati_san" />
+
+    <!-- 火影忍者 -->
+    <item component="ComponentInfo{com.tencent.KiHan/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}"
+        drawable="tencent_kihan_hy" />
+
+    <!-- 计时器 -->
+    <item component="ComponentInfo{liang.lollipop.lcountdown/liang.lollipop.lcountdown.activity.TimingListActivity}"
+        drawable="liang_lcountdown" />
+
+    <!-- 纪元物料 -->
+    <item component="ComponentInfo{jywl.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_jiyuanwuliao" />
+
+    <!-- 堇雅 for kwgt -->
+    <item component="ComponentInfo{jyxs.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="jy_for_kwgt" />
+
+    <!-- 京东任务小辅 -->
+    <item component="ComponentInfo{com.insen.jdactivityassistant/com.stardust.auojs.inrt.SplashActivity}"
+        drawable="jd_insen" />
+
+    <!-- 京喜 -->
+    <item component="ComponentInfo{com.jd.pingou/com.jd.pingou.MainActivity}"
+        drawable="jd_jx" />
+
+    <!-- 铃声多多 -->
+    <item component="ComponentInfo{com.shoujiduoduo.ringtone/com.shoujiduoduo.ringtone.activity.WelcomeActivity}"
+        drawable="shoujiduoduo" />
+
+    <!-- 魅族小组件 -->
+    <item component="ComponentInfo{meizu.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_meizu" />
+
+    <!-- 幕影 -->
+    <item component="ComponentInfo{com.mying.me/com.mying.me.Activity.FirstActivity}"
+        drawable="mying_my" />
+
+    <!-- 青岛银行 -->
+    <item component="ComponentInfo{com.qdccb.bank/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="qdccb_qdyh" />
+
+    <!-- 拾格插件 -->
+    <item component="ComponentInfo{ge.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_ggcj" />
+
+    <!-- 水星Mercury_KWGT -->
+    <item component="ComponentInfo{niko.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="kustom_mercury_kwgt" />
 
 
 </resources>
