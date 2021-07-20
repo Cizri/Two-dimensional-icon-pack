@@ -3690,8 +3690,273 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="article_tangtoutiao"
+        name="汤头条"
+        />
+
+    <item
+        drawable="gbits_wendao"
+        name="问道"
+        />
+
+    <item
+        drawable="kusxns_kwgt"
+        name="西尼斯_KWGT"
+        />
+
+    <item
+        drawable="chaozh_xrkxsmh"
+        name="向日葵小说漫画"
+        />
+
+    <item
+        drawable="wallpaper_yqbz"
+        name="元气壁纸"
+        />
+
+    <item
+        drawable="zhentanys"
+        name="侦探影视"
+        />
+
+    <item
+        drawable="jianzhiku_kengbi"
+        name="众人帮"
+        />
+
+    <item
+        drawable="zy_icon"
+        name="重云 图标包"
+        />
+
+    <item
+        drawable="zzzhuanhz"
+        name="转转"
+        />
+
+    <item
+        drawable="dot_vpn"
+        name="Dot VPN"
+        />
+
+    <item
+        drawable="fifaguozujiayou"
+        name="FIFA足球世界"
+        />
+
+    <item
+        drawable="imod_pro"
+        name="IMOD PRO"
+        />
+
+    <item
+        drawable="kwgt"
+        name="KWGT"
+        />
+
+    <item
+        drawable="ram_cleanup"
+        name="RAM Cleanup"
+        />
+
+    <item
+        drawable="septmicon"
+        name="septmicon"
+        />
+
+    <item
+        drawable="tlicon"
+        name="TL 图标"
+        />
+
+    <item
+        drawable="haierxiyifu"
+        name="海狸洗衣"
+        />
+
+    <item
+        drawable="techjudu"
+        name="句读"
+        />
+
+    <item
+        drawable="hypmrfz"
+        name="明日方舟"
+        />
+
+    <item
+        drawable="tencentwemet"
+        name="腾讯会议"
+        />
+
+    <item
+        drawable="v2vpn"
+        name="V2VPN"
+        />
+
+    <item
+        drawable="yunchangguiqi"
+        name="鬼泣-巅峰之战"
+        />
+
+    <item
+        drawable="htinnshuazhu"
+        name="华住会"
+        />
+
+    <item
+        drawable="opposhequ"
+        name="OPPO 社区"
+        />
+
+    <item
+        drawable="alizhineng"
+        name="阿里智能"
+        />
+
+    <item
+        drawable="antutupc"
+        name="安兔兔评测"
+        />
+
+    <item
+        drawable="miuishoujiguanjia"
+        name="手机管家"
+        />
+
+    <item
+        drawable="miuiweather"
+        name="天气"
+        />
+
+    <item
+        drawable="miuiandfileexplorer"
+        name="文件管理"
+        />
+
+    <item
+        drawable="miui_providers"
+        name="下载管理"
+        />
+
+    <item
+        drawable="miuigallery"
+        name="相册"
+        />
+
+    <item
+        drawable="miuimaket"
+        name="应用商店"
+        />
+
+    <item
+        drawable="miui_compass"
+        name="指南针"
+        />
+
+    <item
+        drawable="thememanager"
+        name="主题壁纸"
+        />
+
+    <item
+        drawable="chimi"
+        name="ChiMI"
+        />
+
+    <item
+        drawable="miuihome"
+        name="MiuiHome"
+        />
+
+    <item
+        drawable="jzfxxposed"
+        name="假装分享Xposed"
+        />
+
+    <item
+        drawable="qifeivpn"
+        name="起飞VPN"
+        />
+
+    <item
+        drawable="teacheredu"
+        name="帅学宝"
+        />
+
+    <item
+        drawable="miui_gameing"
+        name="小米游戏中心"
+        />
+
+    <item
+        drawable="glgjingjizhang"
+        name="小象记账"
+        />
+
+    <item
+        drawable="call_recorder"
+        name="Call Recorder"
+        />
+
+    <item
+        drawable="ggdawanjia"
+        name="GG大玩家"
+        />
+
+    <item
+        drawable="wps_office_pro"
+        name="WPS Pro"
+        />
+
+    <item
+        drawable="netease_diwurenge"
+        name="第五人格"
+        />
+
+    <item
+        drawable="nxb_nv"
+        name="Nxb Nv"
+        />
+
+    <item
+        drawable="makeimageqincq"
+        name="创意氰壁纸"
+        />
+
+    <item
+        drawable="daysmatter"
+        name="倒数日"
+        />
+
+    <item
+        drawable="samsung_dialer"
+        name="电话"
+        />
+
+    <item
+        drawable="dianshitv"
+        name="电视直播极速TV"
+        />
+
+    <item
+        drawable="samsung_maill"
+        name="电子邮件"
+        />
+
+    <item
+        drawable="fotiaoqiang"
+        name="佛跳墙VPN"
+        />
+
+    <item
+        drawable="sagadsg_huadiezhibo"
+        name="花蝶直播"
+        />
+
+    <item
+        drawable="samsung_jsq"
+        name="计算器"
         />
 
     <item
@@ -3699,20 +3964,7 @@
         name="data"
         />
 
-    <item
-        drawable="data"
-        name="data"
-        />
 
-    <item
-        drawable="data"
-        name="data"
-        />
-
-    <item
-        drawable="data"
-        name="data"
-        />
 
 
 </resources>
