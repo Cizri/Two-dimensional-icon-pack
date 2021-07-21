@@ -3960,9 +3960,380 @@
         />
 
     <item
+        drawable="meijkk"
+        name="鲸看看"
+        />
+
+    <item
+        drawable="kwaiky"
+        name="快影"
+        />
+
+    <item
+        drawable="getlanternld"
+        name="蓝灯"
+        />
+
+    <item
+        drawable="samsungcontacts"
+        name="联系人"
+        />
+
+    <item
+        drawable="samsungbrowsser"
+        name="浏览器"
+        />
+
+    <item
+        drawable="samsungsecnote"
+        name="录音机"
+        />
+
+    <item
+        drawable="mjxqui"
+        name="美剧星球"
+        />
+
+    <item
+        drawable="peopledailychina"
+        name="人民日报"
+        />
+
+    <item
+        drawable="zhongduomeirrr"
+        name="人人视频"
+        />
+
+    <item
+        drawable="samsungcalendar"
+        name="日历"
+        />
+
+    <item
+        drawable="samsungnotes"
+        name="三星笔记"
+        />
+
+    <item
+        drawable="samsungshealth"
+        name="三星健康"
+        />
+
+    <item
+        drawable="samsungclock"
+        name="时钟"
+        />
+
+    <item
+        drawable="samsungfm"
+        name="收音机"
+        />
+
+    <item
+        drawable="samsungweather"
+        name="天气"
+        />
+
+    <item
+        drawable="calendarwnrlhl"
+        name="萬年曆日曆黃曆"
+        />
+
+    <item
+        drawable="netease_news"
+        name="网易新闻"
+        />
+
+    <item
+        drawable="qqqcloud"
+        name="微云网盘"
+        />
+
+    <item
+        drawable="samsungfiles"
+        name="我的文件"
+        />
+
+    <item
+        drawable="samsunggallery"
+        name="相册"
+        />
+
+    <item
+        drawable="samsungcamera"
+        name="相机"
+        />
+
+    <item
+        drawable="hkhk"
+        name="香港01"
+        />
+
+    <item
+        drawable="sunlogin"
+        name="向日葵远程控制"
+        />
+
+    <item
+        drawable="githubskyhc"
+        name="小磁力"
+        />
+
+    <item
+        drawable="threegene"
+        name="小豆苗"
+        />
+
+    <item
+        drawable="samsungerssing"
+        name="信息"
+        />
+
+    <item
+        drawable="samsungstore"
+        name="应用商店"
+        />
+
+    <item
+        drawable="samsungsmuiss"
+        name="智能管理器"
+        />
+
+    <item
+        drawable="samsungthemestore"
+        name="主题商店"
+        />
+
+    <item
+        drawable="iconpackzndtb"
+        name="做你的图标包"
+        />
+
+    <item
+        drawable="meeye"
+        name="Meeye"
+        />
+
+    <item
+        drawable="meeyo"
+        name="Meeyo"
+        />
+
+    <item
+        drawable="miui_hemea"
+        name="MIUI 主题工具"
+        />
+
+    <item
+        drawable="nova_launcher"
+        name="Nova Launcher"
+        />
+
+    <item
+        drawable="poppin"
+        name="Poppin"
+        />
+
+    <item
+        drawable="pornhub"
+        name="Pornhub"
+        />
+
+    <item
+        drawable="tencentqqzone"
+        name="QQ空间"
+        />
+
+    <item
+        drawable="samsung_pay"
+        name="Samsung Pay"
+        />
+
+    <item
+        drawable="uc_turbo"
+        name="UC Turbo"
+        />
+
+    <item
+        drawable="xvideos"
+        name="XVIDEOS"
+        />
+
+    <item
+        drawable="avgorange"
+        name="橙光"
+        />
+
+    <item
+        drawable="coderstoryhxbj"
+        name="核心破解"
+        />
+
+    <item
+        drawable="universalaccelerator"
+        name="万能加速器"
+        />
+
+    <item
+        drawable="zhaopinzl"
+        name="智联招聘"
+        />
+
+    <item
+        drawable="qianji_autojiz"
+        name="自动记账"
+        />
+
+    <item
+        drawable="pix_wallpapers"
+        name="Pix Wallpapers"
+        />
+
+    <item
+        drawable="pocket"
+        name="Pocket"
+        />
+
+    <item
+        drawable="teehub"
+        name="TeeHub"
+        />
+
+    <item
+        drawable="dashboardpp"
+        name="Dashboard"
+        />
+
+    <item
+        drawable="liuzhdevices"
+        name="设备信息"
+        />
+
+    <item
+        drawable="xbrowser"
+        name="X浏览器"
+        />
+
+    <item
+        drawable="metagamebox"
+        name="233乐园"
+        />
+
+    <item
+        drawable="gzpolice"
+        name="贵州公安"
+        />
+
+    <item
+        drawable="ncpssdorglib"
+        name="国家哲学科学文献中心"
+        />
+
+    <item
+        drawable="hibymusic"
+        name="海贝音乐"
+        />
+
+    <item
+        drawable="motorolalivehd"
+        name="互动壁纸"
+        />
+
+    <item
+        drawable="motorolaclubhdsq"
+        name="互动社区"
+        />
+
+    <item
+        drawable="motorolaclajsq"
+        name="计算器"
+        />
+
+    <item
+        drawable="sevenpluskpzg"
+        name="科普中国"
+        />
+
+    <item
+        drawable="motorolamenuyuy"
+        name="乐语音"
+        />
+
+    <item
+        drawable="neighbour"
+        name="邻里邻外"
+        />
+
+    <item
+        drawable="motorolaluyinj"
+        name="录音机"
+        />
+
+    <item
+        drawable="motorolagamegamode"
+        name="媒体中心"
+        />
+
+    <item
+        drawable="motorolashebeibangzu"
+        name="设备帮助"
+        />
+
+    <item
+        drawable="motoroladeskclock"
+        name="时钟"
+        />
+
+    <item
+        drawable="motorolaguard"
+        name="手机管家"
+        />
+
+    <item
+        drawable="sina_weibo_bai"
+        name="微博国际版"
+        />
+
+    <item
+        drawable="motorolatiyanzx"
+        name="体验中心"
+        />
+
+    <item
+        drawable="motorolafilemanager"
+        name="文件管理器去"
+        />
+
+    <item
+        drawable="motorolacamera"
+        name="相机"
+        />
+
+    <item
+        drawable="fenbisolar"
+        name="小猿搜题"
+        />
+
+    <item
+        drawable="motorolaappst"
+        name="应用中心"
+        />
+
+    <item
+        drawable="mihoteljishuoszk"
+        name="用Shizhuku激活"
+        />
+
+    <item
+        drawable="motorolcompass"
+        name="指南针"
+        />
+
+    <item
         drawable="data"
         name="data"
         />
+
 
 
 
