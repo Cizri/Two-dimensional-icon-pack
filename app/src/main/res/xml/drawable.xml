@@ -4330,6 +4330,151 @@
         />
 
     <item
+        drawable="baiduzuoyebang"
+        name="作业帮"
+        />
+
+    <item
+        drawable="ctid"
+        name="CTID"
+        />
+
+    <item
+        drawable="microsoft_excel"
+        name="Microsoft Excel"
+        />
+
+    <item
+        drawable="microsoft_powerpoint"
+        name="Microsoft PowerPoint"
+        />
+
+    <item
+        drawable="microsoft_word"
+        name="Microsoft Word"
+        />
+
+    <item
+        drawable="motorolamoto"
+        name="Moto"
+        />
+
+    <item
+        drawable="microsoftonenote"
+        name="Onenote"
+        />
+
+    <item
+        drawable="sim_motostk"
+        name="SIM 工具包"
+        />
+
+    <item
+        drawable="snapchat"
+        name="Snapchat"
+        />
+
+    <item
+        drawable="topys"
+        name="Topys"
+        />
+
+    <item
+        drawable="kchannel"
+        name="K频道"
+        />
+
+    <item
+        drawable="papers"
+        name="Papers"
+        />
+
+    <item
+        drawable="fenbijiauoyu"
+        name="粉笔教育"
+        />
+
+    <item
+        drawable="mymusicgeci"
+        name="歌词适配"
+        />
+
+    <item
+        drawable="govgersds"
+        name="个人所得税"
+        />
+
+    <item
+        drawable="flipboard"
+        name="红版报"
+        />
+
+    <item
+        drawable="tencentfanyijun"
+        name="腾讯翻译君"
+        />
+
+    <item
+        drawable="tencentedu"
+        name="腾讯课堂"
+        />
+
+    <item
+        drawable="yixiayouguo"
+        name="油果"
+        />
+
+    <item
+        drawable="cmdzsyh"
+        name="招商银行"
+        />
+
+    <item
+        drawable="neteasemooc"
+        name="中国大学MOOC"
+        />
+
+    <item
+        drawable="apkssr"
+        name="APKSSR"
+        />
+
+    <item
+        drawable="cimoc"
+        name="Cimoc"
+        />
+
+    <item
+        drawable="edifier_connect"
+        name="Edifier Connect"
+        />
+
+    <item
+        drawable="moon_fm"
+        name="Moon FM"
+        />
+
+    <item
+        drawable="vmos_pro"
+        name="VMOS Pro"
+        />
+
+    <item
+        drawable="xinigongjiao"
+        name="西宁智能公交"
+        />
+
+    <item
+        drawable="cpwxcpyd"
+        name="长配阅读"
+        />
+
+    <item
+        drawable="zidongdianji"
+        name="自动点击器"
+        />
+
+    <item
         drawable="data"
         name="data"
         />

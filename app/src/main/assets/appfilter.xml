@@ -652,6 +652,10 @@
     <item component="ComponentInfo{com.lakaka.suv/com.one.tomato.mvp.ui.start.view.SplashActivity}"
         drawable="lakaka_suv" />
 
+    <!-- 番茄社區 -->
+    <item component="ComponentInfo{com.broccoli.bh/com.one.tomato.mvp.ui.start.view.SplashActivity}"
+        drawable="lakaka_suv" />
+
     <!-- 工银融e联 -->
     <item component="ComponentInfo{com.icbc.im/com.icbc.im.SplashActivity}"
         drawable="icbc_im" />
@@ -766,6 +770,10 @@
 
     <!-- Unsplash -->
     <item component="ComponentInfo{org.chromium.webapk.af3a859b264855bfe_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}"
+        drawable="unsplash" />
+
+    <!-- Unsplash -->
+    <item component="ComponentInfo{org.chromium.webapk.abbefd5050acf2b75_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}"
         drawable="unsplash" />
 
     <!-- 爱美化 -->
@@ -1467,6 +1475,10 @@
 
     <!-- QQ音乐 -->
     <item component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}"
+        drawable="qqmusic" />
+
+    <!-- QQ音乐简洁版 -->
+    <item component="ComponentInfo{com.tencent.qqmusiclite/com.tencent.qqmusiclite.SplashActivity}"
         drawable="qqmusic" />
 
     <!-- Steam -->
@@ -3623,5 +3635,121 @@
     <!-- 指南针 -->
     <item component="ComponentInfo{com.motorola.cn.compass/com.motorola.cn.compass.CompassActivity}"
         drawable="motorolcompass" />
+
+    <!-- 作业帮 -->
+    <item component="ComponentInfo{com.baidu.homework/com.baidu.homework.activity.init.InitActivity}"
+        drawable="baiduzuoyebang" />
+
+    <!-- CTID -->
+    <item component="ComponentInfo{cn.anicert.ctid/cn.anicert.ctid.ui.activity.SplashActivity}"
+        drawable="ctid" />
+
+    <!-- Microsoft Excel -->
+    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="microsoft_excel" />
+
+    <!-- Microsoft PowerPoint -->
+    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="microsoft_powerpoint" />
+
+    <!-- Microsoft Word -->
+    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="microsoft_word" />
+
+    <!-- Moto -->
+    <item component="ComponentInfo{com.motorola.moto/com.motorola.assist.ui.screens.MainActivity}"
+        drawable="motorolamoto" />
+
+    <!-- OneNote -->
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
+        drawable="microsoftonenote" />
+
+    <!-- SIM 卡工具包 -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}"
+        drawable="sim_motostk" />
+
+    <!-- Snapchat -->
+    <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
+        drawable="snapchat" />
+
+    <!-- TOPYS -->
+    <item component="ComponentInfo{com.app.mind/io.dcloud.PandoraEntry}"
+        drawable="topys" />
+
+    <!-- K频道 -->
+    <item component="ComponentInfo{com.app.kchannel/com.app.kchannel.MainActivity}"
+        drawable="kchannel" />
+
+    <!-- Papers -->
+    <item component="ComponentInfo{org.evolutionx.papers/org.evolutionx.papers.MainActivity}"
+        drawable="papers" />
+
+    <!-- 粉笔教育 -->
+    <item component="ComponentInfo{com.fenbi.android.servant/com.fenbi.android.uni.activity.portal.WelcomeActivity}"
+        drawable="fenbijiauoyu" />
+
+    <!-- 歌词适配 -->
+    <item component="ComponentInfo{com.mylrc.mymusic/com.mylrc.mymusic.activity.logo}"
+        drawable="mymusicgeci" />
+
+    <!-- 个人所得税 -->
+    <item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}"
+        drawable="govgersds" />
+
+    <!-- 红板报 -->
+    <item component="ComponentInfo{flipboard.cn/flipboard.activities.LaunchActivityAlias}"
+        drawable="flipboard" />
+
+    <!-- 腾讯翻译君 -->
+    <item component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}"
+        drawable="tencentfanyijun" />
+
+    <!-- 腾讯课堂 -->
+    <item component="ComponentInfo{com.tencent.edu/com.tencent.edu.module.SplashActivity}"
+        drawable="tencentedu" />
+
+    <!-- 油果 -->
+    <item component="ComponentInfo{com.yixia.youguo/com.yixia.ytb.browser.WelcomeActivity}"
+        drawable="yixiayouguo" />
+
+    <!-- 招商银行 -->
+    <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}"
+        drawable="cmdzsyh" />
+
+    <!-- 中国大学MOOC -->
+    <item component="ComponentInfo{com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome}"
+        drawable="neteasemooc" />
+
+    <!-- APKSSR -->
+    <item component="ComponentInfo{com.dreamtee.apkfure/com.dreamtee.apksure.ui.activities.SplashActivity}"
+        drawable="apkssr" />
+
+    <!-- Cimoc -->
+    <item component="ComponentInfo{com.haleydu.cimoc/com.hiroshi.cimoc.ui.activity.MainActivity}"
+        drawable="cimoc" />
+
+    <!-- Edifier Connect -->
+    <item component="ComponentInfo{com.edifier.edifierconnect/com.edifier.edifierconnect.DefaultPageActivity}"
+        drawable="edifier_connect" />
+
+    <!-- Moon FM -->
+    <item component="ComponentInfo{fm.moon.app/com.icyarrow.haloradio.MainActivity}"
+        drawable="moon_fm" />
+
+    <!-- VMOS Pro -->
+    <item component="ComponentInfo{com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity}"
+        drawable="vmos_pro" />
+
+    <!-- 西宁智能公交 -->
+    <item component="ComponentInfo{com.ixiaoma.xiningAndroid0971/com.ixiaoma.xiaomaBus.ui.WelcomeActivity}"
+        drawable="xinigongjiao" />
+
+    <!-- 长佩阅读 -->
+    <item component="ComponentInfo{net.cpwxw.cpfiction/com.cpwx.reader.ui.activity.SplashActivity}"
+        drawable="cpwxcpyd" />
+
+    <!-- 自动点击器 -->
+    <item component="ComponentInfo{com.zidongdianji/com.autoclicker.clicker.ads.SplashActivity}"
+        drawable="zidongdianji>" />
 
 </resources>
