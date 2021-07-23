@@ -360,8 +360,16 @@
     <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}"
         drawable="baidu_netdisk" />
 
+    <!-- 百度网盘 -->
+    <item component="ComponentInfo{com.baidu.netdisk.samsung/com.baidu.netdisk.ui.DefaultMainActivity}"
+        drawable="baidu_netdisk" />
+
     <!-- 百度网盘联运版 -->
     <item component="ComponentInfo{com.baidu.netdisk.xiaomi.appunion/com.baidu.netdisk.ui.Navigate}"
+        drawable="baidu_netdisk" />
+
+    <!-- 百度网盘 -->
+    <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.SvipLauncherActivity}"
         drawable="baidu_netdisk" />
 
     <!-- 哔哩哔哩 -->
@@ -1455,6 +1463,10 @@
 
     <!-- 中国移动 -->
     <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.mc10086.cmcc.base.StartPageActivity}" 
+        drawable="mc10086mm" />
+
+    <!-- 广东移动智慧生活 -->
+    <item component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity}"
         drawable="mc10086mm" />
 
     <!-- AcFun -->
@@ -3751,5 +3763,77 @@
     <!-- 自动点击器 -->
     <item component="ComponentInfo{com.zidongdianji/com.autoclicker.clicker.ads.SplashActivity}"
         drawable="zidongdianji>" />
+
+    <!-- 19楼 -->
+    <item component="ComponentInfo{com.nineteenlou.nineteenlou/com.nineteenlou.nineteenlou.activity.LoadingActivity}"
+        drawable="nineteenlou" />
+
+    <!-- 3D 扫描仪 -->
+    <item component="ComponentInfo{com.samsung.android.scan3d/com.samsung.android.scan3d.main.Scan3DActivity}"
+        drawable="samsung_3d" />
+
+    <!-- 21财经 -->
+    <item component="ComponentInfo{com.twentyfirstcbh.epaper/com.twentyfirstcbh.epaper.activity.Start}"
+        drawable="epapercj" />
+
+    <!-- 彩虹多多 -->
+    <item component="ComponentInfo{com.ddyc.lotterytool/com.ddyc.lotterytool.module.startup.StartupActivity}"
+        drawable="lotterytool" />
+
+    <!-- 畅行花 -->
+    <item component="ComponentInfo{com.cxinxiliu.xxl/com.cxinxiliu.xxl.view.activity.LauncherActivity}"
+        drawable="cxinxiliu" />
+
+    <!-- 懂球帝 -->
+    <item component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}"
+        drawable="dongqiudi" />
+
+    <!-- 抖店 -->
+    <item component="ComponentInfo{com.ss.android.merchant/com.ss.android.merchant.SplashActivity}"
+        drawable="merchant" />
+
+    <!-- 广发银行 -->
+    <item component="ComponentInfo{com.cgbchina.xpt/com.alipay.mobile.quinox.LauncherAlias}"
+        drawable="cgbchina" />
+
+    <!-- 广州地铁 -->
+    <item component="ComponentInfo{com.infothinker.gzmetro/com.infothinker.gzmetro.ActivityAgent}"
+        drawable="infothinker" />
+
+    <!-- 国美易卡 -->
+    <item component="ComponentInfo{com.gomejr.icash/com.gomejr.icash.business.login.splash.SplashActivity}"
+        drawable="gomejrguokm" />
+
+    <!-- 贝壳找房 -->
+    <item component="ComponentInfo{com.lianjia.beike/com.lianjia.activity.MainActivity}"
+        drawable="lianjiabeike" />
+
+    <!-- 哔哩漫游 -->
+    <item component="ComponentInfo{me.iacn.biliroaming/me.iacn.biliroaming.MainActivityAlias}"
+        drawable="iacnbili" />
+
+    <!-- 超级应用程序 -->
+    <item component="ComponentInfo{com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity}"
+        drawable="operchaoji" />
+
+    <!-- 嘀嗒出行 -->
+    <item component="ComponentInfo{com.didapinche.booking/com.didapinche.booking.home.activity.StartActivity}"
+        drawable="didachux" />
+
+    <!-- 电视果 -->
+    <item component="ComponentInfo{tv.tvguo.androidphone/module.home.activity.SplashActivity}"
+        drawable="tvdianshiguo" />
+
+    <!-- 动卡空间 -->
+    <item component="ComponentInfo{com.citiccard.mobilebank/com.citiccard.mobilebankapp.LaunchActivity}"
+        drawable="citiccard" />
+
+    <!-- 对话框取消 -->
+    <item component="ComponentInfo{com.mhook.dialog/com.mhook.dialog.alias}"
+        drawable="mhook" />
+
+    <!-- 蜂鸟采耳 -->
+    <item component="ComponentInfo{com.molink.john.hummingbird/com.molink.john.hummingbird.activity.SplashActivity}"
+        drawable="hummingbird" />
 
 </resources>
