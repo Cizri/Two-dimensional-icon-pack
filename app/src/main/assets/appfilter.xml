@@ -2324,6 +2324,10 @@
     <item component="ComponentInfo{com.lingan.yunqi/com.meiyou.pregnancy.ui.welcome.WelcomeActivity}"
         drawable="lingan" />
 
+    <!-- 宝宝记 -->
+    <item component="ComponentInfo{com.lingan.yunqi/com.meiyou.pregnancy.ui.main.MainActivity}"
+        drawable="lingan" />
+
     <!-- 拨打电话 -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
         drawable="dialer" />
@@ -3835,5 +3839,33 @@
     <!-- 蜂鸟采耳 -->
     <item component="ComponentInfo{com.molink.john.hummingbird/com.molink.john.hummingbird.activity.SplashActivity}"
         drawable="hummingbird" />
+
+    <!-- 便签 -->
+    <item component="ComponentInfo{com.motorola.cn.notes/com.motorola.cn.notes.MainActivity}"
+        drawable="motorola_notes" />
+
+    <!-- 彩云天气Pro -->
+    <item component="ComponentInfo{com.nowcasting.huawei/com.nowcasting.activity.SplashActivity}"
+        drawable="nowcasting" />
+
+    <!-- 隐秘参数 -->
+    <item component="ComponentInfo{com.x1y9.probe/com.x1y9.app.MainActivity}"
+        drawable="ymcans" />
+
+    <!-- A1 SD Bench -->
+    <item component="ComponentInfo{com.a1dev.sdbench/com.a1dev.sdbench.HomeActivity}"
+        drawable="a1_sd_bench" />
+
+    <!-- Ampere -->
+    <item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}"
+        drawable="ampere" />
+
+    <!-- AndroBench -->
+    <item component="ComponentInfo{com.andromeda.androbench2/com.andromeda.androbench2.main}"
+        drawable="androbench" />
+
+    <!-- uyou 搜索 -->
+    <item component="ComponentInfo{cn.org.uyou.browser/net.fusionapp.core.WelcomeActivity}"
+        drawable="uyou_sou" />
 
 </resources>

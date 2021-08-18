@@ -4555,6 +4555,41 @@
         />
 
     <item
+        drawable="motorola_notes"
+        name="便签"
+        />
+
+    <item
+        drawable="nowcasting"
+        name="财运天气Pro"
+        />
+
+    <item
+        drawable="ymcans"
+        name="隐秘参数"
+        />
+
+    <item
+        drawable="a1_sd_bench"
+        name="A1_SD_Bench"
+        />
+
+    <item
+        drawable="ampere"
+        name="Ampere"
+        />
+
+    <item
+        drawable="androbench"
+        name="AndroBench"
+        />
+
+    <item
+        drawable="uyou_sou"
+        name="UYOU 搜索"
+        />
+
+    <item
         drawable="data"
         name="data"
         />
