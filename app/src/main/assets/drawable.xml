@@ -4590,6 +4590,106 @@
         />
 
     <item
+        drawable="subwaysurf_kiloo"
+        name="地铁跑酷"
+        />
+
+    <item
+        drawable="gushiwen"
+        name="古诗文网"
+        />
+
+    <item
+        drawable="zhengjijian"
+        name="简"
+        />
+
+    <item
+        drawable="chenuptjianbi"
+        name="简笔"
+        />
+
+    <item
+        drawable="lanzouyun"
+        name="蓝奏云"
+        />
+
+    <item
+        drawable="mandu"
+        name="慢读"
+        />
+
+    <item
+        drawable="shenzhenboyu"
+        name="泊寓"
+        />
+
+    <item
+        drawable="tencent_wework"
+        name="企业微信"
+        />
+
+    <item
+        drawable="inrsig_saomiao"
+        name="扫描全能王"
+        />
+
+    <item
+        drawable="chenupt_riji"
+        name="一本日记"
+        />
+
+    <item
+        drawable="ycyylbtsng"
+        name="隐藏应用列表"
+        />
+
+    <item
+        drawable="tsngyongylbjc"
+        name="应用列表检测器"
+        />
+
+    <item
+        drawable="startzhishiku"
+        name="知识库"
+        />
+
+    <item
+        drawable="danmaku_bilitv"
+        name="bilibili"
+        />
+
+    <item
+        drawable="emby"
+        name="Emby"
+        />
+
+    <item
+        drawable="libchecker"
+        name="LiBchecker"
+        />
+
+    <item
+        drawable="sai"
+        name="SAI"
+        />
+
+    <item
+        drawable="scene_vtools"
+        name="Scene4C"
+        />
+
+    <item
+        drawable="sd_maid"
+        name="SD Miad"
+        />
+
+    <item
+        drawable="sd_maid_pro"
+        name="SD Maid 专业版"
+        />
+
+    <item
         drawable="data"
         name="data"
         />

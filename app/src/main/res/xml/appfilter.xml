@@ -380,6 +380,10 @@
     <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
         drawable="danmaku_bilitv" />
 
+    <!-- bilibili -->
+    <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
+        drawable="danmaku_bilitv" />
+
     <!-- 壁纸 -->
     <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}"
         drawable="googel_wallpaper" />
@@ -442,6 +446,10 @@
 
     <!-- 相机 -->
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="google_camera" />
+
+    <!-- 相机 -->
+    <item component="ComponentInfo{com.google.android.GoogleCamera.Urnyx/com.android.camera.CameraLauncher}"
         drawable="google_camera" />
 
     <!-- Camera -->
@@ -530,6 +538,10 @@
 
     <!-- Scene4 -->
     <item component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activities.ActivityMain}"
+        drawable="scene_vtools" />
+
+    <!-- Scene4C -->
+    <item component="ComponentInfo{com.omarea.scene/com.omarea.vtools.activities.ActivityMain}"
         drawable="scene_vtools" />
 
     <!-- Shizuku -->
@@ -995,6 +1007,10 @@
 
     <!-- Thanox -->
     <item component="ComponentInfo{github.tornaco.android.thanos/github.tornaco.android.thanos.main.NavActivity}"
+        drawable="thanox_pro" />
+
+    <!-- Thanox Pro -->
+    <item component="ComponentInfo{github.tornaco.android.thanos.pro/github.tornaco.android.thanos.app.MainActivity}"
         drawable="thanox_pro" />
 
     <!-- 米家 -->
@@ -3012,6 +3028,10 @@
     <item component="ComponentInfo{com.surcumference.fingerprintpay/com.yyxx.wechatfp.Main}"
         drawable="surcumference" />
 
+    <!-- 指纹支付 -->
+    <item component="ComponentInfo{com.surcumference.fingerprintpay/com.surcumference.fingerprint.Main}"
+        drawable="surcumference" />
+
     <!-- ASGuardUI -->
     <item component="ComponentInfo{com.huze.ASGuardUI/com.projectkr.shell.SplashActivity}"
         drawable="asguardui" />
@@ -3867,5 +3887,78 @@
     <!-- uyou 搜索 -->
     <item component="ComponentInfo{cn.org.uyou.browser/net.fusionapp.core.WelcomeActivity}"
         drawable="uyou_sou" />
+
+    <!-- 地铁跑酷 -->
+    <item component="ComponentInfo{com.kiloo.subwaysurf/com.ms.sdk.plugin.explain.ExplainActivity}"
+        drawable="subwaysurf_kiloo" />
+
+    <!-- 古诗文网 -->
+    <item component="ComponentInfo{org.gushiwen.gushiwen/org.gushiwen.gushiwen.WelcomeActivity}"
+        drawable="gushiwen" />
+
+    <!-- 简 -->
+    <item component="ComponentInfo{com.zhengji.playes/com.free.player.ui.other.SplashActivity}"
+        drawable="zhengjijian" />
+
+    <!-- 简笔 -->
+    <item component="ComponentInfo{com.chenupt.text/com.chenupt.text.SplashActivity}"
+        drawable="chenuptjianbi" />
+
+    <!-- 蓝云 -->
+    <item component="ComponentInfo{com.tooyoung.lanzou/com.androlua.Welcome}"
+        drawable="lanzouyun" />
+
+    <!-- 慢读 -->
+    <item component="ComponentInfo{pro.mandu.enjoyreading/pro.mandu.enjoyreading.MainActivity}"
+        drawable="mandu" />
+
+    <!-- 泊寓 -->
+    <item component="ComponentInfo{com.shenzhen.vanke.vankeyi/com.shenzhen.vanke.xiaobo.module.permission.PermissionSplashActivity}"
+        drawable="shenzhenboyu" />
+
+    <!-- 企业微信 -->
+    <item component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity}"
+        drawable="tencent_wework" />
+
+    <!-- 扫描全能王 -->
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}"
+        drawable="inrsig_saomiao" />
+
+    <!-- 一本日记 -->
+    <item component="ComponentInfo{com.chenupt.day/com.chenupt.day.launch.SplashActivity11}"
+        drawable="chenupt_riji" />
+
+    <!-- 隐藏应用列表 -->
+    <item component="ComponentInfo{com.tsng.hidemyapplist/com.tsng.hidemyapplist.MainActivityLauncher}"
+        drawable="ycyylbtsng" />
+
+    <!-- 应用列表检测器 -->
+    <item component="ComponentInfo{com.tsng.applistdetector/com.tsng.applistdetector.ui.MainActivity}"
+        drawable="tsngyongylbjc" />
+
+    <!-- 知识库 -->
+    <item component="ComponentInfo{com.start.now/com.start.now.modules.main.MainActivity}"
+        drawable="startzhishiku" />
+
+    <!-- Emby -->
+    <item component="ComponentInfo{com.mb.android/com.mb.android.MainActivity}"
+        drawable="emby" />
+
+    <!-- LibChecker -->
+    <item component="ComponentInfo{com.absinthe.libchecker/com.absinthe.libchecker.ui.main.MainActivity}"
+        drawable="libchecker" />
+
+    <!-- SAI -->
+    <item component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}"
+        drawable="sai" />
+
+    <!-- SD Maid -->
+    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}"
+        drawable="sd_maid" />
+
+    <!-- SD Maid 专业版 -->
+    <item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}"
+        drawable="sd_maid_pro" />
+
 
 </resources>
