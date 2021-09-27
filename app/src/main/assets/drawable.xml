@@ -1556,11 +1556,6 @@
         />
 
     <item
-        drawable="jinjiangshucheng"
-        name="晋江小说阅读"
-        />
-
-    <item
         drawable="juapp_runtime"
         name="聚应用"
         />
@@ -4687,6 +4682,141 @@
     <item
         drawable="sd_maid_pro"
         name="SD Maid 专业版"
+        />
+
+    <item
+        drawable="jinjiangshucheng"
+        name="晋江小说阅读"
+        />
+
+    <item
+        drawable="guo_gecilieshou"
+        name="歌词猎手"
+        />
+
+    <item
+        drawable="supercell_katnc"
+        name="卡通农场"
+        />
+
+    <item
+        drawable="kuailian_vpn"
+        name="快连 VPN"
+        />
+
+    <item
+        drawable="kunpo_bitexiaodui"
+        name="比特小队"
+        />
+
+    <item
+        drawable="guwendao_gwd"
+        name="古文岛"
+        />
+
+    <item
+        drawable="supercell_hszz"
+        name="皇室战争"
+        />
+
+    <item
+        drawable="zxxk_jzjxt"
+        name="精准教学通"
+        />
+
+    <item
+        drawable="tideswing_kehua"
+        name="可话"
+        />
+
+    <item
+        drawable="kuaiduizuoye"
+        name="快对"
+        />
+
+    <item
+        drawable="aligames_kuangye9"
+        name="狂野飙车9：竞速传奇"
+        />
+
+    <item
+        drawable="oasisfeng_lvs"
+        name="绿色守护"
+        />
+
+    <item
+        drawable="cmcc_mifumusic"
+        name="咪咕音乐"
+        />
+
+    <item
+        drawable="qishuier"
+        name="汽水儿"
+        />
+
+    <item
+        drawable="quanmingshudu"
+        name="全民数独"
+        />
+
+    <item
+        drawable="motorola_calendar"
+        name="日历"
+        />
+
+    <item
+        drawable="taobao_tebie"
+        name="淘特"
+        />
+
+    <item
+        drawable="tencent_gamestick"
+        name="腾讯游戏管家"
+        />
+
+    <item
+        drawable="motorola_gallery"
+        name="图库"
+        />
+
+    <item
+        drawable="wzry_3"
+        name="王者荣耀前瞻版"
+        />
+
+    <item
+        drawable="motorola_health"
+        name="心率"
+        />
+
+    <item
+        drawable="netease_maila"
+        name="网易邮箱大师"
+        />
+
+    <item
+        drawable="hydrogen"
+        name="Hydrogen"
+        />
+
+    <item
+        drawable="kiwix"
+        name="Kiwix"
+        />
+
+    <item
+        drawable="mysplash"
+        name="Mysplash"
+        />
+
+    <itemRESO
+        drawable="reso"
+        name="Mysplash"
+        />
+
+    <item
+        drawable="shortcut"
+        name="ShortCut"
         />
 
     <item

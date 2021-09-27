@@ -1252,6 +1252,10 @@
     <item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}"
         drawable="clash" />
 
+        <!-- Clash -->
+    <item component="ComponentInfo{com.github.kr328.clash.foss/com.github.kr328.clash.MainActivity}" 
+        drawable="clash" />
+
     <!-- Dashboard -->
     <item component="ComponentInfo{com.Clash.Dashboard/com.androlua.Welcome}"
         drawable="dashboard" />
@@ -3960,5 +3964,112 @@
     <item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}"
         drawable="sd_maid_pro" />
 
+    <!-- 晋江小说阅读 -->
+    <item component="ComponentInfo{com.jjwxc.reader/com.example.jinjiangshucheng.AppPrivacyActivity}"
+        drawable="jinjiangshucheng" />
 
+    <!-- 歌词猎手 -->
+    <item component="ComponentInfo{moe.guo.lyricsjaeger/moe.guo.lyricsjaeger.ui.activities.MainActivity}"
+        drawable="guo_gecilieshou" />
+
+    <!-- 卡通农场 -->
+    <item component="ComponentInfo{com.supercell.hayday/com.supercell.hayday.GameApp}"
+        drawable="supercell_katnc" />
+
+    <!-- 快连 VPN -->
+    <item component="ComponentInfo{world.letsgo.booster.android.pro/world.letsgo.booster.android.pages.guide.GuideActivity}"
+        drawable="kuailian_vpn" />
+
+    <!-- 比特小队 -->
+    <item component="ComponentInfo{com.kunpo.bit/org.cocos2dx.lua.AppActivity}" 
+        drawable="kunpo_bitexiaodui" />
+
+    <!-- 古文岛 -->
+    <item component="ComponentInfo{com.guwendao.gwd/com.guwendao.gwd.WelcomeActivity}" 
+        drawable="guwendao_gwd" />
+
+    <!-- 皇室战争 -->
+    <item component="ComponentInfo{com.tencent.tmgp.supercell.clashroyale/com.supercell.titan.tencent.GameAppTencent}" 
+        drawable="supercell_hszz" />
+
+    <!-- 精准教学通 -->
+    <item component="ComponentInfo{com.zxxk.hzhomework.students/com.zxxk.hzhomework.students.view.main.LauncherActivity}" 
+        drawable="zxxk_jzjxt" />
+
+    <!-- 可话 -->
+    <item component="ComponentInfo{com.app.tideswing/com.app.tideswing.ui.SplashActivity}" 
+        drawable="tideswing_kehua" />
+
+    <!-- 快对 -->
+    <item component="ComponentInfo{com.kuaiduizuoye.scan/com.kuaiduizuoye.scan.activity.init.InitActivity}" 
+        drawable="kuaiduizuoye" />
+
+    <!-- 狂野飙车9：竞速传奇 -->
+    <item component="ComponentInfo{com.aligames.kuang.kybc/com.gameloft.android.ANMP.GloftA9CN.MainActivity}" 
+        drawable="aligames_kuangye9" />
+
+    <!-- 绿色守护 -->
+    <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" 
+        drawable="oasisfeng_lvs" />
+
+    <!-- 咪咕音乐 -->
+    <item component="ComponentInfo{cmccwm.mobilemusic/cmccwm.mobilemusic.ui.base.SplashActivity}" 
+          drawable="cmcc_mifumusic" />
+
+    <!-- 汽水儿 -->
+    <item component="ComponentInfo{com.qishuier.soda/com.qishuier.soda.ui.splash.SplashActivity}" 
+        drawable="qishuier" />
+
+    <!-- 全民数独 -->
+    <item component="ComponentInfo{cn.flytalk.shudu/cn.flytalk.shudu.SplashActivity}" 
+        drawable="quanmingshudu" />
+
+    <!-- 日历 -->
+    <item component="ComponentInfo{com.motorola.cn.calendar/com.motorola.cn.calendar.AllInOneActivity}" 
+        drawable="motorola_calendar" />
+
+    <!-- 淘特 -->
+    <item component="ComponentInfo{com.taobao.litetao/com.taobao.ltao.maintab.MainFrameActivity}" 
+        drawable="taobao_tebie" />
+
+    <!-- 腾讯游戏管家 -->
+    <item component="ComponentInfo{com.tencent.gamestick/com.tencent.server.fore.QuickLoadActivity}" 
+        drawable="tencent_gamestick" />
+
+    <!-- 图库 -->
+    <item component="ComponentInfo{com.motorola.cn.gallery/com.motorola.cn.gallery.app.GalleryActivity}" 
+        drawable="motorola_gallery" />
+
+    <!-- 王者荣耀前瞻版 -->
+    <item component="ComponentInfo{com.tencent.tmgp.sgamece/com.tencent.tmgp.sgamece.SGameActivity}" 
+        drawable="wzry_3" />
+
+    <!-- 网易邮箱大师 -->
+    <item component="ComponentInfo{com.netease.mail/com.netease.mobimail.SplashActivity}" 
+        drawable="netease_maila" />
+
+    <!-- 心率 -->
+    <item component="ComponentInfo{com.lenovotab.health/com.lenovotab.health.SplashActivity}" 
+        drawable="motorola_health" />
+
+    <!-- Hydrogen -->
+    <item component="ComponentInfo{com.zhihu.hydrogen/com.androlua.Welcome}" 
+        drawable="hydrogen" />
+
+    <!-- Kiwix -->
+    <item component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.main.KiwixMainActivity}" 
+        drawable="kiwix" />
+
+    <!-- Mysplash -->
+    <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}" 
+        drawable="mysplash" />
+
+    <!-- RESO -->
+    <item component="ComponentInfo{com.sgamece.shell/com.sgamece.shell.SplashActivity}" 
+        drawable="reso" />
+
+    <!-- ShortCut -->
+    <item component="ComponentInfo{net.ankio.shortcut/net.ankio.shortcut.MainActivity}" 
+        drawable="shortcut" />
+        
 </resources>
