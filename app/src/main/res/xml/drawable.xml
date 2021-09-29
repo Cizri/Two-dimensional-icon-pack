@@ -4819,6 +4819,91 @@
         name="ShortCut"
         />
 
+    <items
+        drawable="dna_launcher"
+        name="DNA桌面"
+        />
+
+    <item
+        drawable="maill139"
+        name="139邮箱"
+        />
+
+    <item
+        drawable="balance6gameguanj"
+        name="51公积金"
+        />
+
+    <item
+        drawable="wubatongc"
+        name="58同城"
+        />
+
+    <item
+        drawable="huawei_hwfairy"
+        name="爱肌肤"
+        />
+
+    <item
+        drawable="apowersoft_mickou"
+        name="微软抠图"
+        />
+
+    <item
+        drawable="baidu_wenku"
+        name="百度文库"
+        />
+
+    <item
+        drawable="mshiedu_pakex"
+        name="帕克学"
+        />
+
+    <item
+        drawable="dowo_huiben"
+        name="伴鱼绘本"
+        />
+
+    <item
+        drawable="woyue_bianfu"
+        name="蝙蝠"
+        />
+
+    <item
+        drawable="baidu_buguaike"
+        name="不挂科"
+        />
+
+    <item
+        drawable="chinese_iflytek"
+        name="畅言普通话"
+        />
+
+    <item
+        drawable="mlg_cpgsd"
+        name="车牌归属地查询"
+        />
+
+    <item
+        drawable="chongfafalv"
+        name="崇法法律咨询"
+        />
+
+    <item
+        drawable="goodsrc_dianxb"
+        name="电销宝"
+        />
+
+    <item
+        drawable="eastmoney_df"
+        name="东方财富"
+        />
+
+    <item
+        drawable="data"
+        name="data"
+        />
+
     <item
         drawable="data"
         name="data"
