@@ -1,0 +1,8 @@
+v265
+优化了部分问题图标
+新增：斑朵、诚通网盘、首汽约车、使命召唤手游、双十电影、GlTools、System UI Tuner、Unknown、Wallpaper Engine、上帝模式、FV文件浏览器、Oblatum 图标、百度汉语、国家数字图书馆、椒盐音乐、模拟地铁、屏幕使用时间、权限狗
+新增moto系：教程、moto便利贴、乐云、moto便利贴、U健康
+添加新启动类：开心消消乐、手机天猫、搜图神器、谷歌LMC相机、moto应用中心、bilibili、Mahisk、古诗文网
+v266
+新增：Battery Guru、im多开助手、QQ输入法、TapPlay游戏助手、360浏览器、宝宝巴士、企鹅电竞、英雄联盟手游、掌上英雄联盟、OPPO商城、360Connect、反馈工具箱、河马、即录剪辑、酷狗概念版、手机搬家、我的一加、Ios 12 Icon Pack、NBA 2K20、
+添加新启动类：Microsoft Office、讯飞输入法、Microsoft Office、保卫萝卜3、开心消消乐、MX播放器、Color便签、Telegram、铁路12306、Oneplus文件管理器、Coloros邮件、SIM卡工具包

@@ -3,17 +3,18 @@
     <!-- App 名称 -->
     <string name="app_name">二维图标包</string>
     <!-- 首页标题信息 -->
-    <string name="home_title">二维图标包</string>
+    <string name="home_title">Hello！</string>
 
     <!-- APP主页底部的外链列表，可添加<item/>标签来动态修改，示例： -->
     <!-- [放在项目/main/res/drawable目录里的图标名称]$$[标题]$$[描述]$$[链接] -->
     <!-- 格式有误可能导致闪退 如需跳转到应用商店，请将链接替换成rate -->
     <string-array name="links">
 
-        <item>ack_1$$为图标包评分$$如果喜欢这个图标包请给个 ★★★★★$$rate</item>
-        <item>ack_2$$二维图标包历史版本$$下载密码:5u55$$https://wws.lanzous.com/b01zwpafe</item>
-        <item>ack_2$$重绘前的版本覆盖800+$$下载密码:6qp1$$https://wws.lanzous.com/b01ztl0mj</item>
+        <item>ack_1$$为图标包评分$$来吐槽我吧！$$rate</item>
+        <item>ack_2$$以往的旧版本$$下载密码:5u55$$https://wws.lanzoui.com/b01zwpafe</item>
         <item>ack_3$$Unsplash$$查看优秀的壁纸$$https://unsplash.com/collections/52406431/doubanjiang</item>
+        <item>nova_launcher$$Nova Launcher$$使用Nova Launcher$$https://www.coolapk.com/apk/com.teslacoilsw.launcher</item>
+        <item>dna_launcher$$DNA 桌面$$使用DNA桌面$$https://www.coolapk.com/apk/com.atlantis.launcher</item>
 
     </string-array>
 
@@ -38,7 +39,7 @@
 <!--    <string name="alipay_code" translatable="false">tsx083367dghotyahi8lq2e</string>    -->
 
     <!-- 更新了啥？或者关于信息 -->
-    <string name="update_content" translatable="false">• 申请适配请使用最新的版本\n\n• 请发送更多的适配邮件\n\n• 图标问题请到酷安反馈 </string>
+    <string name="update_content" translatable="false">•企鹅3296297359\n\n• 申请适配请尽量使用最新的版本\n\n• 不会用邮件的用户可以将适配包发到企鹅\n\n• 图标问题请酷安|邮件|QQ反馈我会优先处理 </string>
 
     <!-- 如果不想展示个人主页的banner图请将内容改为：false，替换图片请到drawable目录替换掉图片文件 -->
     <!--<string name="banner_background">true</string>-->
@@ -56,7 +57,7 @@
 
     <string name="download">下载</string>
     <string name="cancel">取消</string>
-    <string name="close">关闭</string>
+    <string name="close">已阅</string>
     <string name="cool">酷</string>
 
     <string name="send_mail_please">请发送Mail，邮箱账号已复制到剪贴板</string>

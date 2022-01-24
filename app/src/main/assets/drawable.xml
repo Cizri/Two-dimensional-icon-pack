@@ -18,6 +18,26 @@
     />
 
     <item
+        drawable="liubianxing"
+        name="六边形"
+    />
+
+    <item
+        drawable="liubianxing2"
+        name="六边形"
+    />
+
+    <item
+        drawable="liubianxing1"
+        name="六边形"
+    />
+
+    <item
+        drawable="liubianxing3"
+        name="六边形"
+    />
+
+    <item
         drawable="wzry_1"
         name="王者荣耀"
     />
@@ -1558,11 +1578,6 @@
     <item
         drawable="juapp_runtime"
         name="聚应用"
-        />
-
-    <item
-        drawable="oneplus_card"
-        name="卡券"
         />
 
     <item
@@ -4900,8 +4915,243 @@
         />
 
     <item
-        drawable="data"
-        name="data"
+        drawable="madness_bduo"
+        name="斑朵"
+        />
+
+    <item
+        drawable="ctfile_ct"
+        name="诚通网盘"
+        />
+
+    <item
+        drawable="tencent_codm"
+        name="使命召唤手游"
+        />
+
+    <item
+        drawable="ichinait_shouqi"
+        name="首汽约车"
+        />
+
+    <item
+        drawable="shuangshi"
+        name="双十影视"
+        />
+
+    <item
+        drawable="gltools"
+        name="GlTools"
+        />
+
+    <item
+        drawable="system_ui_tuner"
+        name="System UI Tuner"
+        />
+
+    <item
+        drawable="unknown"
+        name="Unknown"
+        />
+
+    <item
+        drawable="wallpaper_engine"
+        name="Wallpaper Engine"
+        />
+
+    <item
+        drawable="motorola_desk"
+        name="教程"
+        />
+
+    <item
+        drawable="liuchuanzhisqj_cloud"
+        name="乐云"
+        />
+
+    <item
+        drawable="viewblocker"
+        name="上帝模式"
+        />
+
+    <item
+        drawable="motorola_gamemode"
+        name="游戏"
+        />
+
+    <item
+        drawable="moto_stylus"
+        name="Moto 便利贴"
+        />
+
+    <item
+        drawable="oblatum_icon"
+        name="Oblatum 图标"
+        />
+
+    <item
+        drawable="zui_u"
+        name="U健康"
+        />
+
+    <item
+        drawable="baidu_dict"
+        name="百度汉语"
+        />
+
+    <item
+        drawable="zmzx_college"
+        name="大学搜题酱"
+        />
+
+    <item
+        drawable="cnki_nlc"
+        name="国家数字图书馆"
+        />
+
+    <item
+        drawable="music_salt"
+        name="椒盐音乐"
+        />
+
+    <item
+        drawable="eastwest"
+        name="模拟地铁"
+        />
+
+    <item
+        drawable="w_appusage"
+        name="屏幕使用时间"
+        />
+
+    <item
+        drawable="webin_dog"
+        name="权限狗"
+        />
+
+    <item
+        drawable="battery_guru"
+        name="Battery Guru"
+        />
+
+    <item
+        drawable="imdpy_imdk"
+        name="IM多开助手"
+        />
+
+    <item
+        drawable="tencent_qqpinyin"
+        name="QQ输入法"
+        />
+
+    <item
+        drawable="tapplaygamemod"
+        name="TapPlay游戏助手"
+        />
+
+    <item
+        drawable="qihoobr360"
+        name="360浏览器"
+        />
+
+    <item
+        drawable="sinyeebusbaby"
+        name="宝宝巴士"
+        />
+
+    <item
+        drawable="ssautodong"
+        name="懂车帝"
+        />
+
+    <item
+        drawable="smart_hsgj"
+        name="衡水掌上公交"
+        />
+
+    <item
+        drawable="tencent_qgame"
+        name="企鹅电竞"
+        />
+
+    <item
+        drawable="tencent_lolm"
+        name="英雄联盟手游"
+        />
+
+    <item
+        drawable="tencent_qtl"
+        name="掌上英雄联盟"
+        />
+
+    <item
+        drawable="oppo_storesc"
+        name="OPPO 商城"
+        />
+
+    <item
+        drawable="connectvpn"
+        name="360Connect"
+        />
+
+    <item
+        drawable="oplus_logkit"
+        name="反馈工具箱"
+        />
+
+    <item
+        drawable="hoofei_hema"
+        name="河马"
+        />
+
+    <item
+        drawable="cloros_vide"
+        name="即录剪辑"
+        />
+
+    <item
+        drawable="kugou_gainian"
+        name="酷狗概念版"
+        />
+
+    <item
+        drawable="oplus_backu"
+        name="手机搬家"
+        />
+
+    <item
+        drawable="achievo"
+        name="唯品会"
+        />
+
+    <item
+        drawable="oneplus_myone"
+        name="我的一加"
+        />
+
+    <item
+        drawable="xiaomi_wifi"
+        name="小米WiFi"
+        />
+
+    <item
+        drawable="oneplus_bbbs"
+        name="一加社区"
+        />
+
+    <item
+        drawable="color_cloud"
+        name="云服务"
+        />
+
+    <item
+        drawable="ios_12_icon_pack"
+        name="Ios 12 Icon Pack"
+        />
+
+    <item
+        drawable="nba_2k20"
+        name="NBA 2K20"
         />
 
     <item
