@@ -6,3 +6,6 @@ v265
 v266
 新增：Battery Guru、im多开助手、QQ输入法、TapPlay游戏助手、360浏览器、宝宝巴士、企鹅电竞、英雄联盟手游、掌上英雄联盟、OPPO商城、360Connect、反馈工具箱、河马、即录剪辑、酷狗概念版、手机搬家、我的一加、Ios 12 Icon Pack、NBA 2K20、
 添加新启动类：Microsoft Office、讯飞输入法、Microsoft Office、保卫萝卜3、开心消消乐、MX播放器、Color便签、Telegram、铁路12306、Oneplus文件管理器、Coloros邮件、SIM卡工具包
+v267
+新增：3DMark、安兔兔评测3D、衡水人设、今日水印相机、墨迹天气、欧加双开助手、皮皮虾助手、时间、数据备份、小组件盒子、CPU监视器、GFX Tool、M浏览器、PikPak
+添加新启动类：Cellular-Z
