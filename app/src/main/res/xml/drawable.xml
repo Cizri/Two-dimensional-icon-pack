@@ -5155,6 +5155,76 @@
         />
 
     <item
+        drawable="markddd"
+        name="3DMark"
+        />
+
+    <item
+        drawable="antutubemark"
+        name="安兔兔评测3D"
+        />
+
+    <item
+        drawable="neuqsoft_hsrens"
+        name="衡水人社"
+        />
+
+    <item
+        drawable="xhey_day"
+        name="今日水印相机"
+        />
+
+    <item
+        drawable="moji_weather"
+        name="墨迹天气"
+        />
+
+    <item
+        drawable="daxiaamuoujia"
+        name="欧加双开助手"
+        />
+
+    <item
+        drawable="ppxhelp"
+        name="皮皮虾助手"
+        />
+
+    <item
+        drawable="time_float"
+        name="时间"
+        />
+
+    <item
+        drawable="databackup"
+        name="数据备份"
+        />
+
+    <item
+        drawable="iftech"
+        name="小组件盒子"
+        />
+
+    <item
+        drawable="waterdaaan"
+        name="CPU监视器"
+        />
+
+    <item
+        drawable="gfx_tool"
+        name="GFX Tool"
+        />
+
+    <item
+        drawable="mbrowser"
+        name="M浏览器"
+        />
+
+    <item
+        drawable="pikpak"
+        name="PikPak"
+        />
+
+    <item
         drawable="data"
         name="data"
         />

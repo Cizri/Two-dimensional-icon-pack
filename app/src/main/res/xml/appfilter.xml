@@ -2648,6 +2648,10 @@
     <item component="ComponentInfo{make.more.r2d2.cellular_z/make.more.r2d2.cellular_z.activity.SplashActivity}"
         drawable="cellular_z" />
 
+    <!-- Cellular-Z -->
+    <item component="ComponentInfo{make.more.r2d2.cellular_z/make.more.r2d2.cellular_z.activity.SplashGMActivity}"
+        drawable="cellular_z" />
+
     <!-- circle 小圆图标包 -->
     <item component="ComponentInfo{com.modetime.circle/com.modetime.circle.MainActivity}"
         drawable="circle_yqq" />
@@ -4412,6 +4416,64 @@
     <!-- NBA 2K20 -->
     <item component="ComponentInfo{com.t2ksports.nba2k20and/com.t2ksports.nba2k20and.gameactivity}"
         drawable="nba_2k20" />
+
+    <!-- 3DMark -->
+    <item component="ComponentInfo{com.futuremark.dmandroid.application/com.futuremark.flamenco.ui.splash.SplashPageActivity}"
+        drawable="markddd" />
+
+    <!-- 安兔兔评测3D -->
+    <item component="ComponentInfo{com.antutu.benchmark.full/com.example.benchmark.full.MainActivity}"
+        drawable="antutubemark" />
+
+    <!-- 衡水人社 -->
+    <item component="ComponentInfo{com.neusoft.simobile.ggfw.hs/com.neuqsoft.ggfwandroid_global.view.activity.main.SplashActivity}"
+        drawable="neuqsoft_hsrens" />
+
+    <!-- 今日水印相机 -->
+    <item component="ComponentInfo{com.xhey.xcamera/com.xhey.xcamera.ui.camera.SplashActivity}"
+        drawable="xhey_day" />
+
+    <!-- 墨迹天气 -->
+    <item component="ComponentInfo{com.moji.mjweather/com.moji.mjweather.LauncherActivity}"
+        drawable="moji_weather" />
+
+    <!-- 欧加双开助手 -->
+    <item component="ComponentInfo{com.daxiaamu.oneplus.dualapp/com.e4a.runtime.android.mainActivity}"
+        drawable="daxiaamuoujia" />
+
+    <!-- 皮皮虾助手 -->
+    <item component="ComponentInfo{com.akari.ppx/com.akari.ppx.ui.MainActivityAlias}"
+        drawable="ppxhelp" />
+
+    <!-- 时间 -->
+    <item component="ComponentInfo{com.kimger.floattime/com.kimger.floattime.SplashActivity}"
+        drawable="time_float" />
+
+    <!-- 数据备份 -->
+    <item component="ComponentInfo{com.xayah.databackup/com.xayah.databackup.MainActivity}"
+        drawable="databackup" />
+
+    <!-- 小组件盒子 -->
+    <item component="ComponentInfo{io.iftech.android.box/io.iftech.android.box.main.HomeActivity}"
+        drawable="iftech" />
+
+    <!-- CPU监视器 -->
+    <item component="ComponentInfo{com.waterdaaan.cpufloat/com.waterdaaan.cpufloat.MainActivity}"
+        drawable="waterdaaan" />
+
+    <!-- GFX Tool -->
+    <item component="ComponentInfo{eu.tsoml.graphicssettings/eu.tsoml.graphicssettings.MainActivity}"
+        drawable="gfx_tool" />
+
+    <!-- M浏览器 -->
+    <item component="ComponentInfo{cn.nr19.mbrowser/cn.mbrowser.activity.BrowserActivity}"
+        drawable="mbrowser" />
+
+    <!-- PikPak -->
+    <item component="ComponentInfo{com.pikcloud.pikpak/com.xunlei.xcloud.opensdk.ui.SplashActivity}"
+        drawable="pikpak" />
+
+
 
 
 </resources>
